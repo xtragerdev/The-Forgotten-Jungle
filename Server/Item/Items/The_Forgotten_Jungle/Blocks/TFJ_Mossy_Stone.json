@@ -1,0 +1,61 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.TFJ_Mossy_Stone.name",
+    "Description": "server.items.TFJ_Mossy_Stone.description"
+  },
+  "ItemLevel": 1,
+  "MaxStack": 100,
+  "Icon": "Icons/ItemsGenerated/TFJ_Mossy_Stone.png",
+  "Categories": [
+    "TheForgottenJungle.Blocks"
+  ],
+  "PlayerAnimationsId": "Block",
+  "Set": "TFJ_Mossy_Stone",
+  "Recipe": {
+    "Input": [
+      {
+        "ResourceTypeId": "Rock_Stone",
+        "Quantity": 1
+      }
+    ],
+    "BenchRequirement": [],
+    "OutputQuantity": 1,
+    "TimeSeconds": 0
+  },
+  "BlockType": {
+    "Material": "Solid",
+    "DrawType": "Cube",
+    "Group": "Stone",
+    "Flags": {},
+    "Gathering": {
+      "Breaking": {
+        "GatherType": "Rocks"
+      }
+    },
+    "BlockParticleSetId": "Stone",
+    "Textures": [
+      {
+        "Sides": "BlockTextures/TFJ_Mossy_Stone.png",
+        "UpDown": "BlockTextures/TFJ_Mossy_Stone.png",
+        "Weight": 1
+      }
+    ],
+    "ParticleColor": "#6d8f62",
+    "BlockSoundSetId": "Stone"
+  },
+  "ResourceTypes": [
+    {
+      "Id": "TFJ_Mossy_Stone"
+    }
+  ],
+  "Tags": {
+    "Type": [
+      "Stone"
+    ],
+    "Family": [
+      "Forgotten"
+    ]
+  },
+  "ItemSoundSetId": "ISS_Blocks_Stone",
+  "Quality": "Common"
+}

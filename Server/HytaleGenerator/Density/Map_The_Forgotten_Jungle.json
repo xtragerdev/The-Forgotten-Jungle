@@ -1,0 +1,76 @@
+{
+  "$Title": "[ROOT] The Forgotten Jungle Biome Map",
+  "Type": "Exported",
+  "ExportAs": "Forgotten-Jungle-Biome-Map",
+  "SingleInstance": true,
+  "Skip": false,
+  "Inputs": [
+    {
+      "Type": "YOverride",
+      "Skip": false,
+      "Value": 0,
+      "Inputs": [
+        {
+          "Type": "Cache",
+          "Skip": false,
+          "Capacity": 3,
+          "Inputs": [
+            {
+              "Type": "Clamp",
+              "Skip": false,
+              "WallA": -1,
+              "WallB": 1,
+              "Inputs": [
+                {
+                  "Type": "Sum",
+                  "Skip": false,
+                  "Inputs": [
+                    {
+                      "Type": "Normalizer",
+                      "Skip": false,
+                      "FromMin": -1,
+                      "FromMax": 1,
+                      "ToMin": -0.82,
+                      "ToMax": 0.82,
+                      "Inputs": [
+                        {
+                          "Type": "SimplexNoise2D",
+                          "Skip": false,
+                          "Lacunarity": 2,
+                          "Persistence": 0.5,
+                          "Octaves": 4,
+                          "Scale": 520,
+                          "Seed": "Forgotten-Biome-A"
+                        }
+                      ]
+                    },
+                    {
+                      "Type": "Normalizer",
+                      "Skip": false,
+                      "FromMin": -1,
+                      "FromMax": 1,
+                      "ToMin": -0.24,
+                      "ToMax": 0.24,
+                      "Inputs": [
+                        {
+                          "Type": "SimplexNoise2D",
+                          "Skip": false,
+                          "Lacunarity": 2.5,
+                          "Persistence": 0.45,
+                          "Octaves": 3,
+                          "Scale": 150,
+                          "Seed": "Forgotten-Biome-Detail"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "$WorkspaceID": "HytaleGenerator - Density"
+}

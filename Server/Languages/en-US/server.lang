@@ -1,0 +1,671 @@
+blocks.TFJ_Bone_Block=Forgotten Bone Block
+blocks.TFJ_Bone_Block.description=<color is="#dfeeb2">Weathered dinosaur bone used in fossil props.</color>
+blocks.TFJ_Bone_Block.name=Forgotten Bone Block
+blocks.TFJ_Bone_Spear=Forgotten Bone Spear
+blocks.TFJ_Bone_Spear.description=<color is="#dfeeb2">A balanced spear carved from old saurian bone and lashed with jungle vine.</color>
+blocks.TFJ_Bone_Spear.name=Forgotten Bone Spear
+blocks.TFJ_Canopy_Leaves=Forgotten Canopy Leaves
+blocks.TFJ_Canopy_Leaves.description=<color is="#dfeeb2">Thick layered leaves from giant jungle crowns.</color>
+blocks.TFJ_Canopy_Leaves.name=Forgotten Canopy Leaves
+blocks.TFJ_Giant_Fern=Giant Forgotten Fern
+blocks.TFJ_Giant_Fern.description=<color is="#dfeeb2">A huge fern for dense ground detail.</color>
+blocks.TFJ_Giant_Fern.name=Giant Forgotten Fern
+blocks.TFJ_Hanging_Vines=Forgotten Hanging Vines
+blocks.TFJ_Hanging_Vines.description=<color is="#dfeeb2">Long vines that drape from ancient branches.</color>
+blocks.TFJ_Hanging_Vines.name=Forgotten Hanging Vines
+blocks.TFJ_Hunter_Bow=Canopy Hunter Bow
+blocks.TFJ_Hunter_Bow.description=<color is="#dfeeb2">A short bow wrapped in titanwood bark, made for quiet canopy routes.</color>
+blocks.TFJ_Hunter_Bow.name=Canopy Hunter Bow
+blocks.TFJ_Jungle_Grass=The Forgotten Jungle Grass
+blocks.TFJ_Jungle_Grass.description=<color is="#dfeeb2">Dense damp ground from the prehistoric canopy.</color>
+blocks.TFJ_Jungle_Grass.name=The Forgotten Jungle Grass
+blocks.TFJ_Jungle_Portal=The Forgotten Jungle Portal
+blocks.TFJ_Jungle_Portal.description=<color is="#dfeeb2">A managed portal tuned to the prehistoric canopy.</color>
+blocks.TFJ_Jungle_Portal.name=The Forgotten Jungle Portal
+blocks.TFJ_Return_Portal=Forgotten Jungle Return Portal
+blocks.TFJ_Return_Portal.description=<color is="#dfeeb2">A managed return portal that carries explorers back from the canopy.</color>
+blocks.TFJ_Return_Portal.name=Forgotten Jungle Return Portal
+blocks.TFJ_Leaf_Litter=Forgotten Leaf Litter
+blocks.TFJ_Leaf_Litter.description=<color is="#dfeeb2">A low carpet of dead jungle leaves.</color>
+blocks.TFJ_Leaf_Litter.name=Forgotten Leaf Litter
+blocks.TFJ_Mossy_Stone=Forgotten Mossy Stone
+blocks.TFJ_Mossy_Stone.description=<color is="#dfeeb2">Moss-covered stone from old jungle routes.</color>
+blocks.TFJ_Mossy_Stone.name=Forgotten Mossy Stone
+blocks.TFJ_Mud=Forgotten Mud
+blocks.TFJ_Mud.description=<color is="#dfeeb2">Dark mud packed with roots and old leaf litter.</color>
+blocks.TFJ_Mud.name=Forgotten Mud
+blocks.TFJ_Raptor_Claws=Raptor Claw Daggers
+blocks.TFJ_Raptor_Claws.description=<color is="#dfeeb2">Twin claw daggers designed for fast strikes through dense undergrowth.</color>
+blocks.TFJ_Raptor_Claws.name=Raptor Claw Daggers
+blocks.TFJ_Raptor_Egg_Amber=Amber Raptor Egg
+blocks.TFJ_Raptor_Egg_Amber.description=<color is="#dfeeb2">An incubating raptor egg. Breeding line: Yellow + Red.</color>
+blocks.TFJ_Raptor_Egg_Amber.name=Amber Raptor Egg
+blocks.TFJ_Raptor_Egg_Azure=Azure Raptor Egg
+blocks.TFJ_Raptor_Egg_Azure.description=<color is="#dfeeb2">An incubating raptor egg. Breeding line: Blue + Cyan.</color>
+blocks.TFJ_Raptor_Egg_Azure.name=Azure Raptor Egg
+blocks.TFJ_Raptor_Egg_Black=Black Raptor Egg
+blocks.TFJ_Raptor_Egg_Black.description=<color is="#dfeeb2">An incubating raptor egg. Breeding line: Red + Blue.</color>
+blocks.TFJ_Raptor_Egg_Black.name=Black Raptor Egg
+blocks.TFJ_Raptor_Egg_Blue=Blue Raptor Egg
+blocks.TFJ_Raptor_Egg_Blue.description=<color is="#dfeeb2">A starter raptor egg made from a vanilla egg, a bonding treat, and a matching crystal.</color>
+blocks.TFJ_Raptor_Egg_Blue.name=Blue Raptor Egg
+blocks.TFJ_Raptor_Egg_Crimson=Crimson Raptor Egg
+blocks.TFJ_Raptor_Egg_Crimson.description=<color is="#dfeeb2">An incubating raptor egg. Breeding line: Red + Black.</color>
+blocks.TFJ_Raptor_Egg_Crimson.name=Crimson Raptor Egg
+blocks.TFJ_Raptor_Egg_Cyan=Cyan Raptor Egg
+blocks.TFJ_Raptor_Egg_Cyan.description=<color is="#dfeeb2">A starter raptor egg made from a vanilla egg, a bonding treat, and a matching crystal.</color>
+blocks.TFJ_Raptor_Egg_Cyan.name=Cyan Raptor Egg
+blocks.TFJ_Raptor_Egg_Emerald=Emerald Raptor Egg
+blocks.TFJ_Raptor_Egg_Emerald.description=<color is="#dfeeb2">An incubating raptor egg. Breeding line: Green + Blue.</color>
+blocks.TFJ_Raptor_Egg_Emerald.name=Emerald Raptor Egg
+blocks.TFJ_Raptor_Egg_Gold=Gold Raptor Egg
+blocks.TFJ_Raptor_Egg_Gold.description=<color is="#dfeeb2">An incubating raptor egg. Breeding line: White + Cyan.</color>
+blocks.TFJ_Raptor_Egg_Gold.name=Gold Raptor Egg
+blocks.TFJ_Raptor_Egg_Green=Green Raptor Egg
+blocks.TFJ_Raptor_Egg_Green.description=<color is="#dfeeb2">A starter raptor egg made from a vanilla egg, a bonding treat, and a matching crystal.</color>
+blocks.TFJ_Raptor_Egg_Green.name=Green Raptor Egg
+blocks.TFJ_Raptor_Egg_Ivory=Ivory Raptor Egg
+blocks.TFJ_Raptor_Egg_Ivory.description=<color is="#dfeeb2">An incubating raptor egg. Breeding line: White + Yellow.</color>
+blocks.TFJ_Raptor_Egg_Ivory.name=Ivory Raptor Egg
+blocks.TFJ_Raptor_Egg_Jade=Jade Raptor Egg
+blocks.TFJ_Raptor_Egg_Jade.description=<color is="#dfeeb2">An incubating raptor egg. Breeding line: Green + Cyan.</color>
+blocks.TFJ_Raptor_Egg_Jade.name=Jade Raptor Egg
+blocks.TFJ_Raptor_Egg_Red=Red Raptor Egg
+blocks.TFJ_Raptor_Egg_Red.description=<color is="#dfeeb2">A starter raptor egg made from a vanilla egg, a bonding treat, and a matching crystal.</color>
+blocks.TFJ_Raptor_Egg_Red.name=Red Raptor Egg
+blocks.TFJ_Raptor_Egg_Rose=Rose Raptor Egg
+blocks.TFJ_Raptor_Egg_Rose.description=<color is="#dfeeb2">An incubating raptor egg. Breeding line: Red + White.</color>
+blocks.TFJ_Raptor_Egg_Rose.name=Rose Raptor Egg
+blocks.TFJ_Raptor_Egg_Violet=Violet Raptor Egg
+blocks.TFJ_Raptor_Egg_Violet.description=<color is="#dfeeb2">An incubating raptor egg. Breeding line: Red + Cyan.</color>
+blocks.TFJ_Raptor_Egg_Violet.name=Violet Raptor Egg
+blocks.TFJ_Raptor_Egg_White=White Raptor Egg
+blocks.TFJ_Raptor_Egg_White.description=<color is="#dfeeb2">A starter raptor egg made from a vanilla egg, a bonding treat, and a matching crystal.</color>
+blocks.TFJ_Raptor_Egg_White.name=White Raptor Egg
+blocks.TFJ_Raptor_Egg_Yellow=Yellow Raptor Egg
+blocks.TFJ_Raptor_Egg_Yellow.description=<color is="#dfeeb2">A starter raptor egg made from a vanilla egg, a bonding treat, and a matching crystal.</color>
+blocks.TFJ_Raptor_Egg_Yellow.name=Yellow Raptor Egg
+blocks.TFJ_Raptor_Growth_Morsel=Raptor Growth Morsel
+blocks.TFJ_Raptor_Growth_Morsel.description=<color is="#dfeeb2">A dense bone-and-corn morsel that young raptors will chase and eat.</color>
+blocks.TFJ_Raptor_Growth_Morsel.name=Raptor Growth Morsel
+blocks.TFJ_Raptor_Tooth=Raptor Tooth
+blocks.TFJ_Raptor_Tooth.description=<color is="#dfeeb2">A sharp fossil tooth used as a field trophy.</color>
+blocks.TFJ_Raptor_Tooth.name=Raptor Tooth
+blocks.TFJ_Raptor_Treat=Raptor Bonding Treat
+blocks.TFJ_Raptor_Treat.description=<color is="#dfeeb2">A rich meat, egg, and corn lure used to bond breeding raptors.</color>
+blocks.TFJ_Raptor_Treat.name=Raptor Bonding Treat
+blocks.TFJ_Rooted_Dirt=Forgotten Rooted Dirt
+blocks.TFJ_Rooted_Dirt.description=<color is="#dfeeb2">Ancient soil braided with titanwood roots.</color>
+blocks.TFJ_Rooted_Dirt.name=Forgotten Rooted Dirt
+blocks.TFJ_Roots=Forgotten Roots
+blocks.TFJ_Roots.description=<color is="#dfeeb2">Raised roots for natural jungle routes.</color>
+blocks.TFJ_Roots.name=Forgotten Roots
+blocks.TFJ_Titanwood_Log=Titanwood Log
+blocks.TFJ_Titanwood_Log.description=<color is="#dfeeb2">A massive jungle trunk used for landmarks and bridges.</color>
+blocks.TFJ_Titanwood_Log.name=Titanwood Log
+blocks.TFJ_Titanwood_Planks=Titanwood Planks
+blocks.TFJ_Titanwood_Planks.description=<color is="#dfeeb2">Heavy planks cut for explorer platforms.</color>
+blocks.TFJ_Titanwood_Planks.name=Titanwood Planks
+item.TFJ_Bone_Block=Forgotten Bone Block
+item.TFJ_Bone_Block.description=<color is="#dfeeb2">Weathered dinosaur bone used in fossil props.</color>
+item.TFJ_Bone_Block.name=Forgotten Bone Block
+item.TFJ_Bone_Spear=Forgotten Bone Spear
+item.TFJ_Bone_Spear.description=<color is="#dfeeb2">A balanced spear carved from old saurian bone and lashed with jungle vine.</color>
+item.TFJ_Bone_Spear.name=Forgotten Bone Spear
+item.TFJ_Canopy_Leaves=Forgotten Canopy Leaves
+item.TFJ_Canopy_Leaves.description=<color is="#dfeeb2">Thick layered leaves from giant jungle crowns.</color>
+item.TFJ_Canopy_Leaves.name=Forgotten Canopy Leaves
+item.TFJ_Giant_Fern=Giant Forgotten Fern
+item.TFJ_Giant_Fern.description=<color is="#dfeeb2">A huge fern for dense ground detail.</color>
+item.TFJ_Giant_Fern.name=Giant Forgotten Fern
+item.TFJ_Hanging_Vines=Forgotten Hanging Vines
+item.TFJ_Hanging_Vines.description=<color is="#dfeeb2">Long vines that drape from ancient branches.</color>
+item.TFJ_Hanging_Vines.name=Forgotten Hanging Vines
+item.TFJ_Hunter_Bow=Canopy Hunter Bow
+item.TFJ_Hunter_Bow.description=<color is="#dfeeb2">A short bow wrapped in titanwood bark, made for quiet canopy routes.</color>
+item.TFJ_Hunter_Bow.name=Canopy Hunter Bow
+item.TFJ_Jungle_Grass=The Forgotten Jungle Grass
+item.TFJ_Jungle_Grass.description=<color is="#dfeeb2">Dense damp ground from the prehistoric canopy.</color>
+item.TFJ_Jungle_Grass.name=The Forgotten Jungle Grass
+item.TFJ_Jungle_Portal=The Forgotten Jungle Portal
+item.TFJ_Jungle_Portal.description=<color is="#dfeeb2">A managed portal tuned to the prehistoric canopy.</color>
+item.TFJ_Jungle_Portal.name=The Forgotten Jungle Portal
+item.TFJ_Return_Portal=Forgotten Jungle Return Portal
+item.TFJ_Return_Portal.description=<color is="#dfeeb2">A managed return portal that carries explorers back from the canopy.</color>
+item.TFJ_Return_Portal.name=Forgotten Jungle Return Portal
+item.TFJ_Leaf_Litter=Forgotten Leaf Litter
+item.TFJ_Leaf_Litter.description=<color is="#dfeeb2">A low carpet of dead jungle leaves.</color>
+item.TFJ_Leaf_Litter.name=Forgotten Leaf Litter
+item.TFJ_Mossy_Stone=Forgotten Mossy Stone
+item.TFJ_Mossy_Stone.description=<color is="#dfeeb2">Moss-covered stone from old jungle routes.</color>
+item.TFJ_Mossy_Stone.name=Forgotten Mossy Stone
+item.TFJ_Mud=Forgotten Mud
+item.TFJ_Mud.description=<color is="#dfeeb2">Dark mud packed with roots and old leaf litter.</color>
+item.TFJ_Mud.name=Forgotten Mud
+item.TFJ_Raptor_Claws=Raptor Claw Daggers
+item.TFJ_Raptor_Claws.description=<color is="#dfeeb2">Twin claw daggers designed for fast strikes through dense undergrowth.</color>
+item.TFJ_Raptor_Claws.name=Raptor Claw Daggers
+item.TFJ_Raptor_Egg_Amber=Amber Raptor Egg
+item.TFJ_Raptor_Egg_Amber.description=<color is="#dfeeb2">An incubating raptor egg. Breeding line: Yellow + Red.</color>
+item.TFJ_Raptor_Egg_Amber.name=Amber Raptor Egg
+item.TFJ_Raptor_Egg_Azure=Azure Raptor Egg
+item.TFJ_Raptor_Egg_Azure.description=<color is="#dfeeb2">An incubating raptor egg. Breeding line: Blue + Cyan.</color>
+item.TFJ_Raptor_Egg_Azure.name=Azure Raptor Egg
+item.TFJ_Raptor_Egg_Black=Black Raptor Egg
+item.TFJ_Raptor_Egg_Black.description=<color is="#dfeeb2">An incubating raptor egg. Breeding line: Red + Blue.</color>
+item.TFJ_Raptor_Egg_Black.name=Black Raptor Egg
+item.TFJ_Raptor_Egg_Blue=Blue Raptor Egg
+item.TFJ_Raptor_Egg_Blue.description=<color is="#dfeeb2">A starter raptor egg made from a vanilla egg, a bonding treat, and a matching crystal.</color>
+item.TFJ_Raptor_Egg_Blue.name=Blue Raptor Egg
+item.TFJ_Raptor_Egg_Crimson=Crimson Raptor Egg
+item.TFJ_Raptor_Egg_Crimson.description=<color is="#dfeeb2">An incubating raptor egg. Breeding line: Red + Black.</color>
+item.TFJ_Raptor_Egg_Crimson.name=Crimson Raptor Egg
+item.TFJ_Raptor_Egg_Cyan=Cyan Raptor Egg
+item.TFJ_Raptor_Egg_Cyan.description=<color is="#dfeeb2">A starter raptor egg made from a vanilla egg, a bonding treat, and a matching crystal.</color>
+item.TFJ_Raptor_Egg_Cyan.name=Cyan Raptor Egg
+item.TFJ_Raptor_Egg_Emerald=Emerald Raptor Egg
+item.TFJ_Raptor_Egg_Emerald.description=<color is="#dfeeb2">An incubating raptor egg. Breeding line: Green + Blue.</color>
+item.TFJ_Raptor_Egg_Emerald.name=Emerald Raptor Egg
+item.TFJ_Raptor_Egg_Gold=Gold Raptor Egg
+item.TFJ_Raptor_Egg_Gold.description=<color is="#dfeeb2">An incubating raptor egg. Breeding line: White + Cyan.</color>
+item.TFJ_Raptor_Egg_Gold.name=Gold Raptor Egg
+item.TFJ_Raptor_Egg_Green=Green Raptor Egg
+item.TFJ_Raptor_Egg_Green.description=<color is="#dfeeb2">A starter raptor egg made from a vanilla egg, a bonding treat, and a matching crystal.</color>
+item.TFJ_Raptor_Egg_Green.name=Green Raptor Egg
+item.TFJ_Raptor_Egg_Ivory=Ivory Raptor Egg
+item.TFJ_Raptor_Egg_Ivory.description=<color is="#dfeeb2">An incubating raptor egg. Breeding line: White + Yellow.</color>
+item.TFJ_Raptor_Egg_Ivory.name=Ivory Raptor Egg
+item.TFJ_Raptor_Egg_Jade=Jade Raptor Egg
+item.TFJ_Raptor_Egg_Jade.description=<color is="#dfeeb2">An incubating raptor egg. Breeding line: Green + Cyan.</color>
+item.TFJ_Raptor_Egg_Jade.name=Jade Raptor Egg
+item.TFJ_Raptor_Egg_Red=Red Raptor Egg
+item.TFJ_Raptor_Egg_Red.description=<color is="#dfeeb2">A starter raptor egg made from a vanilla egg, a bonding treat, and a matching crystal.</color>
+item.TFJ_Raptor_Egg_Red.name=Red Raptor Egg
+item.TFJ_Raptor_Egg_Rose=Rose Raptor Egg
+item.TFJ_Raptor_Egg_Rose.description=<color is="#dfeeb2">An incubating raptor egg. Breeding line: Red + White.</color>
+item.TFJ_Raptor_Egg_Rose.name=Rose Raptor Egg
+item.TFJ_Raptor_Egg_Violet=Violet Raptor Egg
+item.TFJ_Raptor_Egg_Violet.description=<color is="#dfeeb2">An incubating raptor egg. Breeding line: Red + Cyan.</color>
+item.TFJ_Raptor_Egg_Violet.name=Violet Raptor Egg
+item.TFJ_Raptor_Egg_White=White Raptor Egg
+item.TFJ_Raptor_Egg_White.description=<color is="#dfeeb2">A starter raptor egg made from a vanilla egg, a bonding treat, and a matching crystal.</color>
+item.TFJ_Raptor_Egg_White.name=White Raptor Egg
+item.TFJ_Raptor_Egg_Yellow=Yellow Raptor Egg
+item.TFJ_Raptor_Egg_Yellow.description=<color is="#dfeeb2">A starter raptor egg made from a vanilla egg, a bonding treat, and a matching crystal.</color>
+item.TFJ_Raptor_Egg_Yellow.name=Yellow Raptor Egg
+item.TFJ_Raptor_Growth_Morsel=Raptor Growth Morsel
+item.TFJ_Raptor_Growth_Morsel.description=<color is="#dfeeb2">A dense bone-and-corn morsel that young raptors will chase and eat.</color>
+item.TFJ_Raptor_Growth_Morsel.name=Raptor Growth Morsel
+item.TFJ_Raptor_Tooth=Raptor Tooth
+item.TFJ_Raptor_Tooth.description=<color is="#dfeeb2">A sharp fossil tooth used as a field trophy.</color>
+item.TFJ_Raptor_Tooth.name=Raptor Tooth
+item.TFJ_Raptor_Treat=Raptor Bonding Treat
+item.TFJ_Raptor_Treat.description=<color is="#dfeeb2">A rich meat, egg, and corn lure used to bond breeding raptors.</color>
+item.TFJ_Raptor_Treat.name=Raptor Bonding Treat
+item.TFJ_Rooted_Dirt=Forgotten Rooted Dirt
+item.TFJ_Rooted_Dirt.description=<color is="#dfeeb2">Ancient soil braided with titanwood roots.</color>
+item.TFJ_Rooted_Dirt.name=Forgotten Rooted Dirt
+item.TFJ_Roots=Forgotten Roots
+item.TFJ_Roots.description=<color is="#dfeeb2">Raised roots for natural jungle routes.</color>
+item.TFJ_Roots.name=Forgotten Roots
+item.TFJ_Titanwood_Log=Titanwood Log
+item.TFJ_Titanwood_Log.description=<color is="#dfeeb2">A massive jungle trunk used for landmarks and bridges.</color>
+item.TFJ_Titanwood_Log.name=Titanwood Log
+item.TFJ_Titanwood_Planks=Titanwood Planks
+item.TFJ_Titanwood_Planks.description=<color is="#dfeeb2">Heavy planks cut for explorer platforms.</color>
+item.TFJ_Titanwood_Planks.name=Titanwood Planks
+items.TFJ_Bone_Block=Forgotten Bone Block
+items.TFJ_Bone_Block.description=<color is="#dfeeb2">Weathered dinosaur bone used in fossil props.</color>
+items.TFJ_Bone_Block.name=Forgotten Bone Block
+items.TFJ_Bone_Spear=Forgotten Bone Spear
+items.TFJ_Bone_Spear.description=<color is="#dfeeb2">A balanced spear carved from old saurian bone and lashed with jungle vine.</color>
+items.TFJ_Bone_Spear.name=Forgotten Bone Spear
+items.TFJ_Canopy_Leaves=Forgotten Canopy Leaves
+items.TFJ_Canopy_Leaves.description=<color is="#dfeeb2">Thick layered leaves from giant jungle crowns.</color>
+items.TFJ_Canopy_Leaves.name=Forgotten Canopy Leaves
+items.TFJ_Giant_Fern=Giant Forgotten Fern
+items.TFJ_Giant_Fern.description=<color is="#dfeeb2">A huge fern for dense ground detail.</color>
+items.TFJ_Giant_Fern.name=Giant Forgotten Fern
+items.TFJ_Hanging_Vines=Forgotten Hanging Vines
+items.TFJ_Hanging_Vines.description=<color is="#dfeeb2">Long vines that drape from ancient branches.</color>
+items.TFJ_Hanging_Vines.name=Forgotten Hanging Vines
+items.TFJ_Hunter_Bow=Canopy Hunter Bow
+items.TFJ_Hunter_Bow.description=<color is="#dfeeb2">A short bow wrapped in titanwood bark, made for quiet canopy routes.</color>
+items.TFJ_Hunter_Bow.name=Canopy Hunter Bow
+items.TFJ_Jungle_Grass=The Forgotten Jungle Grass
+items.TFJ_Jungle_Grass.description=<color is="#dfeeb2">Dense damp ground from the prehistoric canopy.</color>
+items.TFJ_Jungle_Grass.name=The Forgotten Jungle Grass
+items.TFJ_Jungle_Portal=The Forgotten Jungle Portal
+items.TFJ_Jungle_Portal.description=<color is="#dfeeb2">A managed portal tuned to the prehistoric canopy.</color>
+items.TFJ_Jungle_Portal.name=The Forgotten Jungle Portal
+items.TFJ_Return_Portal=Forgotten Jungle Return Portal
+items.TFJ_Return_Portal.description=<color is="#dfeeb2">A managed return portal that carries explorers back from the canopy.</color>
+items.TFJ_Return_Portal.name=Forgotten Jungle Return Portal
+items.TFJ_Leaf_Litter=Forgotten Leaf Litter
+items.TFJ_Leaf_Litter.description=<color is="#dfeeb2">A low carpet of dead jungle leaves.</color>
+items.TFJ_Leaf_Litter.name=Forgotten Leaf Litter
+items.TFJ_Mossy_Stone=Forgotten Mossy Stone
+items.TFJ_Mossy_Stone.description=<color is="#dfeeb2">Moss-covered stone from old jungle routes.</color>
+items.TFJ_Mossy_Stone.name=Forgotten Mossy Stone
+items.TFJ_Mud=Forgotten Mud
+items.TFJ_Mud.description=<color is="#dfeeb2">Dark mud packed with roots and old leaf litter.</color>
+items.TFJ_Mud.name=Forgotten Mud
+items.TFJ_Raptor_Claws=Raptor Claw Daggers
+items.TFJ_Raptor_Claws.description=<color is="#dfeeb2">Twin claw daggers designed for fast strikes through dense undergrowth.</color>
+items.TFJ_Raptor_Claws.name=Raptor Claw Daggers
+items.TFJ_Raptor_Egg_Amber=Amber Raptor Egg
+items.TFJ_Raptor_Egg_Amber.description=<color is="#dfeeb2">An incubating raptor egg. Breeding line: Yellow + Red.</color>
+items.TFJ_Raptor_Egg_Amber.name=Amber Raptor Egg
+items.TFJ_Raptor_Egg_Azure=Azure Raptor Egg
+items.TFJ_Raptor_Egg_Azure.description=<color is="#dfeeb2">An incubating raptor egg. Breeding line: Blue + Cyan.</color>
+items.TFJ_Raptor_Egg_Azure.name=Azure Raptor Egg
+items.TFJ_Raptor_Egg_Black=Black Raptor Egg
+items.TFJ_Raptor_Egg_Black.description=<color is="#dfeeb2">An incubating raptor egg. Breeding line: Red + Blue.</color>
+items.TFJ_Raptor_Egg_Black.name=Black Raptor Egg
+items.TFJ_Raptor_Egg_Blue=Blue Raptor Egg
+items.TFJ_Raptor_Egg_Blue.description=<color is="#dfeeb2">A starter raptor egg made from a vanilla egg, a bonding treat, and a matching crystal.</color>
+items.TFJ_Raptor_Egg_Blue.name=Blue Raptor Egg
+items.TFJ_Raptor_Egg_Crimson=Crimson Raptor Egg
+items.TFJ_Raptor_Egg_Crimson.description=<color is="#dfeeb2">An incubating raptor egg. Breeding line: Red + Black.</color>
+items.TFJ_Raptor_Egg_Crimson.name=Crimson Raptor Egg
+items.TFJ_Raptor_Egg_Cyan=Cyan Raptor Egg
+items.TFJ_Raptor_Egg_Cyan.description=<color is="#dfeeb2">A starter raptor egg made from a vanilla egg, a bonding treat, and a matching crystal.</color>
+items.TFJ_Raptor_Egg_Cyan.name=Cyan Raptor Egg
+items.TFJ_Raptor_Egg_Emerald=Emerald Raptor Egg
+items.TFJ_Raptor_Egg_Emerald.description=<color is="#dfeeb2">An incubating raptor egg. Breeding line: Green + Blue.</color>
+items.TFJ_Raptor_Egg_Emerald.name=Emerald Raptor Egg
+items.TFJ_Raptor_Egg_Gold=Gold Raptor Egg
+items.TFJ_Raptor_Egg_Gold.description=<color is="#dfeeb2">An incubating raptor egg. Breeding line: White + Cyan.</color>
+items.TFJ_Raptor_Egg_Gold.name=Gold Raptor Egg
+items.TFJ_Raptor_Egg_Green=Green Raptor Egg
+items.TFJ_Raptor_Egg_Green.description=<color is="#dfeeb2">A starter raptor egg made from a vanilla egg, a bonding treat, and a matching crystal.</color>
+items.TFJ_Raptor_Egg_Green.name=Green Raptor Egg
+items.TFJ_Raptor_Egg_Ivory=Ivory Raptor Egg
+items.TFJ_Raptor_Egg_Ivory.description=<color is="#dfeeb2">An incubating raptor egg. Breeding line: White + Yellow.</color>
+items.TFJ_Raptor_Egg_Ivory.name=Ivory Raptor Egg
+items.TFJ_Raptor_Egg_Jade=Jade Raptor Egg
+items.TFJ_Raptor_Egg_Jade.description=<color is="#dfeeb2">An incubating raptor egg. Breeding line: Green + Cyan.</color>
+items.TFJ_Raptor_Egg_Jade.name=Jade Raptor Egg
+items.TFJ_Raptor_Egg_Red=Red Raptor Egg
+items.TFJ_Raptor_Egg_Red.description=<color is="#dfeeb2">A starter raptor egg made from a vanilla egg, a bonding treat, and a matching crystal.</color>
+items.TFJ_Raptor_Egg_Red.name=Red Raptor Egg
+items.TFJ_Raptor_Egg_Rose=Rose Raptor Egg
+items.TFJ_Raptor_Egg_Rose.description=<color is="#dfeeb2">An incubating raptor egg. Breeding line: Red + White.</color>
+items.TFJ_Raptor_Egg_Rose.name=Rose Raptor Egg
+items.TFJ_Raptor_Egg_Violet=Violet Raptor Egg
+items.TFJ_Raptor_Egg_Violet.description=<color is="#dfeeb2">An incubating raptor egg. Breeding line: Red + Cyan.</color>
+items.TFJ_Raptor_Egg_Violet.name=Violet Raptor Egg
+items.TFJ_Raptor_Egg_White=White Raptor Egg
+items.TFJ_Raptor_Egg_White.description=<color is="#dfeeb2">A starter raptor egg made from a vanilla egg, a bonding treat, and a matching crystal.</color>
+items.TFJ_Raptor_Egg_White.name=White Raptor Egg
+items.TFJ_Raptor_Egg_Yellow=Yellow Raptor Egg
+items.TFJ_Raptor_Egg_Yellow.description=<color is="#dfeeb2">A starter raptor egg made from a vanilla egg, a bonding treat, and a matching crystal.</color>
+items.TFJ_Raptor_Egg_Yellow.name=Yellow Raptor Egg
+items.TFJ_Raptor_Growth_Morsel=Raptor Growth Morsel
+items.TFJ_Raptor_Growth_Morsel.description=<color is="#dfeeb2">A dense bone-and-corn morsel that young raptors will chase and eat.</color>
+items.TFJ_Raptor_Growth_Morsel.name=Raptor Growth Morsel
+items.TFJ_Raptor_Tooth=Raptor Tooth
+items.TFJ_Raptor_Tooth.description=<color is="#dfeeb2">A sharp fossil tooth used as a field trophy.</color>
+items.TFJ_Raptor_Tooth.name=Raptor Tooth
+items.TFJ_Raptor_Treat=Raptor Bonding Treat
+items.TFJ_Raptor_Treat.description=<color is="#dfeeb2">A rich meat, egg, and corn lure used to bond breeding raptors.</color>
+items.TFJ_Raptor_Treat.name=Raptor Bonding Treat
+items.TFJ_Rooted_Dirt=Forgotten Rooted Dirt
+items.TFJ_Rooted_Dirt.description=<color is="#dfeeb2">Ancient soil braided with titanwood roots.</color>
+items.TFJ_Rooted_Dirt.name=Forgotten Rooted Dirt
+items.TFJ_Roots=Forgotten Roots
+items.TFJ_Roots.description=<color is="#dfeeb2">Raised roots for natural jungle routes.</color>
+items.TFJ_Roots.name=Forgotten Roots
+items.TFJ_Titanwood_Log=Titanwood Log
+items.TFJ_Titanwood_Log.description=<color is="#dfeeb2">A massive jungle trunk used for landmarks and bridges.</color>
+items.TFJ_Titanwood_Log.name=Titanwood Log
+items.TFJ_Titanwood_Planks=Titanwood Planks
+items.TFJ_Titanwood_Planks.description=<color is="#dfeeb2">Heavy planks cut for explorer platforms.</color>
+items.TFJ_Titanwood_Planks.name=Titanwood Planks
+server.blocks.TFJ_Bone_Block=Forgotten Bone Block
+server.blocks.TFJ_Bone_Block.description=<color is="#dfeeb2">Weathered dinosaur bone used in fossil props.</color>
+server.blocks.TFJ_Bone_Block.name=Forgotten Bone Block
+server.blocks.TFJ_Bone_Spear=Forgotten Bone Spear
+server.blocks.TFJ_Bone_Spear.description=<color is="#dfeeb2">A balanced spear carved from old saurian bone and lashed with jungle vine.</color>
+server.blocks.TFJ_Bone_Spear.name=Forgotten Bone Spear
+server.blocks.TFJ_Canopy_Leaves=Forgotten Canopy Leaves
+server.blocks.TFJ_Canopy_Leaves.description=<color is="#dfeeb2">Thick layered leaves from giant jungle crowns.</color>
+server.blocks.TFJ_Canopy_Leaves.name=Forgotten Canopy Leaves
+server.blocks.TFJ_Giant_Fern=Giant Forgotten Fern
+server.blocks.TFJ_Giant_Fern.description=<color is="#dfeeb2">A huge fern for dense ground detail.</color>
+server.blocks.TFJ_Giant_Fern.name=Giant Forgotten Fern
+server.blocks.TFJ_Hanging_Vines=Forgotten Hanging Vines
+server.blocks.TFJ_Hanging_Vines.description=<color is="#dfeeb2">Long vines that drape from ancient branches.</color>
+server.blocks.TFJ_Hanging_Vines.name=Forgotten Hanging Vines
+server.blocks.TFJ_Hunter_Bow=Canopy Hunter Bow
+server.blocks.TFJ_Hunter_Bow.description=<color is="#dfeeb2">A short bow wrapped in titanwood bark, made for quiet canopy routes.</color>
+server.blocks.TFJ_Hunter_Bow.name=Canopy Hunter Bow
+server.blocks.TFJ_Jungle_Grass=The Forgotten Jungle Grass
+server.blocks.TFJ_Jungle_Grass.description=<color is="#dfeeb2">Dense damp ground from the prehistoric canopy.</color>
+server.blocks.TFJ_Jungle_Grass.name=The Forgotten Jungle Grass
+server.blocks.TFJ_Jungle_Portal=The Forgotten Jungle Portal
+server.blocks.TFJ_Jungle_Portal.description=<color is="#dfeeb2">A managed portal tuned to the prehistoric canopy.</color>
+server.blocks.TFJ_Jungle_Portal.name=The Forgotten Jungle Portal
+server.blocks.TFJ_Return_Portal=Forgotten Jungle Return Portal
+server.blocks.TFJ_Return_Portal.description=<color is="#dfeeb2">A managed return portal that carries explorers back from the canopy.</color>
+server.blocks.TFJ_Return_Portal.name=Forgotten Jungle Return Portal
+server.blocks.TFJ_Leaf_Litter=Forgotten Leaf Litter
+server.blocks.TFJ_Leaf_Litter.description=<color is="#dfeeb2">A low carpet of dead jungle leaves.</color>
+server.blocks.TFJ_Leaf_Litter.name=Forgotten Leaf Litter
+server.blocks.TFJ_Mossy_Stone=Forgotten Mossy Stone
+server.blocks.TFJ_Mossy_Stone.description=<color is="#dfeeb2">Moss-covered stone from old jungle routes.</color>
+server.blocks.TFJ_Mossy_Stone.name=Forgotten Mossy Stone
+server.blocks.TFJ_Mud=Forgotten Mud
+server.blocks.TFJ_Mud.description=<color is="#dfeeb2">Dark mud packed with roots and old leaf litter.</color>
+server.blocks.TFJ_Mud.name=Forgotten Mud
+server.blocks.TFJ_Raptor_Claws=Raptor Claw Daggers
+server.blocks.TFJ_Raptor_Claws.description=<color is="#dfeeb2">Twin claw daggers designed for fast strikes through dense undergrowth.</color>
+server.blocks.TFJ_Raptor_Claws.name=Raptor Claw Daggers
+server.blocks.TFJ_Raptor_Egg_Amber=Amber Raptor Egg
+server.blocks.TFJ_Raptor_Egg_Amber.description=<color is="#dfeeb2">An incubating raptor egg. Breeding line: Yellow + Red.</color>
+server.blocks.TFJ_Raptor_Egg_Amber.name=Amber Raptor Egg
+server.blocks.TFJ_Raptor_Egg_Azure=Azure Raptor Egg
+server.blocks.TFJ_Raptor_Egg_Azure.description=<color is="#dfeeb2">An incubating raptor egg. Breeding line: Blue + Cyan.</color>
+server.blocks.TFJ_Raptor_Egg_Azure.name=Azure Raptor Egg
+server.blocks.TFJ_Raptor_Egg_Black=Black Raptor Egg
+server.blocks.TFJ_Raptor_Egg_Black.description=<color is="#dfeeb2">An incubating raptor egg. Breeding line: Red + Blue.</color>
+server.blocks.TFJ_Raptor_Egg_Black.name=Black Raptor Egg
+server.blocks.TFJ_Raptor_Egg_Blue=Blue Raptor Egg
+server.blocks.TFJ_Raptor_Egg_Blue.description=<color is="#dfeeb2">A starter raptor egg made from a vanilla egg, a bonding treat, and a matching crystal.</color>
+server.blocks.TFJ_Raptor_Egg_Blue.name=Blue Raptor Egg
+server.blocks.TFJ_Raptor_Egg_Crimson=Crimson Raptor Egg
+server.blocks.TFJ_Raptor_Egg_Crimson.description=<color is="#dfeeb2">An incubating raptor egg. Breeding line: Red + Black.</color>
+server.blocks.TFJ_Raptor_Egg_Crimson.name=Crimson Raptor Egg
+server.blocks.TFJ_Raptor_Egg_Cyan=Cyan Raptor Egg
+server.blocks.TFJ_Raptor_Egg_Cyan.description=<color is="#dfeeb2">A starter raptor egg made from a vanilla egg, a bonding treat, and a matching crystal.</color>
+server.blocks.TFJ_Raptor_Egg_Cyan.name=Cyan Raptor Egg
+server.blocks.TFJ_Raptor_Egg_Emerald=Emerald Raptor Egg
+server.blocks.TFJ_Raptor_Egg_Emerald.description=<color is="#dfeeb2">An incubating raptor egg. Breeding line: Green + Blue.</color>
+server.blocks.TFJ_Raptor_Egg_Emerald.name=Emerald Raptor Egg
+server.blocks.TFJ_Raptor_Egg_Gold=Gold Raptor Egg
+server.blocks.TFJ_Raptor_Egg_Gold.description=<color is="#dfeeb2">An incubating raptor egg. Breeding line: White + Cyan.</color>
+server.blocks.TFJ_Raptor_Egg_Gold.name=Gold Raptor Egg
+server.blocks.TFJ_Raptor_Egg_Green=Green Raptor Egg
+server.blocks.TFJ_Raptor_Egg_Green.description=<color is="#dfeeb2">A starter raptor egg made from a vanilla egg, a bonding treat, and a matching crystal.</color>
+server.blocks.TFJ_Raptor_Egg_Green.name=Green Raptor Egg
+server.blocks.TFJ_Raptor_Egg_Ivory=Ivory Raptor Egg
+server.blocks.TFJ_Raptor_Egg_Ivory.description=<color is="#dfeeb2">An incubating raptor egg. Breeding line: White + Yellow.</color>
+server.blocks.TFJ_Raptor_Egg_Ivory.name=Ivory Raptor Egg
+server.blocks.TFJ_Raptor_Egg_Jade=Jade Raptor Egg
+server.blocks.TFJ_Raptor_Egg_Jade.description=<color is="#dfeeb2">An incubating raptor egg. Breeding line: Green + Cyan.</color>
+server.blocks.TFJ_Raptor_Egg_Jade.name=Jade Raptor Egg
+server.blocks.TFJ_Raptor_Egg_Red=Red Raptor Egg
+server.blocks.TFJ_Raptor_Egg_Red.description=<color is="#dfeeb2">A starter raptor egg made from a vanilla egg, a bonding treat, and a matching crystal.</color>
+server.blocks.TFJ_Raptor_Egg_Red.name=Red Raptor Egg
+server.blocks.TFJ_Raptor_Egg_Rose=Rose Raptor Egg
+server.blocks.TFJ_Raptor_Egg_Rose.description=<color is="#dfeeb2">An incubating raptor egg. Breeding line: Red + White.</color>
+server.blocks.TFJ_Raptor_Egg_Rose.name=Rose Raptor Egg
+server.blocks.TFJ_Raptor_Egg_Violet=Violet Raptor Egg
+server.blocks.TFJ_Raptor_Egg_Violet.description=<color is="#dfeeb2">An incubating raptor egg. Breeding line: Red + Cyan.</color>
+server.blocks.TFJ_Raptor_Egg_Violet.name=Violet Raptor Egg
+server.blocks.TFJ_Raptor_Egg_White=White Raptor Egg
+server.blocks.TFJ_Raptor_Egg_White.description=<color is="#dfeeb2">A starter raptor egg made from a vanilla egg, a bonding treat, and a matching crystal.</color>
+server.blocks.TFJ_Raptor_Egg_White.name=White Raptor Egg
+server.blocks.TFJ_Raptor_Egg_Yellow=Yellow Raptor Egg
+server.blocks.TFJ_Raptor_Egg_Yellow.description=<color is="#dfeeb2">A starter raptor egg made from a vanilla egg, a bonding treat, and a matching crystal.</color>
+server.blocks.TFJ_Raptor_Egg_Yellow.name=Yellow Raptor Egg
+server.blocks.TFJ_Raptor_Growth_Morsel=Raptor Growth Morsel
+server.blocks.TFJ_Raptor_Growth_Morsel.description=<color is="#dfeeb2">A dense bone-and-corn morsel that young raptors will chase and eat.</color>
+server.blocks.TFJ_Raptor_Growth_Morsel.name=Raptor Growth Morsel
+server.blocks.TFJ_Raptor_Tooth=Raptor Tooth
+server.blocks.TFJ_Raptor_Tooth.description=<color is="#dfeeb2">A sharp fossil tooth used as a field trophy.</color>
+server.blocks.TFJ_Raptor_Tooth.name=Raptor Tooth
+server.blocks.TFJ_Raptor_Treat=Raptor Bonding Treat
+server.blocks.TFJ_Raptor_Treat.description=<color is="#dfeeb2">A rich meat, egg, and corn lure used to bond breeding raptors.</color>
+server.blocks.TFJ_Raptor_Treat.name=Raptor Bonding Treat
+server.blocks.TFJ_Rooted_Dirt=Forgotten Rooted Dirt
+server.blocks.TFJ_Rooted_Dirt.description=<color is="#dfeeb2">Ancient soil braided with titanwood roots.</color>
+server.blocks.TFJ_Rooted_Dirt.name=Forgotten Rooted Dirt
+server.blocks.TFJ_Roots=Forgotten Roots
+server.blocks.TFJ_Roots.description=<color is="#dfeeb2">Raised roots for natural jungle routes.</color>
+server.blocks.TFJ_Roots.name=Forgotten Roots
+server.blocks.TFJ_Titanwood_Log=Titanwood Log
+server.blocks.TFJ_Titanwood_Log.description=<color is="#dfeeb2">A massive jungle trunk used for landmarks and bridges.</color>
+server.blocks.TFJ_Titanwood_Log.name=Titanwood Log
+server.blocks.TFJ_Titanwood_Planks=Titanwood Planks
+server.blocks.TFJ_Titanwood_Planks.description=<color is="#dfeeb2">Heavy planks cut for explorer platforms.</color>
+server.blocks.TFJ_Titanwood_Planks.name=Titanwood Planks
+server.interactionHints.tfjRaptorEggIncubating=Incubating
+server.interactionHints.tfjRaptorEggReady=Ready to hatch
+server.items.TFJ_Bone_Block=Forgotten Bone Block
+server.items.TFJ_Bone_Block.description=<color is="#dfeeb2">Weathered dinosaur bone used in fossil props.</color>
+server.items.TFJ_Bone_Block.name=Forgotten Bone Block
+server.items.TFJ_Bone_Spear=Forgotten Bone Spear
+server.items.TFJ_Bone_Spear.description=<color is="#dfeeb2">A balanced spear carved from old saurian bone and lashed with jungle vine.</color>
+server.items.TFJ_Bone_Spear.name=Forgotten Bone Spear
+server.items.TFJ_Canopy_Leaves=Forgotten Canopy Leaves
+server.items.TFJ_Canopy_Leaves.description=<color is="#dfeeb2">Thick layered leaves from giant jungle crowns.</color>
+server.items.TFJ_Canopy_Leaves.name=Forgotten Canopy Leaves
+server.items.TFJ_Giant_Fern=Giant Forgotten Fern
+server.items.TFJ_Giant_Fern.description=<color is="#dfeeb2">A huge fern for dense ground detail.</color>
+server.items.TFJ_Giant_Fern.name=Giant Forgotten Fern
+server.items.TFJ_Hanging_Vines=Forgotten Hanging Vines
+server.items.TFJ_Hanging_Vines.description=<color is="#dfeeb2">Long vines that drape from ancient branches.</color>
+server.items.TFJ_Hanging_Vines.name=Forgotten Hanging Vines
+server.items.TFJ_Hunter_Bow=Canopy Hunter Bow
+server.items.TFJ_Hunter_Bow.description=<color is="#dfeeb2">A short bow wrapped in titanwood bark, made for quiet canopy routes.</color>
+server.items.TFJ_Hunter_Bow.name=Canopy Hunter Bow
+server.items.TFJ_Jungle_Grass=The Forgotten Jungle Grass
+server.items.TFJ_Jungle_Grass.description=<color is="#dfeeb2">Dense damp ground from the prehistoric canopy.</color>
+server.items.TFJ_Jungle_Grass.name=The Forgotten Jungle Grass
+server.items.TFJ_Jungle_Portal=The Forgotten Jungle Portal
+server.items.TFJ_Jungle_Portal.description=<color is="#dfeeb2">A managed portal tuned to the prehistoric canopy.</color>
+server.items.TFJ_Jungle_Portal.name=The Forgotten Jungle Portal
+server.items.TFJ_Return_Portal=Forgotten Jungle Return Portal
+server.items.TFJ_Return_Portal.description=<color is="#dfeeb2">A managed return portal that carries explorers back from the canopy.</color>
+server.items.TFJ_Return_Portal.name=Forgotten Jungle Return Portal
+server.items.TFJ_Leaf_Litter=Forgotten Leaf Litter
+server.items.TFJ_Leaf_Litter.description=<color is="#dfeeb2">A low carpet of dead jungle leaves.</color>
+server.items.TFJ_Leaf_Litter.name=Forgotten Leaf Litter
+server.items.TFJ_Mossy_Stone=Forgotten Mossy Stone
+server.items.TFJ_Mossy_Stone.description=<color is="#dfeeb2">Moss-covered stone from old jungle routes.</color>
+server.items.TFJ_Mossy_Stone.name=Forgotten Mossy Stone
+server.items.TFJ_Mud=Forgotten Mud
+server.items.TFJ_Mud.description=<color is="#dfeeb2">Dark mud packed with roots and old leaf litter.</color>
+server.items.TFJ_Mud.name=Forgotten Mud
+server.items.TFJ_Pterodactyl_Egg.description=A warm flying-beast egg that can hatch into a tame pterodactyl.
+server.items.TFJ_Pterodactyl_Egg.name=Pterodactyl Egg
+server.items.TFJ_Raptor_Claws=Raptor Claw Daggers
+server.items.TFJ_Raptor_Claws.description=<color is="#dfeeb2">Twin claw daggers designed for fast strikes through dense undergrowth.</color>
+server.items.TFJ_Raptor_Claws.name=Raptor Claw Daggers
+server.items.TFJ_Raptor_Egg_Amber=Amber Raptor Egg
+server.items.TFJ_Raptor_Egg_Amber.description=<color is="#dfeeb2">An incubating raptor egg. Breeding line: Yellow + Red.</color>
+server.items.TFJ_Raptor_Egg_Amber.name=Amber Raptor Egg
+server.items.TFJ_Raptor_Egg_Azure=Azure Raptor Egg
+server.items.TFJ_Raptor_Egg_Azure.description=<color is="#dfeeb2">An incubating raptor egg. Breeding line: Blue + Cyan.</color>
+server.items.TFJ_Raptor_Egg_Azure.name=Azure Raptor Egg
+server.items.TFJ_Raptor_Egg_Black=Black Raptor Egg
+server.items.TFJ_Raptor_Egg_Black.description=<color is="#dfeeb2">An incubating raptor egg. Breeding line: Red + Blue.</color>
+server.items.TFJ_Raptor_Egg_Black.name=Black Raptor Egg
+server.items.TFJ_Raptor_Egg_Blue=Blue Raptor Egg
+server.items.TFJ_Raptor_Egg_Blue.description=A starter raptor egg dropped by aggressive wild jungle raptors.
+server.items.TFJ_Raptor_Egg_Blue.name=Blue Raptor Egg
+server.items.TFJ_Raptor_Egg_Crimson=Crimson Raptor Egg
+server.items.TFJ_Raptor_Egg_Crimson.description=<color is="#dfeeb2">An incubating raptor egg. Breeding line: Red + Black.</color>
+server.items.TFJ_Raptor_Egg_Crimson.name=Crimson Raptor Egg
+server.items.TFJ_Raptor_Egg_Cyan=Cyan Raptor Egg
+server.items.TFJ_Raptor_Egg_Cyan.description=A starter raptor egg dropped by aggressive wild jungle raptors.
+server.items.TFJ_Raptor_Egg_Cyan.name=Cyan Raptor Egg
+server.items.TFJ_Raptor_Egg_Emerald=Emerald Raptor Egg
+server.items.TFJ_Raptor_Egg_Emerald.description=<color is="#dfeeb2">An incubating raptor egg. Breeding line: Green + Blue.</color>
+server.items.TFJ_Raptor_Egg_Emerald.name=Emerald Raptor Egg
+server.items.TFJ_Raptor_Egg_Gold=Gold Raptor Egg
+server.items.TFJ_Raptor_Egg_Gold.description=<color is="#dfeeb2">An incubating raptor egg. Breeding line: White + Cyan.</color>
+server.items.TFJ_Raptor_Egg_Gold.name=Gold Raptor Egg
+server.items.TFJ_Raptor_Egg_Green=Green Raptor Egg
+server.items.TFJ_Raptor_Egg_Green.description=A starter raptor egg dropped by aggressive wild jungle raptors.
+server.items.TFJ_Raptor_Egg_Green.name=Green Raptor Egg
+server.items.TFJ_Raptor_Egg_Ivory=Ivory Raptor Egg
+server.items.TFJ_Raptor_Egg_Ivory.description=<color is="#dfeeb2">An incubating raptor egg. Breeding line: White + Yellow.</color>
+server.items.TFJ_Raptor_Egg_Ivory.name=Ivory Raptor Egg
+server.items.TFJ_Raptor_Egg_Jade=Jade Raptor Egg
+server.items.TFJ_Raptor_Egg_Jade.description=<color is="#dfeeb2">An incubating raptor egg. Breeding line: Green + Cyan.</color>
+server.items.TFJ_Raptor_Egg_Jade.name=Jade Raptor Egg
+server.items.TFJ_Raptor_Egg_Red=Red Raptor Egg
+server.items.TFJ_Raptor_Egg_Red.description=A starter raptor egg dropped by aggressive wild jungle raptors.
+server.items.TFJ_Raptor_Egg_Red.name=Red Raptor Egg
+server.items.TFJ_Raptor_Egg_Rose=Rose Raptor Egg
+server.items.TFJ_Raptor_Egg_Rose.description=<color is="#dfeeb2">An incubating raptor egg. Breeding line: Red + White.</color>
+server.items.TFJ_Raptor_Egg_Rose.name=Rose Raptor Egg
+server.items.TFJ_Raptor_Egg_Violet=Violet Raptor Egg
+server.items.TFJ_Raptor_Egg_Violet.description=<color is="#dfeeb2">An incubating raptor egg. Breeding line: Red + Cyan.</color>
+server.items.TFJ_Raptor_Egg_Violet.name=Violet Raptor Egg
+server.items.TFJ_Raptor_Egg_White=White Raptor Egg
+server.items.TFJ_Raptor_Egg_White.description=A starter raptor egg dropped by aggressive wild jungle raptors.
+server.items.TFJ_Raptor_Egg_White.name=White Raptor Egg
+server.items.TFJ_Raptor_Egg_Yellow=Yellow Raptor Egg
+server.items.TFJ_Raptor_Egg_Yellow.description=A starter raptor egg dropped by aggressive wild jungle raptors.
+server.items.TFJ_Raptor_Egg_Yellow.name=Yellow Raptor Egg
+server.items.TFJ_Raptor_Growth_Morsel=Raptor Growth Morsel
+server.items.TFJ_Raptor_Growth_Morsel.description=<color is="#dfeeb2">A dense bone-and-corn morsel that young raptors will chase and eat.</color>
+server.items.TFJ_Raptor_Growth_Morsel.name=Raptor Growth Morsel
+server.items.TFJ_Raptor_Tooth=Raptor Tooth
+server.items.TFJ_Raptor_Tooth.description=<color is="#dfeeb2">A sharp fossil tooth used as a field trophy.</color>
+server.items.TFJ_Raptor_Tooth.name=Raptor Tooth
+server.items.TFJ_Raptor_Treat=Raptor Bonding Treat
+server.items.TFJ_Raptor_Treat.description=<color is="#dfeeb2">A rich meat, egg, and corn lure used to bond breeding raptors.</color>
+server.items.TFJ_Raptor_Treat.name=Raptor Bonding Treat
+server.items.TFJ_Rooted_Dirt=Forgotten Rooted Dirt
+server.items.TFJ_Rooted_Dirt.description=<color is="#dfeeb2">Ancient soil braided with titanwood roots.</color>
+server.items.TFJ_Rooted_Dirt.name=Forgotten Rooted Dirt
+server.items.TFJ_Roots=Forgotten Roots
+server.items.TFJ_Roots.description=<color is="#dfeeb2">Raised roots for natural jungle routes.</color>
+server.items.TFJ_Roots.name=Forgotten Roots
+server.items.TFJ_Titanwood_Log=Titanwood Log
+server.items.TFJ_Titanwood_Log.description=<color is="#dfeeb2">A massive jungle trunk used for landmarks and bridges.</color>
+server.items.TFJ_Titanwood_Log.name=Titanwood Log
+server.items.TFJ_Titanwood_Planks=Titanwood Planks
+server.items.TFJ_Titanwood_Planks.description=<color is="#dfeeb2">Heavy planks cut for explorer platforms.</color>
+server.items.TFJ_Titanwood_Planks.name=Titanwood Planks
+server.npcRoles.TFJ_Pterodactyl.name=Pterodactyl
+server.npcRoles.TFJ_Pterodactyl_Adolescent.name=Adolescent Pterodactyl
+server.npcRoles.TFJ_Pterodactyl_Hatchling.name=Pterodactyl Hatchling
+server.npcRoles.TFJ_Pterodactyl_Juvenile.name=Juvenile Pterodactyl
+server.npcRoles.TFJ_Pterodactyl_Mosswing.name=Mosswing Pterodactyl
+server.npcRoles.TFJ_Pterodactyl_Mount.name=Mounted Pterodactyl
+server.npcRoles.TFJ_Pterodactyl_Suncrest.name=Suncrest Pterodactyl
+server.npcRoles.TFJ_Pterodactyl_Youngling.name=Young Pterodactyl
+server.npcRoles.TFJ_Raptor_Amber.name=Amber Jungle Raptor
+server.npcRoles.TFJ_Raptor_Amber_Hatchling.name=Amber Raptor Hatchling
+server.npcRoles.TFJ_Raptor_Amber_Juvenile.name=Young Amber Jungle Raptor
+server.npcRoles.TFJ_Raptor_Amber_Subadult.name=Adolescent Amber Jungle Raptor
+server.npcRoles.TFJ_Raptor_Amber_Youngling.name=Youngling Amber Jungle Raptor
+server.npcRoles.TFJ_Raptor_Azure.name=Azure Jungle Raptor
+server.npcRoles.TFJ_Raptor_Azure_Hatchling.name=Azure Raptor Hatchling
+server.npcRoles.TFJ_Raptor_Azure_Juvenile.name=Young Azure Jungle Raptor
+server.npcRoles.TFJ_Raptor_Azure_Subadult.name=Adolescent Azure Jungle Raptor
+server.npcRoles.TFJ_Raptor_Azure_Youngling.name=Youngling Azure Jungle Raptor
+server.npcRoles.TFJ_Raptor_Black.name=Black Jungle Raptor
+server.npcRoles.TFJ_Raptor_Black_Hatchling.name=Black Raptor Hatchling
+server.npcRoles.TFJ_Raptor_Black_Juvenile.name=Young Black Jungle Raptor
+server.npcRoles.TFJ_Raptor_Black_Subadult.name=Adolescent Black Jungle Raptor
+server.npcRoles.TFJ_Raptor_Black_Youngling.name=Youngling Black Jungle Raptor
+server.npcRoles.TFJ_Raptor_Bloodscale.name=Bloodscale Raptor
+server.npcRoles.TFJ_Raptor_Blue.name=Blue Jungle Raptor
+server.npcRoles.TFJ_Raptor_Blue_Hatchling.name=Blue Raptor Hatchling
+server.npcRoles.TFJ_Raptor_Blue_Juvenile.name=Young Blue Jungle Raptor
+server.npcRoles.TFJ_Raptor_Blue_Subadult.name=Adolescent Blue Jungle Raptor
+server.npcRoles.TFJ_Raptor_Blue_Youngling.name=Youngling Blue Jungle Raptor
+server.npcRoles.TFJ_Raptor_Bonecrest.name=Bonecrest Raptor
+server.npcRoles.TFJ_Raptor_Crimson.name=Crimson Jungle Raptor
+server.npcRoles.TFJ_Raptor_Crimson_Hatchling.name=Crimson Raptor Hatchling
+server.npcRoles.TFJ_Raptor_Crimson_Juvenile.name=Young Crimson Jungle Raptor
+server.npcRoles.TFJ_Raptor_Crimson_Subadult.name=Adolescent Crimson Jungle Raptor
+server.npcRoles.TFJ_Raptor_Crimson_Youngling.name=Youngling Crimson Jungle Raptor
+server.npcRoles.TFJ_Raptor_Cyan.name=Cyan Jungle Raptor
+server.npcRoles.TFJ_Raptor_Cyan_Hatchling.name=Cyan Raptor Hatchling
+server.npcRoles.TFJ_Raptor_Cyan_Juvenile.name=Young Cyan Jungle Raptor
+server.npcRoles.TFJ_Raptor_Cyan_Subadult.name=Adolescent Cyan Jungle Raptor
+server.npcRoles.TFJ_Raptor_Cyan_Youngling.name=Youngling Cyan Jungle Raptor
+server.npcRoles.TFJ_Raptor_Emerald.name=Emerald Jungle Raptor
+server.npcRoles.TFJ_Raptor_Emerald_Hatchling.name=Emerald Raptor Hatchling
+server.npcRoles.TFJ_Raptor_Emerald_Juvenile.name=Young Emerald Jungle Raptor
+server.npcRoles.TFJ_Raptor_Emerald_Subadult.name=Adolescent Emerald Jungle Raptor
+server.npcRoles.TFJ_Raptor_Emerald_Youngling.name=Youngling Emerald Jungle Raptor
+server.npcRoles.TFJ_Raptor_Gold.name=Gold Jungle Raptor
+server.npcRoles.TFJ_Raptor_Gold_Hatchling.name=Gold Raptor Hatchling
+server.npcRoles.TFJ_Raptor_Gold_Juvenile.name=Young Gold Jungle Raptor
+server.npcRoles.TFJ_Raptor_Gold_Subadult.name=Adolescent Gold Jungle Raptor
+server.npcRoles.TFJ_Raptor_Gold_Youngling.name=Youngling Gold Jungle Raptor
+server.npcRoles.TFJ_Raptor_Green.name=Green Jungle Raptor
+server.npcRoles.TFJ_Raptor_Green_Hatchling.name=Green Raptor Hatchling
+server.npcRoles.TFJ_Raptor_Green_Juvenile.name=Young Green Jungle Raptor
+server.npcRoles.TFJ_Raptor_Green_Subadult.name=Adolescent Green Jungle Raptor
+server.npcRoles.TFJ_Raptor_Green_Youngling.name=Youngling Green Jungle Raptor
+server.npcRoles.TFJ_Raptor_Ivory.name=Ivory Jungle Raptor
+server.npcRoles.TFJ_Raptor_Ivory_Hatchling.name=Ivory Raptor Hatchling
+server.npcRoles.TFJ_Raptor_Ivory_Juvenile.name=Young Ivory Jungle Raptor
+server.npcRoles.TFJ_Raptor_Ivory_Subadult.name=Adolescent Ivory Jungle Raptor
+server.npcRoles.TFJ_Raptor_Ivory_Youngling.name=Youngling Ivory Jungle Raptor
+server.npcRoles.TFJ_Raptor_Jade.name=Jade Jungle Raptor
+server.npcRoles.TFJ_Raptor_Jade_Hatchling.name=Jade Raptor Hatchling
+server.npcRoles.TFJ_Raptor_Jade_Juvenile.name=Young Jade Jungle Raptor
+server.npcRoles.TFJ_Raptor_Jade_Subadult.name=Adolescent Jade Jungle Raptor
+server.npcRoles.TFJ_Raptor_Jade_Youngling.name=Youngling Jade Jungle Raptor
+server.npcRoles.TFJ_Raptor_Mireclaw.name=Mireclaw Raptor
+server.npcRoles.TFJ_Raptor_Nightmaw.name=Nightmaw Raptor
+server.npcRoles.TFJ_Raptor_Packrunner.name=Raptor Packrunner
+server.npcRoles.TFJ_Raptor_Red.name=Red Jungle Raptor
+server.npcRoles.TFJ_Raptor_Red_Hatchling.name=Red Raptor Hatchling
+server.npcRoles.TFJ_Raptor_Red_Juvenile.name=Young Red Jungle Raptor
+server.npcRoles.TFJ_Raptor_Red_Subadult.name=Adolescent Red Jungle Raptor
+server.npcRoles.TFJ_Raptor_Red_Youngling.name=Youngling Red Jungle Raptor
+server.npcRoles.TFJ_Raptor_Rose.name=Rose Jungle Raptor
+server.npcRoles.TFJ_Raptor_Rose_Hatchling.name=Rose Raptor Hatchling
+server.npcRoles.TFJ_Raptor_Rose_Juvenile.name=Young Rose Jungle Raptor
+server.npcRoles.TFJ_Raptor_Rose_Subadult.name=Adolescent Rose Jungle Raptor
+server.npcRoles.TFJ_Raptor_Rose_Youngling.name=Youngling Rose Jungle Raptor
+server.npcRoles.TFJ_Raptor_Sporeback.name=Sporeback Raptor
+server.npcRoles.TFJ_Raptor_Stalker.name=Jungle Raptor Stalker
+server.npcRoles.TFJ_Raptor_Venomcrest.name=Venomcrest Raptor
+server.npcRoles.TFJ_Raptor_Violet.name=Violet Jungle Raptor
+server.npcRoles.TFJ_Raptor_Violet_Hatchling.name=Violet Raptor Hatchling
+server.npcRoles.TFJ_Raptor_Violet_Juvenile.name=Young Violet Jungle Raptor
+server.npcRoles.TFJ_Raptor_Violet_Subadult.name=Adolescent Violet Jungle Raptor
+server.npcRoles.TFJ_Raptor_Violet_Youngling.name=Youngling Violet Jungle Raptor
+server.npcRoles.TFJ_Raptor_White.name=White Jungle Raptor
+server.npcRoles.TFJ_Raptor_White_Hatchling.name=White Raptor Hatchling
+server.npcRoles.TFJ_Raptor_White_Juvenile.name=Young White Jungle Raptor
+server.npcRoles.TFJ_Raptor_White_Subadult.name=Adolescent White Jungle Raptor
+server.npcRoles.TFJ_Raptor_White_Youngling.name=Youngling White Jungle Raptor
+server.npcRoles.TFJ_Raptor_Yellow.name=Yellow Jungle Raptor
+server.npcRoles.TFJ_Raptor_Yellow_Hatchling.name=Yellow Raptor Hatchling
+server.npcRoles.TFJ_Raptor_Yellow_Juvenile.name=Young Yellow Jungle Raptor
+server.npcRoles.TFJ_Raptor_Yellow_Subadult.name=Adolescent Yellow Jungle Raptor
+server.npcRoles.TFJ_Raptor_Yellow_Youngling.name=Youngling Yellow Jungle Raptor
+server.npcRoles.TFJ_Trillodon_Bull.name=Forgotten Trillodon
+server.npcRoles.TFJ_Trillodon_Mossback.name=Mossback Trillodon
+server.npcRoles.TFJ_Trillodon_Young.name=Young Trillodon
+server.npcRoles.TFJ_Tyrant_Juvenile.name=Young Forgotten Tyrant
+server.npcRoles.TFJ_Tyrant_Rex.name=Forgotten Tyrant
+server.npcRoles.Template.name=Forgotten Raptor Template
+server.portals.the_forgotten_jungle=The Forgotten Jungle
+server.portals.the_forgotten_jungle.description=A wet prehistoric canopy where raptors nest among titan roots and old bones.
+server.portals.the_forgotten_jungle.tip1=Follow leaf-litter trails and fallen trunks; raptor dens are easier to hear than to see.
+server.ui.itemcategory.forgottenjungle.blocks=Forgotten Blocks
+server.ui.itemcategory.forgottenjungle.items=Forgotten Items
+server.ui.itemcategory.forgottenjungle.weapons=Forgotten Weapons
+server.ui.tfj.incubator.species.amber=Amber Raptor
+server.ui.tfj.incubator.species.azure=Azure Raptor
+server.ui.tfj.incubator.species.black=Black Raptor
+server.ui.tfj.incubator.species.blue=Blue Raptor
+server.ui.tfj.incubator.species.crimson=Crimson Raptor
+server.ui.tfj.incubator.species.cyan=Cyan Raptor
+server.ui.tfj.incubator.species.emerald=Emerald Raptor
+server.ui.tfj.incubator.species.gold=Gold Raptor
+server.ui.tfj.incubator.species.green=Green Raptor
+server.ui.tfj.incubator.species.ivory=Ivory Raptor
+server.ui.tfj.incubator.species.jade=Jade Raptor
+server.ui.tfj.incubator.species.pterodactyl=Pterodactyl
+server.ui.tfj.incubator.species.red=Red Raptor
+server.ui.tfj.incubator.species.rose=Rose Raptor
+server.ui.tfj.incubator.species.violet=Violet Raptor
+server.ui.tfj.incubator.species.white=White Raptor
+server.ui.tfj.incubator.species.yellow=Yellow Raptor
+server.ui.tfj.incubator.status.incubating=Incubating
+server.ui.tfj.incubator.status.ready=Hatching

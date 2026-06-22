@@ -1,0 +1,156 @@
+{
+  "Parent": "Env_Zone1_Plains",
+  "WaterTint": "#4b8a6b",
+  "SpawnDensity": 0.48,
+  "Tags": {
+    "TheForgottenJungle": [
+      "Riverbank"
+    ]
+  },
+  "WeatherForecasts": {
+    "0": [
+      {
+        "WeatherId": "TFJ_Jungle_Humid",
+        "Weight": 100
+      }
+    ],
+    "1": [
+      {
+        "WeatherId": "TFJ_Jungle_Humid",
+        "Weight": 100
+      }
+    ],
+    "2": [
+      {
+        "WeatherId": "TFJ_Jungle_Humid",
+        "Weight": 100
+      }
+    ],
+    "3": [
+      {
+        "WeatherId": "TFJ_Jungle_Humid",
+        "Weight": 100
+      }
+    ],
+    "4": [
+      {
+        "WeatherId": "TFJ_Jungle_Humid",
+        "Weight": 100
+      }
+    ],
+    "5": [
+      {
+        "WeatherId": "TFJ_Jungle_Humid",
+        "Weight": 100
+      }
+    ],
+    "6": [
+      {
+        "WeatherId": "TFJ_Jungle_Humid",
+        "Weight": 100
+      }
+    ],
+    "7": [
+      {
+        "WeatherId": "TFJ_Jungle_Humid",
+        "Weight": 100
+      }
+    ],
+    "8": [
+      {
+        "WeatherId": "TFJ_Jungle_Humid",
+        "Weight": 100
+      }
+    ],
+    "9": [
+      {
+        "WeatherId": "TFJ_Jungle_Humid",
+        "Weight": 100
+      }
+    ],
+    "10": [
+      {
+        "WeatherId": "TFJ_Jungle_Humid",
+        "Weight": 100
+      }
+    ],
+    "11": [
+      {
+        "WeatherId": "TFJ_Jungle_Humid",
+        "Weight": 100
+      }
+    ],
+    "12": [
+      {
+        "WeatherId": "TFJ_Jungle_Humid",
+        "Weight": 100
+      }
+    ],
+    "13": [
+      {
+        "WeatherId": "TFJ_Jungle_Humid",
+        "Weight": 100
+      }
+    ],
+    "14": [
+      {
+        "WeatherId": "TFJ_Jungle_Humid",
+        "Weight": 100
+      }
+    ],
+    "15": [
+      {
+        "WeatherId": "TFJ_Jungle_Humid",
+        "Weight": 100
+      }
+    ],
+    "16": [
+      {
+        "WeatherId": "TFJ_Jungle_Humid",
+        "Weight": 100
+      }
+    ],
+    "17": [
+      {
+        "WeatherId": "TFJ_Jungle_Humid",
+        "Weight": 100
+      }
+    ],
+    "18": [
+      {
+        "WeatherId": "TFJ_Jungle_Humid",
+        "Weight": 100
+      }
+    ],
+    "19": [
+      {
+        "WeatherId": "TFJ_Jungle_Humid",
+        "Weight": 100
+      }
+    ],
+    "20": [
+      {
+        "WeatherId": "TFJ_Jungle_Humid",
+        "Weight": 100
+      }
+    ],
+    "21": [
+      {
+        "WeatherId": "TFJ_Jungle_Humid",
+        "Weight": 100
+      }
+    ],
+    "22": [
+      {
+        "WeatherId": "TFJ_Jungle_Humid",
+        "Weight": 100
+      }
+    ],
+    "23": [
+      {
+        "WeatherId": "TFJ_Jungle_Humid",
+        "Weight": 100
+      }
+    ]
+  }
+}

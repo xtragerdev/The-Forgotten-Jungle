@@ -1,0 +1,111 @@
+{
+  "version": 8,
+  "blockIdVersion": 11,
+  "anchorX": 0,
+  "anchorY": 0,
+  "anchorZ": 0,
+  "blocks": [
+    {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "name": "TFJ_Leaf_Litter"
+    }
+  ],
+  "entities": [
+    {
+      "Components": {
+        "Nameplate": {
+          "Text": "TFJ_Herbivores"
+        },
+        "HiddenFromAdventurePlayer": {},
+        "SpawnMarkerComponent": {
+          "SpawnMarker": "TFJ_Herbivores",
+          "RespawnTime": 70,
+          "SpawnCount": 1
+        },
+        "Transform": {
+          "Position": {
+            "X": 0,
+            "Y": 1,
+            "Z": 0
+          },
+          "Rotation": {
+            "Pitch": 0,
+            "Yaw": 0,
+            "Roll": 0
+          }
+        },
+        "Intangible": {},
+        "PrefabCopyable": {},
+        "Model": {
+          "Model": {
+            "Id": "NPC_Spawn_Marker",
+            "Scale": 1,
+            "Static": false
+          }
+        },
+        "UUID": {
+          "UUID": {
+            "$binary": "3Od/Qum0VXW2sab6ytPsQQ==",
+            "$type": "04"
+          }
+        },
+        "HeadRotation": {
+          "Rotation": {
+            "Pitch": 0,
+            "Yaw": 0,
+            "Roll": 0
+          }
+        }
+      }
+    },
+    {
+      "Components": {
+        "Nameplate": {
+          "Text": "TFJ_Herbivores"
+        },
+        "HiddenFromAdventurePlayer": {},
+        "SpawnMarkerComponent": {
+          "SpawnMarker": "TFJ_Herbivores",
+          "RespawnTime": 70,
+          "SpawnCount": 1
+        },
+        "Transform": {
+          "Position": {
+            "X": -4,
+            "Y": 1,
+            "Z": -3
+          },
+          "Rotation": {
+            "Pitch": 0,
+            "Yaw": 0,
+            "Roll": 0
+          }
+        },
+        "Intangible": {},
+        "PrefabCopyable": {},
+        "Model": {
+          "Model": {
+            "Id": "NPC_Spawn_Marker",
+            "Scale": 1,
+            "Static": false
+          }
+        },
+        "UUID": {
+          "UUID": {
+            "$binary": "tVST0LbwW66qCxSCjkzUBg==",
+            "$type": "04"
+          }
+        },
+        "HeadRotation": {
+          "Rotation": {
+            "Pitch": 0,
+            "Yaw": 0,
+            "Roll": 0
+          }
+        }
+      }
+    }
+  ]
+}

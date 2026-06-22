@@ -1,0 +1,128 @@
+{
+    "Model":  "NPC_Spawn_Marker",
+    "NPCs":  [
+                 {
+                     "Name":  "TFJ_Raptor_Stalker",
+                     "Weight":  38,
+                     "SpawnAfterGameTime":  "PT0S",
+                     "Flock":  {
+                                   "Type":  "Weighted",
+                                   "MinSize":  1,
+                                   "SizeWeights":  [
+                                                       70,
+                                                       24,
+                                                       5,
+                                                       1
+                                                   ]
+                               }
+                 },
+                 {
+                     "Name":  "TFJ_Raptor_Packrunner",
+                     "Weight":  48,
+                     "SpawnAfterGameTime":  "PT0S",
+                     "Flock":  {
+                                   "Type":  "Weighted",
+                                   "MinSize":  1,
+                                   "SizeWeights":  [
+                                                       70,
+                                                       24,
+                                                       5,
+                                                       1
+                                                   ]
+                               }
+                 },
+                 {
+                     "Name":  "TFJ_Raptor_Bonecrest",
+                     "Weight":  24,
+                     "SpawnAfterGameTime":  "PT0S",
+                     "Flock":  {
+                                   "Type":  "Weighted",
+                                   "MinSize":  1,
+                                   "SizeWeights":  [
+                                                       70,
+                                                       24,
+                                                       5,
+                                                       1
+                                                   ]
+                               }
+                 },
+                 {
+                     "Name":  "TFJ_Raptor_Mireclaw",
+                     "Weight":  34,
+                     "SpawnAfterGameTime":  "PT0S",
+                     "Flock":  {
+                                   "Type":  "Weighted",
+                                   "MinSize":  1,
+                                   "SizeWeights":  [
+                                                       70,
+                                                       24,
+                                                       5,
+                                                       1
+                                                   ]
+                               }
+                 },
+                 {
+                     "Name":  "TFJ_Raptor_Sporeback",
+                     "Weight":  14,
+                     "SpawnAfterGameTime":  "PT0S",
+                     "Flock":  {
+                                   "Type":  "Weighted",
+                                   "MinSize":  1,
+                                   "SizeWeights":  [
+                                                       70,
+                                                       24,
+                                                       5,
+                                                       1
+                                                   ]
+                               }
+                 },
+                 {
+                     "Name":  "TFJ_Raptor_Nightmaw",
+                     "Weight":  10,
+                     "SpawnAfterGameTime":  "PT0S",
+                     "Flock":  {
+                                   "Type":  "Weighted",
+                                   "MinSize":  1,
+                                   "SizeWeights":  [
+                                                       70,
+                                                       24,
+                                                       5,
+                                                       1
+                                                   ]
+                               }
+                 },
+                 {
+                     "Name":  "TFJ_Raptor_Bloodscale",
+                     "Weight":  8,
+                     "SpawnAfterGameTime":  "PT0S",
+                     "Flock":  {
+                                   "Type":  "Weighted",
+                                   "MinSize":  1,
+                                   "SizeWeights":  [
+                                                       70,
+                                                       24,
+                                                       5,
+                                                       1
+                                                   ]
+                               }
+                 },
+                 {
+                     "Name":  "TFJ_Raptor_Venomcrest",
+                     "Weight":  12,
+                     "SpawnAfterGameTime":  "PT0S",
+                     "Flock":  {
+                                   "Type":  "Weighted",
+                                   "MinSize":  1,
+                                   "SizeWeights":  [
+                                                       70,
+                                                       24,
+                                                       5,
+                                                       1
+                                                   ]
+                               }
+                 }
+             ],
+    "ExclusionRadius":  12,
+    "MaxDropHeight":  12,
+    "DeactivationDistance":  150
+}

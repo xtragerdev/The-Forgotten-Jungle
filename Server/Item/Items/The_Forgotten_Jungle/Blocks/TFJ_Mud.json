@@ -1,0 +1,61 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.TFJ_Mud.name",
+    "Description": "server.items.TFJ_Mud.description"
+  },
+  "ItemLevel": 1,
+  "MaxStack": 100,
+  "Icon": "Icons/ItemsGenerated/TFJ_Mud.png",
+  "Categories": [
+    "TheForgottenJungle.Blocks"
+  ],
+  "PlayerAnimationsId": "Block",
+  "Set": "TFJ_Mud",
+  "Recipe": {
+    "Input": [
+      {
+        "ResourceTypeId": "Rock_Stone",
+        "Quantity": 1
+      }
+    ],
+    "BenchRequirement": [],
+    "OutputQuantity": 1,
+    "TimeSeconds": 0
+  },
+  "BlockType": {
+    "Material": "Solid",
+    "DrawType": "Cube",
+    "Group": "Dirt",
+    "Flags": {},
+    "Gathering": {
+      "Breaking": {
+        "GatherType": "Rocks"
+      }
+    },
+    "BlockParticleSetId": "Stone",
+    "Textures": [
+      {
+        "Sides": "BlockTextures/TFJ_Mud.png",
+        "UpDown": "BlockTextures/TFJ_Mud.png",
+        "Weight": 1
+      }
+    ],
+    "ParticleColor": "#59412d",
+    "BlockSoundSetId": "Mud"
+  },
+  "ResourceTypes": [
+    {
+      "Id": "TFJ_Mud"
+    }
+  ],
+  "Tags": {
+    "Type": [
+      "Dirt"
+    ],
+    "Family": [
+      "Forgotten"
+    ]
+  },
+  "ItemSoundSetId": "ISS_Blocks_Stone",
+  "Quality": "Common"
+}

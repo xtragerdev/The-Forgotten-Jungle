@@ -1,0 +1,172 @@
+{
+  "version": 8,
+  "blockIdVersion": 11,
+  "anchorX": 0,
+  "anchorY": 0,
+  "anchorZ": 0,
+  "blocks": [
+    {
+      "x": -7,
+      "y": 0,
+      "z": 0,
+      "name": "TFJ_Titanwood_Log"
+    },
+    {
+      "x": -6,
+      "y": 0,
+      "z": 0,
+      "name": "TFJ_Titanwood_Log"
+    },
+    {
+      "x": -6,
+      "y": 1,
+      "z": 0,
+      "name": "TFJ_Hanging_Vines"
+    },
+    {
+      "x": -6,
+      "y": 0,
+      "z": 1,
+      "name": "TFJ_Leaf_Litter"
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": 0,
+      "name": "TFJ_Titanwood_Log"
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 0,
+      "name": "TFJ_Titanwood_Log"
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 1,
+      "name": "TFJ_Leaf_Litter"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 0,
+      "name": "TFJ_Titanwood_Log"
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": 0,
+      "name": "TFJ_Hanging_Vines"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 0,
+      "name": "TFJ_Titanwood_Log"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 1,
+      "name": "TFJ_Leaf_Litter"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 0,
+      "name": "TFJ_Titanwood_Log"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "name": "TFJ_Titanwood_Log"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 0,
+      "name": "TFJ_Hanging_Vines"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 1,
+      "name": "TFJ_Leaf_Litter"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 0,
+      "name": "TFJ_Titanwood_Log"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 0,
+      "name": "TFJ_Titanwood_Log"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 1,
+      "name": "TFJ_Leaf_Litter"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 0,
+      "name": "TFJ_Titanwood_Log"
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": 0,
+      "name": "TFJ_Hanging_Vines"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 0,
+      "name": "TFJ_Titanwood_Log"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 1,
+      "name": "TFJ_Leaf_Litter"
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": 0,
+      "name": "TFJ_Titanwood_Log"
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": 0,
+      "name": "TFJ_Titanwood_Log"
+    },
+    {
+      "x": 6,
+      "y": 1,
+      "z": 0,
+      "name": "TFJ_Hanging_Vines"
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": 1,
+      "name": "TFJ_Leaf_Litter"
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": 0,
+      "name": "TFJ_Titanwood_Log"
+    }
+  ],
+  "entities": []
+}

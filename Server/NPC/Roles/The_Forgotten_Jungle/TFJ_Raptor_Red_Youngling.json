@@ -1,0 +1,69 @@
+{
+  "Type": "Variant",
+  "Reference": "Template_TFJ_Raptor_Care",
+  "Modify": {
+    "Appearance": "TFJ_Raptor_Red_Youngling",
+    "SeparationDistance": 0.55,
+    "FlockArray": [
+      "TFJ_Raptor_Red",
+      "TFJ_Raptor_Red_Subadult",
+      "TFJ_Raptor_Red_Juvenile",
+      "TFJ_Raptor_Red_Youngling",
+      "TFJ_Raptor_Red_Hatchling"
+    ],
+    "AttractiveItemSet": [
+      "TFJ_Raptor_Treat",
+      "TFJ_Raptor_Growth_Morsel"
+    ],
+    "FollowItemDistance": [
+      2.2,
+      3.4
+    ],
+    "DropList": "Drop_Raptor_Cave",
+    "MaxHealth": 34,
+    "MaxSpeed": 8,
+    "ViewRange": 10,
+    "ViewSector": 300,
+    "HearingRange": 6,
+    "AlertedRange": 11,
+    "AlertedActionRange": 4,
+    "AbsoluteDetectionRange": 1.3,
+    "IsHarvestable": false,
+    "HarvestDropList": "Drop_Chicken_Harvest",
+    "HarvestInteractionContext": "Shear",
+    "HarvestInteractionRequiredItems": [
+      "Tool_Shears_Basic"
+    ],
+    "HarvestParticles": "Impact_Feathers_Black",
+    "HarvestSound": "SFX_Chicken_Alerted",
+    "HarvestTimeout": [
+      "PT11H",
+      "PT14H"
+    ],
+    "ProduceItem": "",
+    "ProduceTimeout": [
+      "PT36H",
+      "PT48H"
+    ],
+    "IsMemory": true,
+    "MemoriesNameOverride": "TFJ_Raptor_Red_Youngling",
+    "NameTranslationKey": {
+      "Compute": "NameTranslationKey"
+    },
+    "MemoriesCategory": "Forgotten",
+    "GreetAnimation": "Alerted",
+    "PetAnimation": "Alerted",
+    "DayFlavorAnimation": "IdlePassive",
+    "DayFlavorAnimationLength": [
+      2,
+      4
+    ],
+    "IsPettable": false
+  },
+  "Parameters": {
+    "NameTranslationKey": {
+      "Value": "server.npcRoles.TFJ_Raptor_Red_Youngling.name",
+      "Description": "Translation key for NPC name display"
+    }
+  }
+}

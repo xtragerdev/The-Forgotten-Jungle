@@ -1,0 +1,23 @@
+{
+  "Model": "NPC_Spawn_Marker",
+  "NPCs": [
+    {
+      "Name": "TFJ_Trillodon_Bull",
+      "Weight": 20,
+      "SpawnAfterGameTime": "PT0S"
+    },
+    {
+      "Name": "TFJ_Trillodon_Mossback",
+      "Weight": 36,
+      "SpawnAfterGameTime": "PT0S"
+    },
+    {
+      "Name": "TFJ_Trillodon_Young",
+      "Weight": 32,
+      "SpawnAfterGameTime": "PT0S"
+    }
+  ],
+  "ExclusionRadius": 22,
+  "MaxDropHeight": 96,
+  "DeactivationDistance": 160
+}

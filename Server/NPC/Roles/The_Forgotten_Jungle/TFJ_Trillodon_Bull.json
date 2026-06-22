@@ -1,0 +1,26 @@
+{
+  "Type": "Variant",
+  "Reference": "Template_Animal_Neutral",
+  "Modify": {
+    "Appearance": "TFJ_Trillodon_Bull",
+    "DropList": "Drop_Trillodon",
+    "MaxHealth": 210,
+    "IsMemory": true,
+    "MemoriesCategory": "Forgotten",
+    "NameTranslationKey": {
+      "Compute": "NameTranslationKey"
+    },
+    "FlockArray": [
+      "TFJ_Trillodon_Bull"
+    ],
+    "MaxSpeed": 7,
+    "MemoriesNameOverride": "TFJ_Trillodon_Bull",
+    "WanderRadius": 16
+  },
+  "Parameters": {
+    "NameTranslationKey": {
+      "Value": "server.npcRoles.TFJ_Trillodon_Bull.name",
+      "Description": "Translation key for NPC name display"
+    }
+  }
+}

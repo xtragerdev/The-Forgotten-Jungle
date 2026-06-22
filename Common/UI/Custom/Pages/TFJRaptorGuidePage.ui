@@ -1,0 +1,176 @@
+$C = "../Common.ui";
+
+@TFJGold = #fff0b8;
+@TFJLeaf = #8fcb62;
+@TFJLeafSoft = #cce8a3;
+@TFJDark = #071108(0.965);
+@TFJRow = #101c12(0.88);
+@TFJLine = #8dbd56(0.78);
+
+@TFJGuideButton = TextButtonStyle(
+  Default: (Background: (Color: #203018(1)), LabelStyle: (TextColor: #fff0b8(1), FontSize: 12, RenderBold: true, HorizontalAlignment: Center, VerticalAlignment: Center)),
+  Hovered: (Background: (Color: #314623(1)), LabelStyle: (TextColor: #ffffff(1), FontSize: 12, RenderBold: true, HorizontalAlignment: Center, VerticalAlignment: Center)),
+  Pressed: (Background: (Color: #536433(1)), LabelStyle: (TextColor: #ffffff(1), FontSize: 12, RenderBold: true, HorizontalAlignment: Center, VerticalAlignment: Center)),
+  Sounds: $C.@ButtonsCancel
+);
+
+$C.@PageOverlay {
+  Group #TFJRaptorGuideRoot {
+    Anchor: (Width: 680, Height: 430);
+    Background: (TexturePath: "../Common/ContainerPanelPatch.png", Border: 4);
+
+    Label #TFJRaptorGuideTitle {
+      Style: (TextColor: @TFJGold, FontSize: 22, RenderBold: true, HorizontalAlignment: Start, VerticalAlignment: Center, ShrinkTextToFit: true, MinShrinkTextToFitFontSize: 14);
+      Text: "Raptor Species";
+      Anchor: (Left: 36, Right: 152, Top: 28, Height: 30);
+    }
+
+    Label #TFJRaptorGuidePageLabel {
+      Style: (TextColor: #ffe18b, FontSize: 14, RenderBold: true, HorizontalAlignment: End, VerticalAlignment: Center);
+      Text: "1 / 1";
+      Anchor: (Right: 36, Top: 32, Width: 92, Height: 24);
+    }
+
+    Label #TFJRaptorGuideSubtitle {
+      Style: (TextColor: @TFJLeafSoft, FontSize: 12, RenderBold: true, HorizontalAlignment: Start, VerticalAlignment: Center, ShrinkTextToFit: true, MinShrinkTextToFitFontSize: 9);
+      Text: "Stats shown as adult values. Natural species can spawn wild.";
+      Anchor: (Left: 36, Right: 36, Top: 62, Height: 20);
+    }
+
+    Label #TFJRaptorGuideHeaderName {
+      Style: (TextColor: @TFJGold, FontSize: 11, RenderBold: true, HorizontalAlignment: Start, VerticalAlignment: Center);
+      Text: "Pair / Species";
+      Anchor: (Left: 48, Top: 88, Width: 142, Height: 18);
+    }
+
+    Label #TFJRaptorGuideHeaderDetail {
+      Style: (TextColor: @TFJGold, FontSize: 11, RenderBold: true, HorizontalAlignment: Start, VerticalAlignment: Center);
+      Text: "Special result";
+      Anchor: (Left: 212, Top: 88, Right: 158, Height: 18);
+    }
+
+    Label #TFJRaptorGuideHeaderChance {
+      Style: (TextColor: @TFJGold, FontSize: 11, RenderBold: true, HorizontalAlignment: End, VerticalAlignment: Center);
+      Text: "Base chance";
+      Anchor: (Right: 48, Top: 88, Width: 118, Height: 18);
+    }
+
+    Group #TFJRaptorGuideRow0 {
+      Anchor: (Left: 36, Right: 36, Top: 112, Height: 24);
+      Background: @TFJRow;
+      OutlineColor: @TFJLine;
+      OutlineSize: 1;
+      Label #TFJRaptorGuideRow0Name { Style: (TextColor: #fff0b8, FontSize: 11, RenderBold: true, HorizontalAlignment: Start, VerticalAlignment: Center, ShrinkTextToFit: true, MinShrinkTextToFitFontSize: 8); Text: ""; Anchor: (Left: 10, Top: 1, Width: 152, Height: 22); }
+      Label #TFJRaptorGuideRow0Detail { Style: (TextColor: #cce8a3, FontSize: 11, RenderBold: true, HorizontalAlignment: Start, VerticalAlignment: Center, ShrinkTextToFit: true, MinShrinkTextToFitFontSize: 8); Text: ""; Anchor: (Left: 174, Right: 128, Top: 1, Height: 22); }
+      Label #TFJRaptorGuideRow0Chance { Style: (TextColor: #ffe18b, FontSize: 11, RenderBold: true, HorizontalAlignment: End, VerticalAlignment: Center, ShrinkTextToFit: true, MinShrinkTextToFitFontSize: 8); Text: ""; Anchor: (Right: 10, Top: 1, Width: 112, Height: 22); }
+    }
+
+    Group #TFJRaptorGuideRow1 {
+      Anchor: (Left: 36, Right: 36, Top: 140, Height: 24);
+      Background: @TFJRow;
+      OutlineColor: @TFJLine;
+      OutlineSize: 1;
+      Label #TFJRaptorGuideRow1Name { Style: (TextColor: #fff0b8, FontSize: 11, RenderBold: true, HorizontalAlignment: Start, VerticalAlignment: Center, ShrinkTextToFit: true, MinShrinkTextToFitFontSize: 8); Text: ""; Anchor: (Left: 10, Top: 1, Width: 152, Height: 22); }
+      Label #TFJRaptorGuideRow1Detail { Style: (TextColor: #cce8a3, FontSize: 11, RenderBold: true, HorizontalAlignment: Start, VerticalAlignment: Center, ShrinkTextToFit: true, MinShrinkTextToFitFontSize: 8); Text: ""; Anchor: (Left: 174, Right: 128, Top: 1, Height: 22); }
+      Label #TFJRaptorGuideRow1Chance { Style: (TextColor: #ffe18b, FontSize: 11, RenderBold: true, HorizontalAlignment: End, VerticalAlignment: Center, ShrinkTextToFit: true, MinShrinkTextToFitFontSize: 8); Text: ""; Anchor: (Right: 10, Top: 1, Width: 112, Height: 22); }
+    }
+
+    Group #TFJRaptorGuideRow2 {
+      Anchor: (Left: 36, Right: 36, Top: 168, Height: 24);
+      Background: @TFJRow;
+      OutlineColor: @TFJLine;
+      OutlineSize: 1;
+      Label #TFJRaptorGuideRow2Name { Style: (TextColor: #fff0b8, FontSize: 11, RenderBold: true, HorizontalAlignment: Start, VerticalAlignment: Center, ShrinkTextToFit: true, MinShrinkTextToFitFontSize: 8); Text: ""; Anchor: (Left: 10, Top: 1, Width: 152, Height: 22); }
+      Label #TFJRaptorGuideRow2Detail { Style: (TextColor: #cce8a3, FontSize: 11, RenderBold: true, HorizontalAlignment: Start, VerticalAlignment: Center, ShrinkTextToFit: true, MinShrinkTextToFitFontSize: 8); Text: ""; Anchor: (Left: 174, Right: 128, Top: 1, Height: 22); }
+      Label #TFJRaptorGuideRow2Chance { Style: (TextColor: #ffe18b, FontSize: 11, RenderBold: true, HorizontalAlignment: End, VerticalAlignment: Center, ShrinkTextToFit: true, MinShrinkTextToFitFontSize: 8); Text: ""; Anchor: (Right: 10, Top: 1, Width: 112, Height: 22); }
+    }
+
+    Group #TFJRaptorGuideRow3 {
+      Anchor: (Left: 36, Right: 36, Top: 196, Height: 24);
+      Background: @TFJRow;
+      OutlineColor: @TFJLine;
+      OutlineSize: 1;
+      Label #TFJRaptorGuideRow3Name { Style: (TextColor: #fff0b8, FontSize: 11, RenderBold: true, HorizontalAlignment: Start, VerticalAlignment: Center, ShrinkTextToFit: true, MinShrinkTextToFitFontSize: 8); Text: ""; Anchor: (Left: 10, Top: 1, Width: 152, Height: 22); }
+      Label #TFJRaptorGuideRow3Detail { Style: (TextColor: #cce8a3, FontSize: 11, RenderBold: true, HorizontalAlignment: Start, VerticalAlignment: Center, ShrinkTextToFit: true, MinShrinkTextToFitFontSize: 8); Text: ""; Anchor: (Left: 174, Right: 128, Top: 1, Height: 22); }
+      Label #TFJRaptorGuideRow3Chance { Style: (TextColor: #ffe18b, FontSize: 11, RenderBold: true, HorizontalAlignment: End, VerticalAlignment: Center, ShrinkTextToFit: true, MinShrinkTextToFitFontSize: 8); Text: ""; Anchor: (Right: 10, Top: 1, Width: 112, Height: 22); }
+    }
+
+    Group #TFJRaptorGuideRow4 {
+      Anchor: (Left: 36, Right: 36, Top: 224, Height: 24);
+      Background: @TFJRow;
+      OutlineColor: @TFJLine;
+      OutlineSize: 1;
+      Label #TFJRaptorGuideRow4Name { Style: (TextColor: #fff0b8, FontSize: 11, RenderBold: true, HorizontalAlignment: Start, VerticalAlignment: Center, ShrinkTextToFit: true, MinShrinkTextToFitFontSize: 8); Text: ""; Anchor: (Left: 10, Top: 1, Width: 152, Height: 22); }
+      Label #TFJRaptorGuideRow4Detail { Style: (TextColor: #cce8a3, FontSize: 11, RenderBold: true, HorizontalAlignment: Start, VerticalAlignment: Center, ShrinkTextToFit: true, MinShrinkTextToFitFontSize: 8); Text: ""; Anchor: (Left: 174, Right: 128, Top: 1, Height: 22); }
+      Label #TFJRaptorGuideRow4Chance { Style: (TextColor: #ffe18b, FontSize: 11, RenderBold: true, HorizontalAlignment: End, VerticalAlignment: Center, ShrinkTextToFit: true, MinShrinkTextToFitFontSize: 8); Text: ""; Anchor: (Right: 10, Top: 1, Width: 112, Height: 22); }
+    }
+
+    Group #TFJRaptorGuideRow5 {
+      Anchor: (Left: 36, Right: 36, Top: 252, Height: 24);
+      Background: @TFJRow;
+      OutlineColor: @TFJLine;
+      OutlineSize: 1;
+      Label #TFJRaptorGuideRow5Name { Style: (TextColor: #fff0b8, FontSize: 11, RenderBold: true, HorizontalAlignment: Start, VerticalAlignment: Center, ShrinkTextToFit: true, MinShrinkTextToFitFontSize: 8); Text: ""; Anchor: (Left: 10, Top: 1, Width: 152, Height: 22); }
+      Label #TFJRaptorGuideRow5Detail { Style: (TextColor: #cce8a3, FontSize: 11, RenderBold: true, HorizontalAlignment: Start, VerticalAlignment: Center, ShrinkTextToFit: true, MinShrinkTextToFitFontSize: 8); Text: ""; Anchor: (Left: 174, Right: 128, Top: 1, Height: 22); }
+      Label #TFJRaptorGuideRow5Chance { Style: (TextColor: #ffe18b, FontSize: 11, RenderBold: true, HorizontalAlignment: End, VerticalAlignment: Center, ShrinkTextToFit: true, MinShrinkTextToFitFontSize: 8); Text: ""; Anchor: (Right: 10, Top: 1, Width: 112, Height: 22); }
+    }
+
+    Group #TFJRaptorGuideRow6 {
+      Anchor: (Left: 36, Right: 36, Top: 280, Height: 24);
+      Background: @TFJRow;
+      OutlineColor: @TFJLine;
+      OutlineSize: 1;
+      Label #TFJRaptorGuideRow6Name { Style: (TextColor: #fff0b8, FontSize: 11, RenderBold: true, HorizontalAlignment: Start, VerticalAlignment: Center, ShrinkTextToFit: true, MinShrinkTextToFitFontSize: 8); Text: ""; Anchor: (Left: 10, Top: 1, Width: 152, Height: 22); }
+      Label #TFJRaptorGuideRow6Detail { Style: (TextColor: #cce8a3, FontSize: 11, RenderBold: true, HorizontalAlignment: Start, VerticalAlignment: Center, ShrinkTextToFit: true, MinShrinkTextToFitFontSize: 8); Text: ""; Anchor: (Left: 174, Right: 128, Top: 1, Height: 22); }
+      Label #TFJRaptorGuideRow6Chance { Style: (TextColor: #ffe18b, FontSize: 11, RenderBold: true, HorizontalAlignment: End, VerticalAlignment: Center, ShrinkTextToFit: true, MinShrinkTextToFitFontSize: 8); Text: ""; Anchor: (Right: 10, Top: 1, Width: 112, Height: 22); }
+    }
+
+    Group #TFJRaptorGuideRow7 {
+      Anchor: (Left: 36, Right: 36, Top: 308, Height: 24);
+      Background: @TFJRow;
+      OutlineColor: @TFJLine;
+      OutlineSize: 1;
+      Label #TFJRaptorGuideRow7Name { Style: (TextColor: #fff0b8, FontSize: 11, RenderBold: true, HorizontalAlignment: Start, VerticalAlignment: Center, ShrinkTextToFit: true, MinShrinkTextToFitFontSize: 8); Text: ""; Anchor: (Left: 10, Top: 1, Width: 152, Height: 22); }
+      Label #TFJRaptorGuideRow7Detail { Style: (TextColor: #cce8a3, FontSize: 11, RenderBold: true, HorizontalAlignment: Start, VerticalAlignment: Center, ShrinkTextToFit: true, MinShrinkTextToFitFontSize: 8); Text: ""; Anchor: (Left: 174, Right: 128, Top: 1, Height: 22); }
+      Label #TFJRaptorGuideRow7Chance { Style: (TextColor: #ffe18b, FontSize: 11, RenderBold: true, HorizontalAlignment: End, VerticalAlignment: Center, ShrinkTextToFit: true, MinShrinkTextToFitFontSize: 8); Text: ""; Anchor: (Right: 10, Top: 1, Width: 112, Height: 22); }
+    }
+
+    Group #TFJRaptorGuideRow8 {
+      Anchor: (Left: 36, Right: 36, Top: 336, Height: 24);
+      Background: @TFJRow;
+      OutlineColor: @TFJLine;
+      OutlineSize: 1;
+      Label #TFJRaptorGuideRow8Name { Style: (TextColor: #fff0b8, FontSize: 11, RenderBold: true, HorizontalAlignment: Start, VerticalAlignment: Center, ShrinkTextToFit: true, MinShrinkTextToFitFontSize: 8); Text: ""; Anchor: (Left: 10, Top: 1, Width: 152, Height: 22); }
+      Label #TFJRaptorGuideRow8Detail { Style: (TextColor: #cce8a3, FontSize: 11, RenderBold: true, HorizontalAlignment: Start, VerticalAlignment: Center, ShrinkTextToFit: true, MinShrinkTextToFitFontSize: 8); Text: ""; Anchor: (Left: 174, Right: 128, Top: 1, Height: 22); }
+      Label #TFJRaptorGuideRow8Chance { Style: (TextColor: #ffe18b, FontSize: 11, RenderBold: true, HorizontalAlignment: End, VerticalAlignment: Center, ShrinkTextToFit: true, MinShrinkTextToFitFontSize: 8); Text: ""; Anchor: (Right: 10, Top: 1, Width: 112, Height: 22); }
+    }
+
+    Group #TFJRaptorGuideRow9 {
+      Anchor: (Left: 36, Right: 36, Top: 364, Height: 24);
+      Background: @TFJRow;
+      OutlineColor: @TFJLine;
+      OutlineSize: 1;
+      Label #TFJRaptorGuideRow9Name { Style: (TextColor: #fff0b8, FontSize: 11, RenderBold: true, HorizontalAlignment: Start, VerticalAlignment: Center, ShrinkTextToFit: true, MinShrinkTextToFitFontSize: 8); Text: ""; Anchor: (Left: 10, Top: 1, Width: 152, Height: 22); }
+      Label #TFJRaptorGuideRow9Detail { Style: (TextColor: #cce8a3, FontSize: 11, RenderBold: true, HorizontalAlignment: Start, VerticalAlignment: Center, ShrinkTextToFit: true, MinShrinkTextToFitFontSize: 8); Text: ""; Anchor: (Left: 174, Right: 128, Top: 1, Height: 22); }
+      Label #TFJRaptorGuideRow9Chance { Style: (TextColor: #ffe18b, FontSize: 11, RenderBold: true, HorizontalAlignment: End, VerticalAlignment: Center, ShrinkTextToFit: true, MinShrinkTextToFitFontSize: 8); Text: ""; Anchor: (Right: 10, Top: 1, Width: 112, Height: 22); }
+    }
+
+    TextButton #TFJRaptorGuidePreviousButton {
+      Anchor: (Left: 36, Top: 398, Width: 82, Height: 22);
+      Text: "Prev";
+      Style: @TFJGuideButton;
+    }
+
+    TextButton #TFJRaptorGuideNextButton {
+      Anchor: (Left: 128, Top: 398, Width: 82, Height: 22);
+      Text: "Next";
+      Style: @TFJGuideButton;
+    }
+
+    TextButton #TFJRaptorGuideCloseButton {
+      Anchor: (Right: 36, Top: 398, Width: 82, Height: 22);
+      Text: "Close";
+      Style: @TFJGuideButton;
+    }
+  }
+}

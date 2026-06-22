@@ -1,0 +1,47 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.TFJ_Leaf_Litter.name",
+    "Description": "server.items.TFJ_Leaf_Litter.description"
+  },
+  "ItemLevel": 1,
+  "MaxStack": 99,
+  "Icon": "Icons/ItemsGenerated/TFJ_Leaf_Litter.png",
+  "Categories": [
+    "TheForgottenJungle.Blocks"
+  ],
+  "PlayerAnimationsId": "Block",
+  "Set": "TFJ_Leaf_Litter",
+  "BlockType": {
+    "DrawType": "Model",
+    "Material": "Solid",
+    "Opacity": "Transparent",
+    "CustomModel": "Blocks/Foliage/Plants/Leaves_Floor.blockymodel",
+    "CustomModelTexture": [
+      {
+        "Texture": "Blocks/Foliage/Plants/TFJ_Leaf_Litter.png",
+        "Weight": 1
+      }
+    ],
+    "CustomModelScale": 1.0,
+    "HitboxType": "Plant_Full",
+    "BlockParticleSetId": "Grass",
+    "BlockSoundSetId": "Grass",
+    "VariantRotation": "NESW",
+    "Gathering": {
+      "Breaking": {
+        "GatherType": "Woods"
+      }
+    },
+    "ParticleColor": "#816f3f"
+  },
+  "Tags": {
+    "Type": [
+      "Plant"
+    ],
+    "Family": [
+      "Forgotten"
+    ]
+  },
+  "Quality": "Common",
+  "ItemSoundSetId": "ISS_Blocks_Wood"
+}

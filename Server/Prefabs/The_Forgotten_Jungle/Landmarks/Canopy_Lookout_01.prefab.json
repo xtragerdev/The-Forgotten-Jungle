@@ -1,0 +1,1744 @@
+{
+  "version": 8,
+  "blockIdVersion": 11,
+  "anchorX": 0,
+  "anchorY": 0,
+  "anchorZ": 0,
+  "blocks": [
+    {
+      "x": -4,
+      "y": 5,
+      "z": -4,
+      "name": "TFJ_Titanwood_Planks"
+    },
+    {
+      "x": -4,
+      "y": 5,
+      "z": -3,
+      "name": "TFJ_Titanwood_Planks"
+    },
+    {
+      "x": -4,
+      "y": 5,
+      "z": -2,
+      "name": "TFJ_Titanwood_Planks"
+    },
+    {
+      "x": -4,
+      "y": 5,
+      "z": -1,
+      "name": "TFJ_Titanwood_Planks"
+    },
+    {
+      "x": -4,
+      "y": 5,
+      "z": 0,
+      "name": "TFJ_Titanwood_Planks"
+    },
+    {
+      "x": -4,
+      "y": 5,
+      "z": 1,
+      "name": "TFJ_Titanwood_Planks"
+    },
+    {
+      "x": -4,
+      "y": 5,
+      "z": 2,
+      "name": "TFJ_Titanwood_Planks"
+    },
+    {
+      "x": -4,
+      "y": 5,
+      "z": 3,
+      "name": "TFJ_Titanwood_Planks"
+    },
+    {
+      "x": -4,
+      "y": 5,
+      "z": 4,
+      "name": "TFJ_Titanwood_Planks"
+    },
+    {
+      "x": -3,
+      "y": 5,
+      "z": -4,
+      "name": "TFJ_Titanwood_Planks"
+    },
+    {
+      "x": -3,
+      "y": 5,
+      "z": -3,
+      "name": "TFJ_Titanwood_Planks"
+    },
+    {
+      "x": -3,
+      "y": 5,
+      "z": -2,
+      "name": "TFJ_Titanwood_Planks"
+    },
+    {
+      "x": -3,
+      "y": 5,
+      "z": -1,
+      "name": "TFJ_Titanwood_Planks"
+    },
+    {
+      "x": -3,
+      "y": 5,
+      "z": 0,
+      "name": "TFJ_Titanwood_Planks"
+    },
+    {
+      "x": -3,
+      "y": 5,
+      "z": 1,
+      "name": "TFJ_Titanwood_Planks"
+    },
+    {
+      "x": -3,
+      "y": 5,
+      "z": 2,
+      "name": "TFJ_Titanwood_Planks"
+    },
+    {
+      "x": -3,
+      "y": 5,
+      "z": 3,
+      "name": "TFJ_Titanwood_Planks"
+    },
+    {
+      "x": -3,
+      "y": 5,
+      "z": 4,
+      "name": "TFJ_Titanwood_Planks"
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": -4,
+      "name": "TFJ_Titanwood_Planks"
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": -3,
+      "name": "TFJ_Titanwood_Planks"
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": -2,
+      "name": "TFJ_Titanwood_Planks"
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": -1,
+      "name": "TFJ_Titanwood_Planks"
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": 0,
+      "name": "TFJ_Titanwood_Planks"
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": 1,
+      "name": "TFJ_Titanwood_Planks"
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": 2,
+      "name": "TFJ_Titanwood_Planks"
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": 3,
+      "name": "TFJ_Titanwood_Planks"
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": 4,
+      "name": "TFJ_Titanwood_Planks"
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": -4,
+      "name": "TFJ_Titanwood_Planks"
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": -3,
+      "name": "TFJ_Titanwood_Planks"
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": -2,
+      "name": "TFJ_Titanwood_Planks"
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": -1,
+      "name": "TFJ_Titanwood_Planks"
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": 0,
+      "name": "TFJ_Titanwood_Planks"
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": 1,
+      "name": "TFJ_Titanwood_Planks"
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": 2,
+      "name": "TFJ_Titanwood_Planks"
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": 3,
+      "name": "TFJ_Titanwood_Planks"
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": 4,
+      "name": "TFJ_Titanwood_Planks"
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": -4,
+      "name": "TFJ_Titanwood_Planks"
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": -3,
+      "name": "TFJ_Titanwood_Planks"
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": -2,
+      "name": "TFJ_Titanwood_Planks"
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": -1,
+      "name": "TFJ_Titanwood_Planks"
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": 0,
+      "name": "TFJ_Titanwood_Planks"
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": 1,
+      "name": "TFJ_Titanwood_Planks"
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": 2,
+      "name": "TFJ_Titanwood_Planks"
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": 3,
+      "name": "TFJ_Titanwood_Planks"
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": 4,
+      "name": "TFJ_Titanwood_Planks"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": -4,
+      "name": "TFJ_Titanwood_Planks"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": -3,
+      "name": "TFJ_Titanwood_Planks"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": -2,
+      "name": "TFJ_Titanwood_Planks"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": -1,
+      "name": "TFJ_Titanwood_Planks"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": 0,
+      "name": "TFJ_Titanwood_Planks"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": 1,
+      "name": "TFJ_Titanwood_Planks"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": 2,
+      "name": "TFJ_Titanwood_Planks"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": 3,
+      "name": "TFJ_Titanwood_Planks"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": 4,
+      "name": "TFJ_Titanwood_Planks"
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": -4,
+      "name": "TFJ_Titanwood_Planks"
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": -3,
+      "name": "TFJ_Titanwood_Planks"
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": -2,
+      "name": "TFJ_Titanwood_Planks"
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": -1,
+      "name": "TFJ_Titanwood_Planks"
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": 0,
+      "name": "TFJ_Titanwood_Planks"
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": 1,
+      "name": "TFJ_Titanwood_Planks"
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": 2,
+      "name": "TFJ_Titanwood_Planks"
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": 3,
+      "name": "TFJ_Titanwood_Planks"
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": 4,
+      "name": "TFJ_Titanwood_Planks"
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": -4,
+      "name": "TFJ_Titanwood_Planks"
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": -3,
+      "name": "TFJ_Titanwood_Planks"
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": -2,
+      "name": "TFJ_Titanwood_Planks"
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": -1,
+      "name": "TFJ_Titanwood_Planks"
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": 0,
+      "name": "TFJ_Titanwood_Planks"
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": 1,
+      "name": "TFJ_Titanwood_Planks"
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": 2,
+      "name": "TFJ_Titanwood_Planks"
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": 3,
+      "name": "TFJ_Titanwood_Planks"
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": 4,
+      "name": "TFJ_Titanwood_Planks"
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": -4,
+      "name": "TFJ_Titanwood_Planks"
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": -3,
+      "name": "TFJ_Titanwood_Planks"
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": -2,
+      "name": "TFJ_Titanwood_Planks"
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": -1,
+      "name": "TFJ_Titanwood_Planks"
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": 0,
+      "name": "TFJ_Titanwood_Planks"
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": 1,
+      "name": "TFJ_Titanwood_Planks"
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": 2,
+      "name": "TFJ_Titanwood_Planks"
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": 3,
+      "name": "TFJ_Titanwood_Planks"
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": 4,
+      "name": "TFJ_Titanwood_Planks"
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": -4,
+      "name": "TFJ_Titanwood_Log"
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": -4,
+      "name": "TFJ_Titanwood_Log"
+    },
+    {
+      "x": -4,
+      "y": 2,
+      "z": -4,
+      "name": "TFJ_Titanwood_Log"
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": -4,
+      "name": "TFJ_Titanwood_Log"
+    },
+    {
+      "x": -4,
+      "y": 4,
+      "z": -4,
+      "name": "TFJ_Titanwood_Log"
+    },
+    {
+      "x": -4,
+      "y": 5,
+      "z": -4,
+      "name": "TFJ_Titanwood_Log"
+    },
+    {
+      "x": -4,
+      "y": 6,
+      "z": -4,
+      "name": "TFJ_Titanwood_Log"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": -4,
+      "name": "TFJ_Titanwood_Log"
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": -4,
+      "name": "TFJ_Titanwood_Log"
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": -4,
+      "name": "TFJ_Titanwood_Log"
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": -4,
+      "name": "TFJ_Titanwood_Log"
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": -4,
+      "name": "TFJ_Titanwood_Log"
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": -4,
+      "name": "TFJ_Titanwood_Log"
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "z": -4,
+      "name": "TFJ_Titanwood_Log"
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 4,
+      "name": "TFJ_Titanwood_Log"
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "z": 4,
+      "name": "TFJ_Titanwood_Log"
+    },
+    {
+      "x": -4,
+      "y": 2,
+      "z": 4,
+      "name": "TFJ_Titanwood_Log"
+    },
+    {
+      "x": -4,
+      "y": 3,
+      "z": 4,
+      "name": "TFJ_Titanwood_Log"
+    },
+    {
+      "x": -4,
+      "y": 4,
+      "z": 4,
+      "name": "TFJ_Titanwood_Log"
+    },
+    {
+      "x": -4,
+      "y": 5,
+      "z": 4,
+      "name": "TFJ_Titanwood_Log"
+    },
+    {
+      "x": -4,
+      "y": 6,
+      "z": 4,
+      "name": "TFJ_Titanwood_Log"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 4,
+      "name": "TFJ_Titanwood_Log"
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": 4,
+      "name": "TFJ_Titanwood_Log"
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": 4,
+      "name": "TFJ_Titanwood_Log"
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": 4,
+      "name": "TFJ_Titanwood_Log"
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": 4,
+      "name": "TFJ_Titanwood_Log"
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": 4,
+      "name": "TFJ_Titanwood_Log"
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "z": 4,
+      "name": "TFJ_Titanwood_Log"
+    },
+    {
+      "x": -4,
+      "y": 6,
+      "z": -5,
+      "name": "TFJ_Hanging_Vines"
+    },
+    {
+      "x": -4,
+      "y": 6,
+      "z": 5,
+      "name": "TFJ_Hanging_Vines"
+    },
+    {
+      "x": -2,
+      "y": 6,
+      "z": -5,
+      "name": "TFJ_Hanging_Vines"
+    },
+    {
+      "x": -2,
+      "y": 6,
+      "z": 5,
+      "name": "TFJ_Hanging_Vines"
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": -5,
+      "name": "TFJ_Hanging_Vines"
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": 5,
+      "name": "TFJ_Hanging_Vines"
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": -5,
+      "name": "TFJ_Hanging_Vines"
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": 5,
+      "name": "TFJ_Hanging_Vines"
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "z": -5,
+      "name": "TFJ_Hanging_Vines"
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "z": 5,
+      "name": "TFJ_Hanging_Vines"
+    },
+    {
+      "x": -6,
+      "y": 7,
+      "z": -6,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -6,
+      "y": 7,
+      "z": -5,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -6,
+      "y": 7,
+      "z": -4,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -6,
+      "y": 7,
+      "z": -3,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -6,
+      "y": 7,
+      "z": -2,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -6,
+      "y": 7,
+      "z": -1,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -6,
+      "y": 7,
+      "z": 0,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -6,
+      "y": 7,
+      "z": 1,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -6,
+      "y": 7,
+      "z": 2,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -6,
+      "y": 7,
+      "z": 3,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -6,
+      "y": 7,
+      "z": 4,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -6,
+      "y": 7,
+      "z": 5,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -6,
+      "y": 7,
+      "z": 6,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -5,
+      "y": 7,
+      "z": -6,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -5,
+      "y": 7,
+      "z": -5,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -5,
+      "y": 7,
+      "z": -4,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -5,
+      "y": 7,
+      "z": -3,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -5,
+      "y": 7,
+      "z": -2,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -5,
+      "y": 7,
+      "z": -1,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -5,
+      "y": 7,
+      "z": 0,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -5,
+      "y": 7,
+      "z": 1,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -5,
+      "y": 7,
+      "z": 2,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -5,
+      "y": 7,
+      "z": 3,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -5,
+      "y": 7,
+      "z": 4,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -5,
+      "y": 7,
+      "z": 5,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -5,
+      "y": 7,
+      "z": 6,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -4,
+      "y": 7,
+      "z": -6,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -4,
+      "y": 7,
+      "z": -5,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -4,
+      "y": 7,
+      "z": -4,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -4,
+      "y": 7,
+      "z": -3,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -4,
+      "y": 7,
+      "z": -2,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -4,
+      "y": 7,
+      "z": -1,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -4,
+      "y": 7,
+      "z": 0,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -4,
+      "y": 7,
+      "z": 1,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -4,
+      "y": 7,
+      "z": 2,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -4,
+      "y": 7,
+      "z": 3,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -4,
+      "y": 7,
+      "z": 4,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -4,
+      "y": 7,
+      "z": 5,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -4,
+      "y": 7,
+      "z": 6,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -3,
+      "y": 7,
+      "z": -6,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -3,
+      "y": 7,
+      "z": -5,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -3,
+      "y": 7,
+      "z": -4,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -3,
+      "y": 7,
+      "z": -3,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -3,
+      "y": 7,
+      "z": -2,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -3,
+      "y": 7,
+      "z": -1,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -3,
+      "y": 7,
+      "z": 0,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -3,
+      "y": 7,
+      "z": 1,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -3,
+      "y": 7,
+      "z": 2,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -3,
+      "y": 7,
+      "z": 3,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -3,
+      "y": 7,
+      "z": 4,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -3,
+      "y": 7,
+      "z": 5,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -3,
+      "y": 7,
+      "z": 6,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -2,
+      "y": 7,
+      "z": -6,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -2,
+      "y": 7,
+      "z": -5,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -2,
+      "y": 7,
+      "z": -4,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -2,
+      "y": 7,
+      "z": -3,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -2,
+      "y": 7,
+      "z": -2,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -2,
+      "y": 7,
+      "z": -1,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -2,
+      "y": 7,
+      "z": 0,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -2,
+      "y": 7,
+      "z": 1,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -2,
+      "y": 7,
+      "z": 2,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -2,
+      "y": 7,
+      "z": 3,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -2,
+      "y": 7,
+      "z": 4,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -2,
+      "y": 7,
+      "z": 5,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -2,
+      "y": 7,
+      "z": 6,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": -6,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": -5,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": -4,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": -3,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": -2,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": -1,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": 0,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": 1,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": 2,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": 3,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": 4,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": 5,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": 6,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": -6,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": -5,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": -4,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": -3,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": -2,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": -1,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": 0,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": 1,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": 2,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": 3,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": 4,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": 5,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": 6,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": -6,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": -5,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": -4,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": -3,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": -2,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": -1,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": 0,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": 1,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": 2,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": 3,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": 4,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": 5,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": 6,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": -6,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": -5,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": -4,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": -3,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": -2,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": -1,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": 0,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": 1,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": 2,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": 3,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": 4,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": 5,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": 6,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": -6,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": -5,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": -4,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": -3,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": -2,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": -1,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": 0,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": 1,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": 2,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": 3,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": 4,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": 5,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": 6,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": -6,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": -5,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": -4,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": -3,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": -2,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": -1,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": 0,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": 1,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": 2,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": 3,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": 4,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": 5,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": 6,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": -6,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": -5,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": -4,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": -3,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": -2,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": -1,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": 0,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": 1,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": 2,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": 3,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": 4,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": 5,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": 6,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 6,
+      "y": 7,
+      "z": -6,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 6,
+      "y": 7,
+      "z": -5,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 6,
+      "y": 7,
+      "z": -4,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 6,
+      "y": 7,
+      "z": -3,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 6,
+      "y": 7,
+      "z": -2,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 6,
+      "y": 7,
+      "z": -1,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 6,
+      "y": 7,
+      "z": 0,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 6,
+      "y": 7,
+      "z": 1,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 6,
+      "y": 7,
+      "z": 2,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 6,
+      "y": 7,
+      "z": 3,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 6,
+      "y": 7,
+      "z": 4,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 6,
+      "y": 7,
+      "z": 5,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 6,
+      "y": 7,
+      "z": 6,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": 0,
+      "name": "TFJ_Bone_Block"
+    }
+  ],
+  "entities": []
+}

@@ -1,0 +1,27 @@
+{
+  "Group": "IcedFoxStudios",
+  "Name": "TheForgottenJungle",
+  "Version": "1.0.0",
+  "Description": "A dense prehistoric jungle dimension for WorldGen V2: raptor dens, giant ferns, titan trees, vines, fossils, and exploration-focused prefabs.",
+  "Authors": [
+    {
+      "Name": "Iced Fox Studios",
+      "Email": "",
+      "Url": ""
+    }
+  ],
+  "Website": "",
+  "ServerVersion": "2026.03.26-89796e57b",
+  "Dependencies": {
+    "Hytale:HytaleGenerator": "*",
+    "Hytale:Instances": "*",
+    "Hytale:NPC": "*",
+    "Hytale:Portals": "*",
+    "Hytale:WorldGen": "*"
+  },
+  "OptionalDependencies": {},
+  "LoadBefore": {},
+  "DisabledByDefault": false,
+  "IncludesAssetPack": true,
+  "Main": "com.icedfoxstudios.forgottenjungle.ForgottenJunglePlugin"
+}

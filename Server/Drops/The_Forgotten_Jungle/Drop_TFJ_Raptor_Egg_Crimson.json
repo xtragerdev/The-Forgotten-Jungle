@@ -1,0 +1,10 @@
+{
+  "Container": {
+    "Type": "Single",
+    "Item": {
+      "ItemId": "TFJ_Raptor_Egg_Crimson",
+      "QuantityMin": 1,
+      "QuantityMax": 1
+    }
+  }
+}

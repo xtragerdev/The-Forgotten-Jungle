@@ -1,0 +1,394 @@
+{
+  "version": 8,
+  "blockIdVersion": 11,
+  "anchorX": 0,
+  "anchorY": 0,
+  "anchorZ": 0,
+  "blocks": [
+    {
+      "x": -4,
+      "y": 0,
+      "z": -1,
+      "name": "TFJ_Giant_Fern"
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 0,
+      "name": "TFJ_Leaf_Litter"
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 1,
+      "name": "TFJ_Giant_Fern"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -2,
+      "name": "TFJ_Leaf_Litter"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -1,
+      "name": "TFJ_Leaf_Litter"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 0,
+      "name": "TFJ_Giant_Fern"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 1,
+      "name": "TFJ_Leaf_Litter"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 2,
+      "name": "TFJ_Leaf_Litter"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -3,
+      "name": "TFJ_Leaf_Litter"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -2,
+      "name": "TFJ_Giant_Fern"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -1,
+      "name": "TFJ_Giant_Fern"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 0,
+      "name": "TFJ_Leaf_Litter"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 1,
+      "name": "TFJ_Giant_Fern"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 2,
+      "name": "TFJ_Giant_Fern"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 3,
+      "name": "TFJ_Leaf_Litter"
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": 3,
+      "name": "TFJ_Roots"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -4,
+      "name": "TFJ_Giant_Fern"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -3,
+      "name": "TFJ_Leaf_Litter"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -2,
+      "name": "TFJ_Giant_Fern"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -1,
+      "name": "TFJ_Giant_Fern"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 0,
+      "name": "TFJ_Leaf_Litter"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 1,
+      "name": "TFJ_Giant_Fern"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 2,
+      "name": "TFJ_Giant_Fern"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 3,
+      "name": "TFJ_Leaf_Litter"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 4,
+      "name": "TFJ_Giant_Fern"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -4,
+      "name": "TFJ_Leaf_Litter"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -3,
+      "name": "TFJ_Giant_Fern"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -2,
+      "name": "TFJ_Leaf_Litter"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": -2,
+      "name": "TFJ_Roots"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -1,
+      "name": "TFJ_Leaf_Litter"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "name": "TFJ_Giant_Fern"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 1,
+      "name": "TFJ_Leaf_Litter"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 1,
+      "name": "TFJ_Roots"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 2,
+      "name": "TFJ_Leaf_Litter"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 2,
+      "name": "TFJ_Roots"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 3,
+      "name": "TFJ_Giant_Fern"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 4,
+      "name": "TFJ_Leaf_Litter"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -4,
+      "name": "TFJ_Giant_Fern"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -3,
+      "name": "TFJ_Leaf_Litter"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": -3,
+      "name": "TFJ_Roots"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -2,
+      "name": "TFJ_Giant_Fern"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -1,
+      "name": "TFJ_Giant_Fern"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 0,
+      "name": "TFJ_Leaf_Litter"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 1,
+      "name": "TFJ_Giant_Fern"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 1,
+      "name": "TFJ_Roots"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 2,
+      "name": "TFJ_Giant_Fern"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 3,
+      "name": "TFJ_Leaf_Litter"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 4,
+      "name": "TFJ_Giant_Fern"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -3,
+      "name": "TFJ_Leaf_Litter"
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": -3,
+      "name": "TFJ_Roots"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -2,
+      "name": "TFJ_Giant_Fern"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -1,
+      "name": "TFJ_Giant_Fern"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 0,
+      "name": "TFJ_Leaf_Litter"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 1,
+      "name": "TFJ_Giant_Fern"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 2,
+      "name": "TFJ_Giant_Fern"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 3,
+      "name": "TFJ_Leaf_Litter"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -2,
+      "name": "TFJ_Leaf_Litter"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -1,
+      "name": "TFJ_Leaf_Litter"
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": -1,
+      "name": "TFJ_Roots"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 0,
+      "name": "TFJ_Giant_Fern"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 1,
+      "name": "TFJ_Leaf_Litter"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": -1,
+      "name": "TFJ_Giant_Fern"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 0,
+      "name": "TFJ_Leaf_Litter"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 1,
+      "name": "TFJ_Giant_Fern"
+    }
+  ],
+  "entities": []
+}

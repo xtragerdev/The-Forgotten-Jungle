@@ -1,0 +1,151 @@
+Group #TFJRaptorIncubationHudRoot {
+  Anchor: (Left: 0, Right: 0, Top: 0, Bottom: 0);
+  Background: (Color: #000000(0));
+
+  Group #TFJRaptorIncubationHud {
+    Anchor: (Bottom: 172, Width: 342, Height: 86);
+    Background: (TexturePath: "../Common/ContainerPanelPatch.png", Border: 4);
+    Visible: false;
+
+    Group #TFJIncubatorIconSlot {
+      Anchor: (Left: 12, Top: 15, Width: 52, Height: 52);
+      Background: #000000(0);
+    }
+
+    Group #TFJIncubatorIconRed {
+      Anchor: (Left: 18, Top: 21, Width: 40, Height: 40);
+      Background: (TexturePath: "EggIcons/TFJ_Raptor_Egg_Red.png");
+      Visible: false;
+    }
+    Group #TFJIncubatorIconBlue {
+      Anchor: (Left: 18, Top: 21, Width: 40, Height: 40);
+      Background: (TexturePath: "EggIcons/TFJ_Raptor_Egg_Blue.png");
+      Visible: false;
+    }
+    Group #TFJIncubatorIconYellow {
+      Anchor: (Left: 18, Top: 21, Width: 40, Height: 40);
+      Background: (TexturePath: "EggIcons/TFJ_Raptor_Egg_Yellow.png");
+      Visible: false;
+    }
+    Group #TFJIncubatorIconGreen {
+      Anchor: (Left: 18, Top: 21, Width: 40, Height: 40);
+      Background: (TexturePath: "EggIcons/TFJ_Raptor_Egg_Green.png");
+      Visible: false;
+    }
+    Group #TFJIncubatorIconWhite {
+      Anchor: (Left: 18, Top: 21, Width: 40, Height: 40);
+      Background: (TexturePath: "EggIcons/TFJ_Raptor_Egg_White.png");
+      Visible: false;
+    }
+    Group #TFJIncubatorIconCyan {
+      Anchor: (Left: 18, Top: 21, Width: 40, Height: 40);
+      Background: (TexturePath: "EggIcons/TFJ_Raptor_Egg_Cyan.png");
+      Visible: false;
+    }
+    Group #TFJIncubatorIconBlack {
+      Anchor: (Left: 18, Top: 21, Width: 40, Height: 40);
+      Background: (TexturePath: "EggIcons/TFJ_Raptor_Egg_Black.png");
+      Visible: false;
+    }
+    Group #TFJIncubatorIconGold {
+      Anchor: (Left: 18, Top: 21, Width: 40, Height: 40);
+      Background: (TexturePath: "EggIcons/TFJ_Raptor_Egg_Gold.png");
+      Visible: false;
+    }
+    Group #TFJIncubatorIconViolet {
+      Anchor: (Left: 18, Top: 21, Width: 40, Height: 40);
+      Background: (TexturePath: "EggIcons/TFJ_Raptor_Egg_Violet.png");
+      Visible: false;
+    }
+    Group #TFJIncubatorIconEmerald {
+      Anchor: (Left: 18, Top: 21, Width: 40, Height: 40);
+      Background: (TexturePath: "EggIcons/TFJ_Raptor_Egg_Emerald.png");
+      Visible: false;
+    }
+    Group #TFJIncubatorIconAmber {
+      Anchor: (Left: 18, Top: 21, Width: 40, Height: 40);
+      Background: (TexturePath: "EggIcons/TFJ_Raptor_Egg_Amber.png");
+      Visible: false;
+    }
+    Group #TFJIncubatorIconRose {
+      Anchor: (Left: 18, Top: 21, Width: 40, Height: 40);
+      Background: (TexturePath: "EggIcons/TFJ_Raptor_Egg_Rose.png");
+      Visible: false;
+    }
+    Group #TFJIncubatorIconJade {
+      Anchor: (Left: 18, Top: 21, Width: 40, Height: 40);
+      Background: (TexturePath: "EggIcons/TFJ_Raptor_Egg_Jade.png");
+      Visible: false;
+    }
+    Group #TFJIncubatorIconIvory {
+      Anchor: (Left: 18, Top: 21, Width: 40, Height: 40);
+      Background: (TexturePath: "EggIcons/TFJ_Raptor_Egg_Ivory.png");
+      Visible: false;
+    }
+    Group #TFJIncubatorIconAzure {
+      Anchor: (Left: 18, Top: 21, Width: 40, Height: 40);
+      Background: (TexturePath: "EggIcons/TFJ_Raptor_Egg_Azure.png");
+      Visible: false;
+    }
+    Group #TFJIncubatorIconCrimson {
+      Anchor: (Left: 18, Top: 21, Width: 40, Height: 40);
+      Background: (TexturePath: "EggIcons/TFJ_Raptor_Egg_Crimson.png");
+      Visible: false;
+    }
+    Group #TFJIncubatorIconPterodactyl {
+      Anchor: (Left: 18, Top: 21, Width: 40, Height: 40);
+      Background: (TexturePath: "EggIcons/TFJ_Raptor_Egg_Pterodactyl.png");
+      Visible: false;
+    }
+
+    Label #TFJIncubatorSpecies {
+      Style: (FontSize: 16, TextColor: #fff0b8, RenderBold: true, HorizontalAlignment: Start, VerticalAlignment: Center, ShrinkTextToFit: true, MinShrinkTextToFitFontSize: 11);
+      Anchor: (Left: 72, Right: 86, Top: 10, Height: 21);
+      Text: "Red Raptor";
+    }
+
+    Label #TFJIncubatorTimeRemaining {
+      Style: (FontSize: 14, TextColor: #ffe18b, RenderBold: true, HorizontalAlignment: End, VerticalAlignment: Center);
+      Anchor: (Right: 14, Width: 68, Top: 10, Height: 21);
+      Text: "08:00";
+    }
+
+    Label #TFJIncubatorSexFemale {
+      Style: (FontSize: 12, TextColor: #ff8fbc, RenderBold: true, HorizontalAlignment: Start, VerticalAlignment: Center);
+      Anchor: (Left: 72, Top: 35, Width: 50, Height: 17);
+      Text: "Female";
+      Visible: false;
+    }
+
+    Label #TFJIncubatorSexMale {
+      Style: (FontSize: 12, TextColor: #78b7ff, RenderBold: true, HorizontalAlignment: Start, VerticalAlignment: Center);
+      Anchor: (Left: 72, Top: 35, Width: 50, Height: 17);
+      Text: "Male";
+      Visible: false;
+    }
+
+    Label #TFJIncubatorStatus {
+      Style: (FontSize: 12, TextColor: #a8df72, RenderBold: true, HorizontalAlignment: Start, VerticalAlignment: Center, ShrinkTextToFit: true, MinShrinkTextToFitFontSize: 9);
+      Anchor: (Left: 128, Right: 14, Top: 35, Height: 17);
+      Text: "Incubating";
+    }
+
+    Label #TFJIncubatorMutation {
+      Style: (FontSize: 10, TextColor: #ffe18b, RenderBold: true, HorizontalAlignment: Start, VerticalAlignment: Center, ShrinkTextToFit: true, MinShrinkTextToFitFontSize: 8);
+      Anchor: (Left: 72, Right: 14, Top: 52, Height: 12);
+      Text: "Mutation: Red";
+    }
+
+    Group #TFJIncubatorProgressWrap {
+      Anchor: (Left: 72, Right: 14, Top: 68, Height: 10);
+      Background: (TexturePath: "../Common/ProgressBar.png");
+
+      ProgressBar #TFJIncubatorProgressBar {
+        Anchor: (Left: 1, Right: 1, Top: 2, Height: 6);
+        BarTexturePath: "TFJIncubatorProgressFill.png";
+        EffectTexturePath: "../Common/ProgressBarEffect.png";
+        Value: 0.0;
+      }
+    }
+  }
+}

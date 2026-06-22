@@ -1,0 +1,18 @@
+{
+  "Model": "NPC_Spawn_Marker",
+  "NPCs": [
+    {
+      "Name": "TFJ_Tyrant_Rex",
+      "Weight": 3,
+      "SpawnAfterGameTime": "PT0S"
+    },
+    {
+      "Name": "TFJ_Tyrant_Juvenile",
+      "Weight": 2,
+      "SpawnAfterGameTime": "PT0S"
+    }
+  ],
+  "ExclusionRadius": 72,
+  "MaxDropHeight": 96,
+  "DeactivationDistance": 220
+}

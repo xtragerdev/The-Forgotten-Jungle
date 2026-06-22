@@ -1,0 +1,252 @@
+{
+  "version": 8,
+  "blockIdVersion": 11,
+  "anchorX": 0,
+  "anchorY": 0,
+  "anchorZ": 0,
+  "blocks": [
+    {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "name": "TFJ_Leaf_Litter"
+    }
+  ],
+  "entities": [
+    {
+      "Components": {
+        "Nameplate": {
+          "Text": "TFJ_Raptor_Pack"
+        },
+        "HiddenFromAdventurePlayer": {},
+        "SpawnMarkerComponent": {
+          "SpawnMarker": "TFJ_Raptor_Pack",
+          "RespawnTime": 40,
+          "SpawnCount": 2
+        },
+        "Transform": {
+          "Position": {
+            "X": 0,
+            "Y": 1,
+            "Z": 0
+          },
+          "Rotation": {
+            "Pitch": 0,
+            "Yaw": 0,
+            "Roll": 0
+          }
+        },
+        "Intangible": {},
+        "PrefabCopyable": {},
+        "Model": {
+          "Model": {
+            "Id": "NPC_Spawn_Marker",
+            "Scale": 1,
+            "Static": false
+          }
+        },
+        "UUID": {
+          "UUID": {
+            "$binary": "9eDpsUrbXLuuWjXlg9KSTQ==",
+            "$type": "04"
+          }
+        },
+        "HeadRotation": {
+          "Rotation": {
+            "Pitch": 0,
+            "Yaw": 0,
+            "Roll": 0
+          }
+        }
+      }
+    },
+    {
+      "Components": {
+        "Nameplate": {
+          "Text": "TFJ_Raptor_Pack"
+        },
+        "HiddenFromAdventurePlayer": {},
+        "SpawnMarkerComponent": {
+          "SpawnMarker": "TFJ_Raptor_Pack",
+          "RespawnTime": 40,
+          "SpawnCount": 1
+        },
+        "Transform": {
+          "Position": {
+            "X": 4,
+            "Y": 1,
+            "Z": 2
+          },
+          "Rotation": {
+            "Pitch": 0,
+            "Yaw": 0,
+            "Roll": 0
+          }
+        },
+        "Intangible": {},
+        "PrefabCopyable": {},
+        "Model": {
+          "Model": {
+            "Id": "NPC_Spawn_Marker",
+            "Scale": 1,
+            "Static": false
+          }
+        },
+        "UUID": {
+          "UUID": {
+            "$binary": "W2eoJHLKVYiNF2Wt3sxzlg==",
+            "$type": "04"
+          }
+        },
+        "HeadRotation": {
+          "Rotation": {
+            "Pitch": 0,
+            "Yaw": 0,
+            "Roll": 0
+          }
+        }
+      }
+    },
+    {
+      "Components": {
+        "Nameplate": {
+          "Text": "TFJ_Raptor_Pack"
+        },
+        "HiddenFromAdventurePlayer": {},
+        "SpawnMarkerComponent": {
+          "SpawnMarker": "TFJ_Raptor_Pack",
+          "RespawnTime": 40,
+          "SpawnCount": 1
+        },
+        "Transform": {
+          "Position": {
+            "X": -4,
+            "Y": 1,
+            "Z": -2
+          },
+          "Rotation": {
+            "Pitch": 0,
+            "Yaw": 0,
+            "Roll": 0
+          }
+        },
+        "Intangible": {},
+        "PrefabCopyable": {},
+        "Model": {
+          "Model": {
+            "Id": "NPC_Spawn_Marker",
+            "Scale": 1,
+            "Static": false
+          }
+        },
+        "UUID": {
+          "UUID": {
+            "$binary": "x/BjqLeYVaWFM1U2Y6nCYg==",
+            "$type": "04"
+          }
+        },
+        "HeadRotation": {
+          "Rotation": {
+            "Pitch": 0,
+            "Yaw": 0,
+            "Roll": 0
+          }
+        }
+      }
+    },
+    {
+      "Components": {
+        "Nameplate": {
+          "Text": "TFJ_Raptor_Pack"
+        },
+        "HiddenFromAdventurePlayer": {},
+        "SpawnMarkerComponent": {
+          "SpawnMarker": "TFJ_Raptor_Pack",
+          "RespawnTime": 40,
+          "SpawnCount": 1
+        },
+        "Transform": {
+          "Position": {
+            "X": 2,
+            "Y": 1,
+            "Z": -4
+          },
+          "Rotation": {
+            "Pitch": 0,
+            "Yaw": 0,
+            "Roll": 0
+          }
+        },
+        "Intangible": {},
+        "PrefabCopyable": {},
+        "Model": {
+          "Model": {
+            "Id": "NPC_Spawn_Marker",
+            "Scale": 1,
+            "Static": false
+          }
+        },
+        "UUID": {
+          "UUID": {
+            "$binary": "/ACErxwXWt6z3NTqheK5EQ==",
+            "$type": "04"
+          }
+        },
+        "HeadRotation": {
+          "Rotation": {
+            "Pitch": 0,
+            "Yaw": 0,
+            "Roll": 0
+          }
+        }
+      }
+    },
+    {
+      "Components": {
+        "Nameplate": {
+          "Text": "TFJ_Raptor_Pack"
+        },
+        "HiddenFromAdventurePlayer": {},
+        "SpawnMarkerComponent": {
+          "SpawnMarker": "TFJ_Raptor_Pack",
+          "RespawnTime": 40,
+          "SpawnCount": 1
+        },
+        "Transform": {
+          "Position": {
+            "X": -2,
+            "Y": 1,
+            "Z": 4
+          },
+          "Rotation": {
+            "Pitch": 0,
+            "Yaw": 0,
+            "Roll": 0
+          }
+        },
+        "Intangible": {},
+        "PrefabCopyable": {},
+        "Model": {
+          "Model": {
+            "Id": "NPC_Spawn_Marker",
+            "Scale": 1,
+            "Static": false
+          }
+        },
+        "UUID": {
+          "UUID": {
+            "$binary": "/cTnRkB2XO6HNCtVOWpsww==",
+            "$type": "04"
+          }
+        },
+        "HeadRotation": {
+          "Rotation": {
+            "Pitch": 0,
+            "Yaw": 0,
+            "Roll": 0
+          }
+        }
+      }
+    }
+  ]
+}

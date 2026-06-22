@@ -1,0 +1,1168 @@
+{
+  "version": 8,
+  "blockIdVersion": 11,
+  "anchorX": 0,
+  "anchorY": 0,
+  "anchorZ": 0,
+  "blocks": [
+    {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "name": "TFJ_Titanwood_Log"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 0,
+      "name": "TFJ_Roots"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 0,
+      "name": "TFJ_Roots"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 1,
+      "name": "TFJ_Roots"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -1,
+      "name": "TFJ_Roots"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 0,
+      "name": "TFJ_Titanwood_Log"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 0,
+      "name": "TFJ_Titanwood_Log"
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 0,
+      "name": "TFJ_Titanwood_Log"
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": -1,
+      "name": "TFJ_Titanwood_Log"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": 0,
+      "name": "TFJ_Titanwood_Log"
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": 0,
+      "name": "TFJ_Titanwood_Log"
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": 0,
+      "name": "TFJ_Titanwood_Log"
+    },
+    {
+      "x": -1,
+      "y": 6,
+      "z": 0,
+      "name": "TFJ_Titanwood_Log"
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": 1,
+      "name": "TFJ_Titanwood_Log"
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": -1,
+      "name": "TFJ_Titanwood_Log"
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": 0,
+      "name": "TFJ_Titanwood_Log"
+    },
+    {
+      "x": 0,
+      "y": 8,
+      "z": 0,
+      "name": "TFJ_Titanwood_Log"
+    },
+    {
+      "x": -2,
+      "y": 7,
+      "z": -1,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -2,
+      "y": 7,
+      "z": 0,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -2,
+      "y": 7,
+      "z": 1,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -2,
+      "y": 6,
+      "z": 1,
+      "name": "TFJ_Hanging_Vines"
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": 1,
+      "name": "TFJ_Hanging_Vines"
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": 1,
+      "name": "TFJ_Hanging_Vines"
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": 1,
+      "name": "TFJ_Hanging_Vines"
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": -2,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": -1,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": 0,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": 1,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": 2,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": -2,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": -1,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": 0,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": 1,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": 2,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": -2,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": -1,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": -1,
+      "name": "TFJ_Hanging_Vines"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": -1,
+      "name": "TFJ_Hanging_Vines"
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": -1,
+      "name": "TFJ_Hanging_Vines"
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": -1,
+      "name": "TFJ_Hanging_Vines"
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": 0,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": 1,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": 2,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": -1,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": 0,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": 1,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -2,
+      "y": 8,
+      "z": -1,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -2,
+      "y": 8,
+      "z": 0,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -2,
+      "y": 8,
+      "z": 1,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -1,
+      "y": 8,
+      "z": -2,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -1,
+      "y": 8,
+      "z": 0,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -1,
+      "y": 8,
+      "z": 1,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -1,
+      "y": 8,
+      "z": 2,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 0,
+      "y": 8,
+      "z": -2,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 0,
+      "y": 8,
+      "z": -1,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 0,
+      "y": 8,
+      "z": 0,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 0,
+      "y": 8,
+      "z": 1,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 0,
+      "y": 8,
+      "z": 2,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 1,
+      "y": 8,
+      "z": 0,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 1,
+      "y": 8,
+      "z": 1,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 1,
+      "y": 8,
+      "z": 2,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 2,
+      "y": 8,
+      "z": 0,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 2,
+      "y": 8,
+      "z": 1,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -3,
+      "y": 9,
+      "z": -1,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -3,
+      "y": 9,
+      "z": 0,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -3,
+      "y": 9,
+      "z": 1,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -2,
+      "y": 9,
+      "z": -2,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -2,
+      "y": 9,
+      "z": -1,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -2,
+      "y": 9,
+      "z": 0,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -2,
+      "y": 9,
+      "z": 1,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -2,
+      "y": 9,
+      "z": 2,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -1,
+      "y": 9,
+      "z": -3,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -1,
+      "y": 9,
+      "z": -2,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -1,
+      "y": 9,
+      "z": -1,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -1,
+      "y": 9,
+      "z": 0,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -1,
+      "y": 9,
+      "z": 1,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -1,
+      "y": 9,
+      "z": 2,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -1,
+      "y": 9,
+      "z": 3,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 0,
+      "y": 9,
+      "z": -3,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 0,
+      "y": 9,
+      "z": -2,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 0,
+      "y": 9,
+      "z": 0,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 0,
+      "y": 9,
+      "z": 1,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 0,
+      "y": 9,
+      "z": 2,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 0,
+      "y": 9,
+      "z": 3,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 1,
+      "y": 9,
+      "z": -3,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 1,
+      "y": 9,
+      "z": -2,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 1,
+      "y": 9,
+      "z": -1,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 1,
+      "y": 9,
+      "z": 0,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 1,
+      "y": 9,
+      "z": 1,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 1,
+      "y": 9,
+      "z": 2,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 1,
+      "y": 9,
+      "z": 3,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 2,
+      "y": 9,
+      "z": -2,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 2,
+      "y": 9,
+      "z": -1,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 2,
+      "y": 9,
+      "z": 0,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 2,
+      "y": 9,
+      "z": 1,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 2,
+      "y": 9,
+      "z": 2,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 3,
+      "y": 9,
+      "z": -1,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 3,
+      "y": 9,
+      "z": 0,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 3,
+      "y": 9,
+      "z": 1,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -3,
+      "y": 10,
+      "z": -1,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -3,
+      "y": 10,
+      "z": 0,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -3,
+      "y": 10,
+      "z": 1,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -2,
+      "y": 10,
+      "z": -2,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -2,
+      "y": 10,
+      "z": -1,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -2,
+      "y": 10,
+      "z": 0,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -2,
+      "y": 10,
+      "z": 1,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -1,
+      "y": 10,
+      "z": -3,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -1,
+      "y": 10,
+      "z": -1,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -1,
+      "y": 10,
+      "z": 0,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -1,
+      "y": 10,
+      "z": 1,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -1,
+      "y": 10,
+      "z": 2,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -1,
+      "y": 10,
+      "z": 3,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 0,
+      "y": 10,
+      "z": -3,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 0,
+      "y": 10,
+      "z": -1,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 0,
+      "y": 10,
+      "z": 0,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 0,
+      "y": 10,
+      "z": 1,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 0,
+      "y": 10,
+      "z": 2,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 0,
+      "y": 10,
+      "z": 3,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 1,
+      "y": 10,
+      "z": -3,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 1,
+      "y": 10,
+      "z": -2,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 1,
+      "y": 10,
+      "z": 0,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 1,
+      "y": 10,
+      "z": 1,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 1,
+      "y": 10,
+      "z": 2,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 1,
+      "y": 10,
+      "z": 3,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 2,
+      "y": 10,
+      "z": -1,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 2,
+      "y": 10,
+      "z": 0,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 2,
+      "y": 10,
+      "z": 1,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 3,
+      "y": 10,
+      "z": -1,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 3,
+      "y": 10,
+      "z": 0,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 3,
+      "y": 10,
+      "z": 1,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -3,
+      "y": 11,
+      "z": -1,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -3,
+      "y": 11,
+      "z": 1,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -2,
+      "y": 11,
+      "z": -2,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -2,
+      "y": 11,
+      "z": 1,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -2,
+      "y": 11,
+      "z": 2,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -1,
+      "y": 11,
+      "z": -3,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -1,
+      "y": 11,
+      "z": -2,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -1,
+      "y": 11,
+      "z": -1,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -1,
+      "y": 11,
+      "z": 0,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -1,
+      "y": 11,
+      "z": 1,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -1,
+      "y": 11,
+      "z": 2,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -1,
+      "y": 11,
+      "z": 3,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 0,
+      "y": 11,
+      "z": -2,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 0,
+      "y": 11,
+      "z": -1,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 0,
+      "y": 11,
+      "z": 0,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 0,
+      "y": 11,
+      "z": 1,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 0,
+      "y": 11,
+      "z": 2,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 0,
+      "y": 11,
+      "z": 3,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 1,
+      "y": 11,
+      "z": -3,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 1,
+      "y": 11,
+      "z": -2,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 1,
+      "y": 11,
+      "z": -1,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 1,
+      "y": 11,
+      "z": 0,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 1,
+      "y": 11,
+      "z": 1,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 1,
+      "y": 11,
+      "z": 2,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 1,
+      "y": 11,
+      "z": 3,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 2,
+      "y": 11,
+      "z": -2,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 2,
+      "y": 11,
+      "z": -1,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 2,
+      "y": 11,
+      "z": 0,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 2,
+      "y": 11,
+      "z": 1,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 2,
+      "y": 11,
+      "z": 2,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 3,
+      "y": 11,
+      "z": -1,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 3,
+      "y": 11,
+      "z": 0,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -2,
+      "y": 12,
+      "z": -1,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -2,
+      "y": 12,
+      "z": 0,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -2,
+      "y": 12,
+      "z": 1,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -1,
+      "y": 12,
+      "z": -2,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -1,
+      "y": 12,
+      "z": 0,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -1,
+      "y": 12,
+      "z": 1,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -1,
+      "y": 12,
+      "z": 2,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 0,
+      "y": 12,
+      "z": -2,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 0,
+      "y": 12,
+      "z": -1,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 0,
+      "y": 12,
+      "z": 0,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 0,
+      "y": 12,
+      "z": 1,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 0,
+      "y": 12,
+      "z": 2,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 1,
+      "y": 12,
+      "z": -2,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 1,
+      "y": 12,
+      "z": -1,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 1,
+      "y": 12,
+      "z": 1,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 1,
+      "y": 12,
+      "z": 2,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 2,
+      "y": 12,
+      "z": -1,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 2,
+      "y": 12,
+      "z": 0,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": 2,
+      "y": 12,
+      "z": 1,
+      "name": "TFJ_Canopy_Leaves"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 0,
+      "name": "TFJ_Bone_Block"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 0,
+      "name": "TFJ_Bone_Block"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 1,
+      "name": "TFJ_Roots"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -1,
+      "name": "TFJ_Leaf_Litter"
+    }
+  ],
+  "entities": [
+    {
+      "Components": {
+        "Nameplate": {
+          "Text": "TFJ_Raptor_Pack"
+        },
+        "HiddenFromAdventurePlayer": {},
+        "SpawnMarkerComponent": {
+          "SpawnMarker": "TFJ_Raptor_Pack",
+          "RespawnTime": 40,
+          "SpawnCount": 2
+        },
+        "Transform": {
+          "Position": {
+            "X": 0,
+            "Y": 1,
+            "Z": 0
+          },
+          "Rotation": {
+            "Pitch": 0,
+            "Yaw": 0,
+            "Roll": 0
+          }
+        },
+        "Intangible": {},
+        "PrefabCopyable": {},
+        "Model": {
+          "Model": {
+            "Id": "NPC_Spawn_Marker",
+            "Scale": 1,
+            "Static": false
+          }
+        },
+        "UUID": {
+          "UUID": {
+            "$binary": "I1/uoCYUUx2cNIA3yuR0FA==",
+            "$type": "04"
+          }
+        },
+        "HeadRotation": {
+          "Rotation": {
+            "Pitch": 0,
+            "Yaw": 0,
+            "Roll": 0
+          }
+        }
+      }
+    }
+  ]
+}

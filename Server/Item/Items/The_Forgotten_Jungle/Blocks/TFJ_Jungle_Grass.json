@@ -1,0 +1,62 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.TFJ_Jungle_Grass.name",
+    "Description": "server.items.TFJ_Jungle_Grass.description"
+  },
+  "ItemLevel": 1,
+  "MaxStack": 100,
+  "Icon": "Icons/ItemsGenerated/TFJ_Jungle_Grass.png",
+  "Categories": [
+    "TheForgottenJungle.Blocks"
+  ],
+  "PlayerAnimationsId": "Block",
+  "Set": "TFJ_Jungle_Grass",
+  "Recipe": {
+    "Input": [
+      {
+        "ResourceTypeId": "Rock_Stone",
+        "Quantity": 1
+      }
+    ],
+    "BenchRequirement": [],
+    "OutputQuantity": 1,
+    "TimeSeconds": 0
+  },
+  "BlockType": {
+    "Material": "Solid",
+    "DrawType": "Cube",
+    "Group": "Grass",
+    "Flags": {},
+    "Gathering": {
+      "Breaking": {
+        "GatherType": "Rocks"
+      }
+    },
+    "BlockParticleSetId": "Grass_Earth",
+    "Textures": [
+      {
+        "Down": "BlockTextures/TFJ_Mud.png",
+        "Sides": "BlockTextures/TFJ_Jungle_Grass_Side.png",
+        "Up": "BlockTextures/TFJ_Jungle_Grass_Top.png",
+        "Weight": 1
+      }
+    ],
+    "ParticleColor": "#3f742f",
+    "BlockSoundSetId": "Grass"
+  },
+  "ResourceTypes": [
+    {
+      "Id": "TFJ_Jungle_Grass"
+    }
+  ],
+  "Tags": {
+    "Type": [
+      "Grass"
+    ],
+    "Family": [
+      "Forgotten"
+    ]
+  },
+  "ItemSoundSetId": "ISS_Blocks_Stone",
+  "Quality": "Common"
+}

@@ -1,0 +1,91 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.TFJ_Pterodactyl_Egg.name",
+    "Description": "server.items.TFJ_Pterodactyl_Egg.description"
+  },
+  "Icon": "Icons/ItemsGenerated/TFJ_Pterodactyl_Egg.png",
+  "Categories": [
+    "TheForgottenJungle.Items"
+  ],
+  "Quality": "Common",
+  "MaxStack": 25,
+  "ItemLevel": 1,
+  "PlayerAnimationsId": "Block",
+  "Set": "TFJ_Pterodactyl_Egg",
+  "BlockType": {
+    "Material": "Solid",
+    "DrawType": "Model",
+    "Opacity": "Transparent",
+    "CustomModel": "Items/Consumables/Food/Egg.blockymodel",
+    "CustomModelScale": 0.7,
+    "CustomModelTexture": [
+      {
+        "Texture": "Items/The_Forgotten_Jungle/Raptor_Eggs/TFJ_Pterodactyl_Egg_Texture.png",
+        "Weight": 1
+      }
+    ],
+    "HitboxType": "Food_Medium",
+    "InteractionHint": "server.interactionHints.tfjRaptorEggIncubating",
+    "ParticleColor": "#5aa6b8",
+    "TextureComputedColor": "#5aa6b8",
+    "RandomRotation": "YawStep1",
+    "VariantRotation": "NESW",
+    "Gathering": {
+      "Soft": {
+        "DropList": "Drop_TFJ_Pterodactyl_Egg"
+      }
+    },
+    "Support": {
+      "Down": [
+        {
+          "FaceType": "Full"
+        }
+      ]
+    },
+    "BlockParticleSetId": "Stone",
+    "BlockSoundSetId": "Cocoon",
+    "PhysicalMaterialId": "Stone"
+  },
+  "Tags": {
+    "Type": [
+      "Food",
+      "TFJRaptorEgg"
+    ],
+    "Family": [
+      "Forgotten"
+    ],
+    "TFJRaptorColor": [
+      "Pterodactyl"
+    ],
+    "TFJRaptorIncubation": [
+      "Timed",
+      "AutoHatch",
+      "LookHud"
+    ],
+    "TFJRaptorHatchlingRole": [
+      "TFJ_Pterodactyl_Hatchling"
+    ],
+    "TFJRaptorIncubationSeconds": [
+      "480"
+    ],
+    "TFJRaptorSpeciesNameKey": [
+      "server.ui.tfj.incubator.species.pterodactyl"
+    ],
+    "TFJRaptorHud": [
+      "TheForgottenJungle/TFJRaptorIncubationHud.ui"
+    ],
+    "TFJRaptorHudProgressBar": [
+      "#TFJIncubatorProgressBar"
+    ],
+    "TFJRaptorHudSpeciesLabel": [
+      "#TFJIncubatorSpecies"
+    ],
+    "TFJRaptorHudStatusLabel": [
+      "#TFJIncubatorStatus"
+    ],
+    "TFJRaptorHudTimeLabel": [
+      "#TFJIncubatorTimeRemaining"
+    ]
+  },
+  "ItemSoundSetId": "ISS_Blocks_Wood"
+}

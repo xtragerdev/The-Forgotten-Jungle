@@ -1,0 +1,94 @@
+{
+  "version": 8,
+  "blockIdVersion": 11,
+  "anchorX": 0,
+  "anchorY": 0,
+  "anchorZ": 0,
+  "blocks": [
+    {
+      "x": -1,
+      "y": 0,
+      "z": -1,
+      "name": "TFJ_Bone_Block"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 0,
+      "name": "TFJ_Bone_Block"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 1,
+      "name": "TFJ_Bone_Block"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -1,
+      "name": "TFJ_Bone_Block"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "name": "TFJ_Bone_Block"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 1,
+      "name": "TFJ_Bone_Block"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -1,
+      "name": "TFJ_Bone_Block"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 0,
+      "name": "TFJ_Bone_Block"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 1,
+      "name": "TFJ_Bone_Block"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 0,
+      "name": "TFJ_Bone_Block"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 0,
+      "name": "TFJ_Bone_Block"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 0,
+      "name": "TFJ_Roots"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 1,
+      "name": "TFJ_Mossy_Stone"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -1,
+      "name": "TFJ_Mossy_Stone"
+    }
+  ],
+  "entities": []
+}

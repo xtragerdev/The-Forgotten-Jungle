@@ -1,0 +1,12 @@
+{
+  "InstanceId": "The_Forgotten_Jungle",
+  "Description": {
+    "DisplayName": "server.portals.the_forgotten_jungle",
+    "FlavorText": "server.portals.the_forgotten_jungle.description",
+    "ThemeColor": "#5ca85aff",
+    "SplashImage": "DefaultArtwork.png",
+    "Tips": [
+      "server.portals.the_forgotten_jungle.tip1"
+    ]
+  }
+}

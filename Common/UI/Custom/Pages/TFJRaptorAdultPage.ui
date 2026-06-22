@@ -1,0 +1,139 @@
+$C = "../Common.ui";
+
+@TFJGold = #fff0b8;
+@TFJLeaf = #8fcb62;
+@TFJLeafSoft = #cce8a3;
+@TFJPanel = #0c170d(0.955);
+@TFJRow = #101c12(0.92);
+@TFJLine = #8dbd56(0.82);
+@TFJFemale = #ff8fbc;
+@TFJMale = #78b7ff;
+
+@TFJAdultButton = TextButtonStyle(
+  Default: (Background: (Color: #203018(1)), LabelStyle: (TextColor: #fff0b8(1), FontSize: 11, RenderBold: true, HorizontalAlignment: Center, VerticalAlignment: Center)),
+  Hovered: (Background: (Color: #314623(1)), LabelStyle: (TextColor: #ffffff(1), FontSize: 11, RenderBold: true, HorizontalAlignment: Center, VerticalAlignment: Center)),
+  Pressed: (Background: (Color: #536433(1)), LabelStyle: (TextColor: #ffffff(1), FontSize: 11, RenderBold: true, HorizontalAlignment: Center, VerticalAlignment: Center)),
+  Sounds: $C.@ButtonsCancel
+);
+
+$C.@PageOverlay {
+  Group #TFJRaptorAdultRoot {
+    Anchor: (Width: 660, Height: 414);
+    Background: (TexturePath: "../Common/ContainerPanelPatch.png", Border: 4);
+
+    Group #TFJRaptorAdultIconRed { Anchor: (Left: 34, Top: 34, Width: 58, Height: 58); Background: (TexturePath: "../TheForgottenJungle/EggIcons/TFJ_Raptor_Egg_Red.png"); Visible: false; }
+    Group #TFJRaptorAdultIconBlue { Anchor: (Left: 34, Top: 34, Width: 58, Height: 58); Background: (TexturePath: "../TheForgottenJungle/EggIcons/TFJ_Raptor_Egg_Blue.png"); Visible: false; }
+    Group #TFJRaptorAdultIconYellow { Anchor: (Left: 34, Top: 34, Width: 58, Height: 58); Background: (TexturePath: "../TheForgottenJungle/EggIcons/TFJ_Raptor_Egg_Yellow.png"); Visible: false; }
+    Group #TFJRaptorAdultIconGreen { Anchor: (Left: 34, Top: 34, Width: 58, Height: 58); Background: (TexturePath: "../TheForgottenJungle/EggIcons/TFJ_Raptor_Egg_Green.png"); Visible: false; }
+    Group #TFJRaptorAdultIconWhite { Anchor: (Left: 34, Top: 34, Width: 58, Height: 58); Background: (TexturePath: "../TheForgottenJungle/EggIcons/TFJ_Raptor_Egg_White.png"); Visible: false; }
+    Group #TFJRaptorAdultIconCyan { Anchor: (Left: 34, Top: 34, Width: 58, Height: 58); Background: (TexturePath: "../TheForgottenJungle/EggIcons/TFJ_Raptor_Egg_Cyan.png"); Visible: false; }
+    Group #TFJRaptorAdultIconBlack { Anchor: (Left: 34, Top: 34, Width: 58, Height: 58); Background: (TexturePath: "../TheForgottenJungle/EggIcons/TFJ_Raptor_Egg_Black.png"); Visible: false; }
+    Group #TFJRaptorAdultIconGold { Anchor: (Left: 34, Top: 34, Width: 58, Height: 58); Background: (TexturePath: "../TheForgottenJungle/EggIcons/TFJ_Raptor_Egg_Gold.png"); Visible: false; }
+    Group #TFJRaptorAdultIconViolet { Anchor: (Left: 34, Top: 34, Width: 58, Height: 58); Background: (TexturePath: "../TheForgottenJungle/EggIcons/TFJ_Raptor_Egg_Violet.png"); Visible: false; }
+    Group #TFJRaptorAdultIconEmerald { Anchor: (Left: 34, Top: 34, Width: 58, Height: 58); Background: (TexturePath: "../TheForgottenJungle/EggIcons/TFJ_Raptor_Egg_Emerald.png"); Visible: false; }
+    Group #TFJRaptorAdultIconAmber { Anchor: (Left: 34, Top: 34, Width: 58, Height: 58); Background: (TexturePath: "../TheForgottenJungle/EggIcons/TFJ_Raptor_Egg_Amber.png"); Visible: false; }
+    Group #TFJRaptorAdultIconRose { Anchor: (Left: 34, Top: 34, Width: 58, Height: 58); Background: (TexturePath: "../TheForgottenJungle/EggIcons/TFJ_Raptor_Egg_Rose.png"); Visible: false; }
+    Group #TFJRaptorAdultIconJade { Anchor: (Left: 34, Top: 34, Width: 58, Height: 58); Background: (TexturePath: "../TheForgottenJungle/EggIcons/TFJ_Raptor_Egg_Jade.png"); Visible: false; }
+    Group #TFJRaptorAdultIconIvory { Anchor: (Left: 34, Top: 34, Width: 58, Height: 58); Background: (TexturePath: "../TheForgottenJungle/EggIcons/TFJ_Raptor_Egg_Ivory.png"); Visible: false; }
+    Group #TFJRaptorAdultIconAzure { Anchor: (Left: 34, Top: 34, Width: 58, Height: 58); Background: (TexturePath: "../TheForgottenJungle/EggIcons/TFJ_Raptor_Egg_Azure.png"); Visible: false; }
+    Group #TFJRaptorAdultIconCrimson { Anchor: (Left: 34, Top: 34, Width: 58, Height: 58); Background: (TexturePath: "../TheForgottenJungle/EggIcons/TFJ_Raptor_Egg_Crimson.png"); Visible: false; }
+    Group #TFJRaptorAdultIconPterodactyl { Anchor: (Left: 34, Top: 34, Width: 58, Height: 58); Background: (TexturePath: "../TheForgottenJungle/EggIcons/TFJ_Raptor_Egg_Pterodactyl.png"); Visible: false; }
+
+    Label #TFJRaptorAdultTitle {
+      Style: (TextColor: @TFJGold, FontSize: 21, RenderBold: true, HorizontalAlignment: Start, VerticalAlignment: Center, ShrinkTextToFit: true, MinShrinkTextToFitFontSize: 12);
+      Text: "Adult Red Raptor";
+      Anchor: (Left: 108, Right: 136, Top: 28, Height: 30);
+    }
+
+    Label #TFJRaptorAdultMutation {
+      Style: (TextColor: #ffe18b, FontSize: 12, RenderBold: true, HorizontalAlignment: End, VerticalAlignment: Center, ShrinkTextToFit: true, MinShrinkTextToFitFontSize: 9);
+      Text: "Mutation: Red";
+      Anchor: (Right: 34, Top: 34, Width: 126, Height: 20);
+    }
+
+    Label #TFJRaptorAdultSexFemale { Style: (TextColor: @TFJFemale, FontSize: 12, RenderBold: true, HorizontalAlignment: Start, VerticalAlignment: Center); Text: "Female"; Anchor: (Left: 110, Top: 62, Width: 64, Height: 18); Visible: false; }
+    Label #TFJRaptorAdultSexMale { Style: (TextColor: @TFJMale, FontSize: 12, RenderBold: true, HorizontalAlignment: Start, VerticalAlignment: Center); Text: "Male"; Anchor: (Left: 110, Top: 62, Width: 64, Height: 18); Visible: false; }
+
+    Label #TFJRaptorAdultCommand {
+      Style: (TextColor: @TFJLeafSoft, FontSize: 12, RenderBold: true, HorizontalAlignment: Start, VerticalAlignment: Center);
+      Text: "Command: Idle";
+      Anchor: (Left: 182, Top: 62, Width: 150, Height: 18);
+    }
+
+    Label #TFJRaptorAdultPoints {
+      Style: (TextColor: #ffe18b, FontSize: 12, RenderBold: true, HorizontalAlignment: End, VerticalAlignment: Center);
+      Text: "Points: 0";
+      Anchor: (Right: 34, Top: 62, Width: 116, Height: 18);
+    }
+
+    Group #TFJRaptorAdultVitals {
+      Anchor: (Left: 34, Top: 104, Width: 282, Height: 136);
+      Background: @TFJPanel;
+      OutlineColor: @TFJLine;
+      OutlineSize: 1;
+
+      Label #TFJRaptorAdultHealthText { Style: (TextColor: #ffe4d8, FontSize: 12, RenderBold: true, HorizontalAlignment: Start, VerticalAlignment: Center); Text: "84 / 84 HP"; Anchor: (Left: 14, Top: 12, Width: 116, Height: 18); }
+      Group #TFJRaptorAdultHealthWrap {
+        Anchor: (Left: 14, Right: 14, Top: 36, Height: 12);
+        Background: (TexturePath: "../Common/ProgressBar.png");
+        ProgressBar #TFJRaptorAdultHealthBar { Anchor: (Left: 1, Right: 1, Top: 2, Height: 8); BarTexturePath: "../TheForgottenJungle/TFJRaptorHealthFill.png"; EffectTexturePath: "../Common/ProgressBarEffect.png"; Value: 1.0; }
+      }
+
+      Label #TFJRaptorAdultXpText { Style: (TextColor: #d8efb1, FontSize: 12, RenderBold: true, HorizontalAlignment: Start, VerticalAlignment: Center); Text: "Level 1 | 0 / 120 XP"; Anchor: (Left: 14, Top: 58, Width: 170, Height: 18); }
+      TextButton #TFJRaptorAdultTrainButton { Anchor: (Right: 14, Top: 57, Width: 66, Height: 20); Text: "Train"; Style: @TFJAdultButton; }
+      Group #TFJRaptorAdultXpWrap {
+        Anchor: (Left: 14, Right: 14, Top: 82, Height: 12);
+        Background: (TexturePath: "../Common/ProgressBar.png");
+        ProgressBar #TFJRaptorAdultXpBar { Anchor: (Left: 1, Right: 1, Top: 2, Height: 8); BarTexturePath: "../TheForgottenJungle/TFJIncubatorProgressFill.png"; EffectTexturePath: "../Common/ProgressBarEffect.png"; Value: 0.0; }
+      }
+
+      Label #TFJRaptorAdultStaminaText { Style: (TextColor: #e7c48d, FontSize: 12, RenderBold: true, HorizontalAlignment: Start, VerticalAlignment: Center); Text: "Stamina 100 / 100"; Anchor: (Left: 14, Top: 102, Width: 150, Height: 18); }
+      Group #TFJRaptorAdultStaminaWrap {
+        Anchor: (Left: 14, Right: 14, Top: 122, Height: 10);
+        Background: (TexturePath: "../Common/ProgressBar.png");
+        ProgressBar #TFJRaptorAdultStaminaBar { Anchor: (Left: 1, Right: 1, Top: 2, Height: 6); BarTexturePath: "../TheForgottenJungle/TFJRaptorFoodFill.png"; EffectTexturePath: "../Common/ProgressBarEffect.png"; Value: 1.0; }
+      }
+    }
+
+    Group #TFJRaptorAdultUpgrades {
+      Anchor: (Left: 344, Top: 104, Right: 34, Height: 136);
+      Background: @TFJPanel;
+      OutlineColor: @TFJLine;
+      OutlineSize: 1;
+
+      Label #TFJRaptorAdultDamageText { Style: (TextColor: #fff0b8, FontSize: 12, RenderBold: true, HorizontalAlignment: Start, VerticalAlignment: Center, ShrinkTextToFit: true, MinShrinkTextToFitFontSize: 9); Text: "Damage Lv. 0 | 8"; Anchor: (Left: 14, Top: 16, Right: 88, Height: 20); }
+      TextButton #TFJRaptorAdultDamageButton { Anchor: (Right: 14, Top: 15, Width: 64, Height: 22); Text: "+ DMG"; Style: @TFJAdultButton; }
+
+      Label #TFJRaptorAdultSpeedText { Style: (TextColor: #cce8a3, FontSize: 12, RenderBold: true, HorizontalAlignment: Start, VerticalAlignment: Center, ShrinkTextToFit: true, MinShrinkTextToFitFontSize: 9); Text: "Speed Lv. 0 | 10"; Anchor: (Left: 14, Top: 56, Right: 88, Height: 20); }
+      TextButton #TFJRaptorAdultSpeedButton { Anchor: (Right: 14, Top: 55, Width: 64, Height: 22); Text: "+ SPD"; Style: @TFJAdultButton; }
+
+      Label #TFJRaptorAdultStaminaUpgradeText { Style: (TextColor: #e7c48d, FontSize: 12, RenderBold: true, HorizontalAlignment: Start, VerticalAlignment: Center, ShrinkTextToFit: true, MinShrinkTextToFitFontSize: 9); Text: "Stamina Lv. 0 | 100"; Anchor: (Left: 14, Top: 96, Right: 88, Height: 20); }
+      TextButton #TFJRaptorAdultStaminaButton { Anchor: (Right: 14, Top: 95, Width: 64, Height: 22); Text: "+ STA"; Style: @TFJAdultButton; }
+    }
+
+    Group #TFJRaptorAdultCommands {
+      Anchor: (Left: 34, Right: 34, Top: 260, Height: 90);
+      Background: @TFJPanel;
+      OutlineColor: @TFJLine;
+      OutlineSize: 1;
+
+      TextButton #TFJRaptorAdultMountButton { Anchor: (Left: 18, Top: 18, Width: 112, Height: 24); Text: "Mount"; Style: @TFJAdultButton; }
+      TextButton #TFJRaptorAdultFollowButton { Anchor: (Left: 146, Top: 18, Width: 112, Height: 24); Text: "Follow"; Style: @TFJAdultButton; }
+      TextButton #TFJRaptorAdultGuardButton { Anchor: (Left: 274, Top: 18, Width: 112, Height: 24); Text: "Guard Here"; Style: @TFJAdultButton; }
+      TextButton #TFJRaptorAdultIdleButton { Anchor: (Left: 398, Top: 18, Width: 52, Height: 24); Text: "Idle"; Style: @TFJAdultButton; }
+      TextButton #TFJRaptorAdultBreedingToggleButton { Anchor: (Right: 18, Top: 18, Width: 112, Height: 24); Text: "Breeding: Off"; Style: @TFJAdultButton; }
+
+      Label #TFJRaptorAdultStatus {
+        Style: (TextColor: #fff6dc, FontSize: 12, RenderBold: true, HorizontalAlignment: Center, VerticalAlignment: Center, Wrap: true);
+        Text: "Adult raptor ready.";
+        Anchor: (Left: 18, Right: 18, Top: 54, Height: 24);
+      }
+    }
+
+    TextButton #TFJRaptorAdultCloseButton {
+      Anchor: (Right: 34, Top: 374, Width: 82, Height: 22);
+      Text: "Close";
+      Style: @TFJAdultButton;
+    }
+  }
+}

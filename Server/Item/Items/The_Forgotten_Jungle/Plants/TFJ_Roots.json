@@ -1,0 +1,47 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.TFJ_Roots.name",
+    "Description": "server.items.TFJ_Roots.description"
+  },
+  "ItemLevel": 1,
+  "MaxStack": 99,
+  "Icon": "Icons/ItemsGenerated/TFJ_Roots.png",
+  "Categories": [
+    "TheForgottenJungle.Blocks"
+  ],
+  "PlayerAnimationsId": "Block",
+  "Set": "TFJ_Roots",
+  "BlockType": {
+    "DrawType": "Model",
+    "Material": "Solid",
+    "Opacity": "Transparent",
+    "CustomModel": "Blocks/Foliage/Tree/Roots.blockymodel",
+    "CustomModelTexture": [
+      {
+        "Texture": "Blocks/Foliage/Tree/Roots_Textures/TFJ_Roots.png",
+        "Weight": 1
+      }
+    ],
+    "CustomModelScale": 1.0,
+    "HitboxType": "Plant_Full",
+    "BlockParticleSetId": "Grass",
+    "BlockSoundSetId": "Grass",
+    "VariantRotation": "NESW",
+    "Gathering": {
+      "Breaking": {
+        "GatherType": "Woods"
+      }
+    },
+    "ParticleColor": "#6f4e2e"
+  },
+  "Tags": {
+    "Type": [
+      "Plant"
+    ],
+    "Family": [
+      "Forgotten"
+    ]
+  },
+  "Quality": "Common",
+  "ItemSoundSetId": "ISS_Blocks_Wood"
+}

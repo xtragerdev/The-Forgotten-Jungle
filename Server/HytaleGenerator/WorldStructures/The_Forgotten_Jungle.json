@@ -1,0 +1,73 @@
+{
+  "Type": "NoiseRange",
+  "Biomes": [
+    {
+      "Biome": "The_Forgotten_Jungle_Canopy",
+      "Min": -1,
+      "Max": -0.35
+    },
+    {
+      "Biome": "Forgotten_Fern_Glade",
+      "Min": -0.35,
+      "Max": 0.05
+    },
+    {
+      "Biome": "Forgotten_Riverbank",
+      "Min": 0.05,
+      "Max": 0.42
+    },
+    {
+      "Biome": "TFJ_Raptor_Denlands",
+      "Min": 0.42,
+      "Max": 1.01
+    }
+  ],
+  "DefaultBiome": "The_Forgotten_Jungle_Canopy",
+  "DefaultTransitionDistance": 22,
+  "MaxBiomeEdgeDistance": 56,
+  "Density": {
+    "Type": "Imported",
+    "Name": "Forgotten-Jungle-Biome-Map"
+  },
+  "SpawnPositions": {
+    "Type": "Imported",
+    "Name": "Forgotten-Jungle-Spawns"
+  },
+  "Framework": [
+    {
+      "Type": "Positions",
+      "Entries": [
+        {
+          "Name": "Forgotten-Jungle-Spawns",
+          "Positions": {
+            "Type": "List",
+            "Positions": [
+              {
+                "X": 0,
+                "Y": 96,
+                "Z": 0
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "Type": "DecimalConstants",
+      "Entries": [
+        {
+          "Name": "Base",
+          "Value": 82
+        },
+        {
+          "Name": "Water",
+          "Value": 66
+        },
+        {
+          "Name": "Bedrock",
+          "Value": -64
+        }
+      ]
+    }
+  ]
+}

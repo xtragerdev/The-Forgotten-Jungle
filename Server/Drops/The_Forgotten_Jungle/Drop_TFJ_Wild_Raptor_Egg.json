@@ -1,0 +1,91 @@
+{
+  "Container": {
+    "Type": "Choice",
+    "Containers": [
+      {
+        "Type": "Multiple",
+        "Weight": 28,
+        "Containers": [
+          {
+            "Type": "Single",
+            "Item": {
+              "ItemId": "TFJ_Raptor_Egg_Green",
+              "QuantityMin": 1,
+              "QuantityMax": 1
+            }
+          }
+        ]
+      },
+      {
+        "Type": "Multiple",
+        "Weight": 22,
+        "Containers": [
+          {
+            "Type": "Single",
+            "Item": {
+              "ItemId": "TFJ_Raptor_Egg_Red",
+              "QuantityMin": 1,
+              "QuantityMax": 1
+            }
+          }
+        ]
+      },
+      {
+        "Type": "Multiple",
+        "Weight": 22,
+        "Containers": [
+          {
+            "Type": "Single",
+            "Item": {
+              "ItemId": "TFJ_Raptor_Egg_Blue",
+              "QuantityMin": 1,
+              "QuantityMax": 1
+            }
+          }
+        ]
+      },
+      {
+        "Type": "Multiple",
+        "Weight": 22,
+        "Containers": [
+          {
+            "Type": "Single",
+            "Item": {
+              "ItemId": "TFJ_Raptor_Egg_Yellow",
+              "QuantityMin": 1,
+              "QuantityMax": 1
+            }
+          }
+        ]
+      },
+      {
+        "Type": "Multiple",
+        "Weight": 8,
+        "Containers": [
+          {
+            "Type": "Single",
+            "Item": {
+              "ItemId": "TFJ_Raptor_Egg_Cyan",
+              "QuantityMin": 1,
+              "QuantityMax": 1
+            }
+          }
+        ]
+      },
+      {
+        "Type": "Multiple",
+        "Weight": 8,
+        "Containers": [
+          {
+            "Type": "Single",
+            "Item": {
+              "ItemId": "TFJ_Raptor_Egg_White",
+              "QuantityMin": 1,
+              "QuantityMax": 1
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

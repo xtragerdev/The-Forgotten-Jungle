@@ -1,0 +1,47 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.TFJ_Canopy_Leaves.name",
+    "Description": "server.items.TFJ_Canopy_Leaves.description"
+  },
+  "ItemLevel": 1,
+  "MaxStack": 99,
+  "Icon": "Icons/ItemsGenerated/TFJ_Canopy_Leaves.png",
+  "Categories": [
+    "TheForgottenJungle.Blocks"
+  ],
+  "PlayerAnimationsId": "Block",
+  "Set": "TFJ_Canopy_Leaves",
+  "BlockType": {
+    "DrawType": "Model",
+    "Material": "Solid",
+    "Opacity": "Transparent",
+    "CustomModel": "Blocks/Foliage/Leaves/Ball.blockymodel",
+    "CustomModelTexture": [
+      {
+        "Texture": "Blocks/Foliage/Leaves/Ball_Textures/TFJ_Canopy_Leaves.png",
+        "Weight": 1
+      }
+    ],
+    "CustomModelScale": 1.0,
+    "HitboxType": "Plant_Full",
+    "BlockParticleSetId": "Grass",
+    "BlockSoundSetId": "Grass",
+    "VariantRotation": "NESW",
+    "Gathering": {
+      "Breaking": {
+        "GatherType": "Woods"
+      }
+    },
+    "ParticleColor": "#719a52"
+  },
+  "Tags": {
+    "Type": [
+      "Plant"
+    ],
+    "Family": [
+      "Forgotten"
+    ]
+  },
+  "Quality": "Common",
+  "ItemSoundSetId": "ISS_Blocks_Wood"
+}

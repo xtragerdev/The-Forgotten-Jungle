@@ -1,0 +1,26 @@
+{
+  "Type": "Variant",
+  "Reference": "Template_Animal_Neutral",
+  "Modify": {
+    "Appearance": "TFJ_Trillodon_Young",
+    "DropList": "Drop_Trillodon",
+    "MaxHealth": 95,
+    "IsMemory": true,
+    "MemoriesCategory": "Forgotten",
+    "NameTranslationKey": {
+      "Compute": "NameTranslationKey"
+    },
+    "FlockArray": [
+      "TFJ_Trillodon_Young"
+    ],
+    "MaxSpeed": 8,
+    "MemoriesNameOverride": "TFJ_Trillodon_Young",
+    "WanderRadius": 16
+  },
+  "Parameters": {
+    "NameTranslationKey": {
+      "Value": "server.npcRoles.TFJ_Trillodon_Young.name",
+      "Description": "Translation key for NPC name display"
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.TFJ_Raptor_Treat.name",
+    "Description": "server.items.TFJ_Raptor_Treat.description"
+  },
+  "Parent": "Template_Food",
+  "Quality": "Rare",
+  "Categories": [
+    "TheForgottenJungle.Items"
+  ],
+  "InteractionVars": {
+    "Consume_Charge": {
+      "Interactions": [
+        {
+          "Parent": "Consume_Charge_Food_T1_Inner",
+          "Effects": {
+            "Particles": [
+              {
+                "SystemId": "Food_Eat",
+                "Color": "#F2D28E",
+                "TargetNodeName": "Mouth",
+                "TargetEntityPart": "Entity"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "Effect": {
+      "Interactions": [
+        {
+          "Type": "ApplyEffect",
+          "EffectId": "Food_Instant_Heal_T1"
+        }
+      ]
+    }
+  },
+  "Icon": "Icons/ItemsGenerated/TFJ_Raptor_Treat.png",
+  "Tags": {
+    "Type": [
+      "Food"
+    ],
+    "Family": [
+      "Forgotten"
+    ],
+    "TFJRaptor": [
+      "BreedingTreat"
+    ]
+  },
+  "MaxStack": 25,
+  "Consumable": true,
+  "DropOnDeath": true,
+  "Recipe": {
+    "TimeSeconds": 2,
+    "KnowledgeRequired": false,
+    "Input": [
+      {
+        "ItemId": "Food_Egg",
+        "Quantity": 1
+      },
+      {
+        "ItemId": "Food_Wildmeat_Raw",
+        "Quantity": 1
+      },
+      {
+        "ItemId": "Plant_Crop_Corn_Item",
+        "Quantity": 1
+      }
+    ],
+    "BenchRequirement": [
+      {
+        "Type": "Crafting",
+        "Categories": [
+          "Farming"
+        ],
+        "Id": "Farmingbench"
+      }
+    ],
+    "OutputQuantity": 1
+  },
+  "Interactions": {
+    "Primary": {
+      "Cooldown": {
+        "Id": "TFJBreed",
+        "Cooldown": 0.3
+      },
+      "Interactions": [
+        {
+          "Type": "ContextualUseNPC",
+          "Context": "TFJBreed",
+          "Effects": {
+            "ItemAnimationId": "Interact",
+            "WaitForAnimationToFinish": true,
+            "WorldSoundEventId": "SFX_Chicken_Alerted"
+          }
+        }
+      ]
+    },
+    "Secondary": {
+      "Cooldown": {
+        "Id": "TFJBreed",
+        "Cooldown": 0.3
+      },
+      "Interactions": [
+        {
+          "Type": "ContextualUseNPC",
+          "Context": "TFJBreed",
+          "Effects": {
+            "ItemAnimationId": "Interact",
+            "WaitForAnimationToFinish": true,
+            "WorldSoundEventId": "SFX_Chicken_Alerted"
+          }
+        }
+      ]
+    }
+  }
+}

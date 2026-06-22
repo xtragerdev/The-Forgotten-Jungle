@@ -1,0 +1,47 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.TFJ_Hanging_Vines.name",
+    "Description": "server.items.TFJ_Hanging_Vines.description"
+  },
+  "ItemLevel": 1,
+  "MaxStack": 99,
+  "Icon": "Icons/ItemsGenerated/TFJ_Hanging_Vines.png",
+  "Categories": [
+    "TheForgottenJungle.Blocks"
+  ],
+  "PlayerAnimationsId": "Block",
+  "Set": "TFJ_Hanging_Vines",
+  "BlockType": {
+    "DrawType": "Model",
+    "Material": "Solid",
+    "Opacity": "Transparent",
+    "CustomModel": "Blocks/Foliage/Leaves/Hanging.blockymodel",
+    "CustomModelTexture": [
+      {
+        "Texture": "Blocks/Foliage/Leaves/Hanging_Textures/TFJ_Hanging_Vines.png",
+        "Weight": 1
+      }
+    ],
+    "CustomModelScale": 1.0,
+    "HitboxType": "Plant_Full",
+    "BlockParticleSetId": "Grass",
+    "BlockSoundSetId": "Grass",
+    "VariantRotation": "NESW",
+    "Gathering": {
+      "Breaking": {
+        "GatherType": "Woods"
+      }
+    },
+    "ParticleColor": "#5f9d52"
+  },
+  "Tags": {
+    "Type": [
+      "Plant"
+    ],
+    "Family": [
+      "Forgotten"
+    ]
+  },
+  "Quality": "Common",
+  "ItemSoundSetId": "ISS_Blocks_Wood"
+}

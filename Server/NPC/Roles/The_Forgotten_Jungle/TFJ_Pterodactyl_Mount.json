@@ -1,0 +1,86 @@
+{
+  "Type": "Generic",
+  "Appearance": "TFJ_Pterodactyl_Mount",
+  "DefaultPlayerAttitude": "Revered",
+  "DefaultNPCAttitude": "Ignore",
+  "AttitudeGroup": "Empty",
+  "DisableDamageGroups": [
+    "Self"
+  ],
+  "KnockbackScale": 0.2,
+  "MaxHealth": 190,
+  "IsMemory": false,
+  "MotionControllerList": [
+    {
+      "Type": "Walk",
+      "MaxWalkSpeed": 6.0,
+      "Gravity": 15,
+      "MaxFallSpeed": 15,
+      "JumpHeight": 0.1,
+      "MaxRotationSpeed": 180
+    }
+  ],
+  "Instructions": [
+    {
+      "Instructions": [
+        {
+          "Sensor": {
+            "Type": "Any"
+          },
+          "Actions": [
+            {
+              "Type": "Nothing"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "InteractionInstruction": {
+    "Instructions": [
+      {
+        "Sensor": {
+          "Type": "Not",
+          "Sensor": {
+            "Type": "CanInteract",
+            "ViewSector": 360
+          }
+        },
+        "Actions": [
+          {
+            "Type": "SetInteractable",
+            "Interactable": false
+          }
+        ]
+      },
+      {
+        "Continue": true,
+        "Sensor": {
+          "Type": "Any"
+        },
+        "Actions": [
+          {
+            "Type": "SetInteractable",
+            "Interactable": true,
+            "Hint": "server.interactionHints.mount"
+          }
+        ]
+      },
+      {
+        "Sensor": {
+          "Type": "HasInteracted"
+        },
+        "Actions": [
+          {
+            "Type": "Mount",
+            "AnchorX": 0,
+            "AnchorY": 2.42,
+            "AnchorZ": -0.38,
+            "MovementConfig": "TFJ_Pterodactyl_Mount"
+          }
+        ]
+      }
+    ]
+  },
+  "NameTranslationKey": "server.npcRoles.TFJ_Pterodactyl_Mount.name"
+}

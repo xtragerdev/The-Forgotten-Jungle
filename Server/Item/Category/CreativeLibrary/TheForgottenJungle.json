@@ -1,0 +1,24 @@
+{
+  "Icon": "Icons/ItemCategories/TheForgottenJungle.png",
+  "Order": 4,
+  "Children": [
+    {
+      "Id": "Blocks",
+      "Name": "server.ui.itemcategory.forgottenjungle.blocks",
+      "Icon": "Icons/ItemCategories/Blocks.png",
+      "InfoDisplayMode": "Adjacent"
+    },
+    {
+      "Id": "Weapons",
+      "Name": "server.ui.itemcategory.forgottenjungle.weapons",
+      "Icon": "Icons/ItemCategories/Items-Weapons.png",
+      "InfoDisplayMode": "Adjacent"
+    },
+    {
+      "Id": "Items",
+      "Name": "server.ui.itemcategory.forgottenjungle.items",
+      "Icon": "Icons/ItemCategories/Items.png",
+      "InfoDisplayMode": "Adjacent"
+    }
+  ]
+}

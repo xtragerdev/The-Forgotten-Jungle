@@ -1,0 +1,62 @@
+{
+  "Type": "Variant",
+  "Reference": "Template_Predator",
+  "Modify": {
+    "Appearance": "TFJ_Tyrant_Rex",
+    "FlockArray": [
+      "TFJ_Tyrant_Rex"
+    ],
+    "AttitudeGroup": "PredatorsBig",
+    "WanderRadius": 18,
+    "ViewRange": 18,
+    "FleeRange": 15,
+    "HearingRange": 14,
+    "DropList": "Drop_Raptor_Cave",
+    "MaxSpeed": 16,
+    "Attack": "Root_NPC_Attack_Melee",
+    "AlwaysSleepAtNight": true,
+    "MaxHealth": 420,
+    "IsMemory": true,
+    "MemoriesCategory": "Forgotten",
+    "_InteractionVars": {
+      "Melee_Start": {
+        "Interactions": [
+          {
+            "Parent": "NPC_Attack_Melee_Simple",
+            "$Comment": "Sets animations and delay before hit",
+            "Effects": {
+              "ItemPlayerAnimationsId": "Raptor_Cave_Default",
+              "ItemAnimationId": "Bite"
+            },
+            "RunTime": 0.333
+          }
+        ]
+      },
+      "Melee_Damage": {
+        "Interactions": [
+          {
+            "Parent": "NPC_Attack_Melee_Damage",
+            "$Comment": "Sets damage and onhit effects",
+            "DamageCalculator": {
+              "Type": "Absolute",
+              "BaseDamage": {
+                "Physical": 27
+              },
+              "RandomPercentageModifier": 0.1
+            }
+          }
+        ]
+      }
+    },
+    "NameTranslationKey": {
+      "Compute": "NameTranslationKey"
+    },
+    "MemoriesNameOverride": "TFJ_Tyrant_Rex"
+  },
+  "Parameters": {
+    "NameTranslationKey": {
+      "Value": "server.npcRoles.TFJ_Tyrant_Rex.name",
+      "Description": "Translation key for NPC name display"
+    }
+  }
+}

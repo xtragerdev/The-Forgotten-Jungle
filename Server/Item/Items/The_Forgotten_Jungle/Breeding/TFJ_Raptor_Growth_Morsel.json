@@ -1,0 +1,113 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.TFJ_Raptor_Growth_Morsel.name",
+    "Description": "server.items.TFJ_Raptor_Growth_Morsel.description"
+  },
+  "Parent": "Template_Food",
+  "Quality": "Common",
+  "Categories": [
+    "TheForgottenJungle.Items"
+  ],
+  "InteractionVars": {
+    "Consume_Charge": {
+      "Interactions": [
+        {
+          "Parent": "Consume_Charge_Food_T1_Inner",
+          "Effects": {
+            "Particles": [
+              {
+                "SystemId": "Food_Eat",
+                "Color": "#F2D28E",
+                "TargetNodeName": "Mouth",
+                "TargetEntityPart": "Entity"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "Effect": {
+      "Interactions": [
+        {
+          "Type": "ApplyEffect",
+          "EffectId": "Food_Instant_Heal_T1"
+        }
+      ]
+    }
+  },
+  "Icon": "Icons/ItemsGenerated/TFJ_Raptor_Growth_Morsel.png",
+  "Tags": {
+    "Type": [
+      "Food"
+    ],
+    "Family": [
+      "Forgotten"
+    ],
+    "TFJRaptor": [
+      "GrowthFood"
+    ]
+  },
+  "MaxStack": 25,
+  "Consumable": true,
+  "DropOnDeath": true,
+  "Recipe": {
+    "TimeSeconds": 1,
+    "KnowledgeRequired": false,
+    "Input": [
+      {
+        "ItemId": "Plant_Crop_Corn_Item",
+        "Quantity": 1
+      },
+      {
+        "ItemId": "Ingredient_Bone_Fragment",
+        "Quantity": 1
+      }
+    ],
+    "BenchRequirement": [
+      {
+        "Type": "Crafting",
+        "Categories": [
+          "Farming"
+        ],
+        "Id": "Farmingbench"
+      }
+    ],
+    "OutputQuantity": 1
+  },
+  "Interactions": {
+    "Primary": {
+      "Cooldown": {
+        "Id": "TFJGrow",
+        "Cooldown": 0.3
+      },
+      "Interactions": [
+        {
+          "Type": "ContextualUseNPC",
+          "Context": "TFJGrow",
+          "Effects": {
+            "ItemAnimationId": "Interact",
+            "WaitForAnimationToFinish": true,
+            "WorldSoundEventId": "SFX_Consume_Bread"
+          }
+        }
+      ]
+    },
+    "Secondary": {
+      "Cooldown": {
+        "Id": "TFJGrow",
+        "Cooldown": 0.3
+      },
+      "Interactions": [
+        {
+          "Type": "ContextualUseNPC",
+          "Context": "TFJGrow",
+          "Effects": {
+            "ItemAnimationId": "Interact",
+            "WaitForAnimationToFinish": true,
+            "WorldSoundEventId": "SFX_Consume_Bread"
+          }
+        }
+      ]
+    }
+  }
+}

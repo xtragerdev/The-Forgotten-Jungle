@@ -1,0 +1,23 @@
+{
+  "Model": "NPC_Spawn_Marker",
+  "NPCs": [
+    {
+      "Name": "TFJ_Pterodactyl",
+      "Weight": 30,
+      "SpawnAfterGameTime": "PT0S"
+    },
+    {
+      "Name": "TFJ_Pterodactyl_Mosswing",
+      "Weight": 40,
+      "SpawnAfterGameTime": "PT0S"
+    },
+    {
+      "Name": "TFJ_Pterodactyl_Suncrest",
+      "Weight": 18,
+      "SpawnAfterGameTime": "PT0S"
+    }
+  ],
+  "ExclusionRadius": 22,
+  "MaxDropHeight": 96,
+  "DeactivationDistance": 160
+}

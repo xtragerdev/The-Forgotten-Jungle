@@ -1,0 +1,30 @@
+Group #TheForgottenJungleHudRoot {
+  Anchor: (Left: 0, Right: 0, Top: 0, Bottom: 0);
+  Background: (Color: #000000(0));
+
+  Group #TheForgottenJungleHud {
+    Anchor: (Top: 20, Right: 20, Width: 260, Height: 154);
+
+    Group #TheForgottenJungleLogo {
+      Anchor: (Left: 0, Top: 0, Width: 260, Height: 64);
+      Background: (TexturePath: "TheForgottenJungleLogo.png");
+    }
+
+    Group #TheForgottenJunglePanel {
+      Anchor: (Left: 24, Top: 72, Width: 210, Height: 75);
+      Background: (TexturePath: "TheForgottenJunglePanel.png");
+
+      Label #ForgottenBiomeText {
+        Style: (FontSize: 14, TextColor: #e4efb2, RenderBold: true, HorizontalAlignment: Start, VerticalAlignment: Center);
+        Anchor: (Left: 24, Right: 18, Top: 16, Height: 22);
+        Text: "Canopy survey";
+      }
+
+      Label #ForgottenThreatText {
+        Style: (FontSize: 12, TextColor: #a4c878, HorizontalAlignment: Start, VerticalAlignment: Center);
+        Anchor: (Left: 24, Right: 18, Top: 42, Height: 22);
+        Text: "Raptor signs: unknown";
+      }
+    }
+  }
+}

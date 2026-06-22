@@ -1,0 +1,79 @@
+{
+  "$Comment": "Simple native raptor follow behavior based on Tamework's Simple_TP follow component.",
+  "Type": "Component",
+  "Class": "Instruction",
+  "Interface": "TFJ.Instruction.RaptorFollow",
+  "DefaultState": ".Default",
+  "Parameters": {
+    "MasterTargetSlot": {
+      "Value": "MasterTarget",
+      "Description": "Target slot used to track the raptor owner."
+    },
+    "FollowSeekRange": {
+      "Value": 30,
+      "Description": "Distance threshold where seek is used; outside this threshold, teleport fallback is used."
+    },
+    "FollowSeekSlowDownDistance": {
+      "Value": 6,
+      "Description": "How far from the owner to start slowing down when seeking."
+    },
+    "FollowSeekStopDistance": {
+      "Value": 3,
+      "Description": "How far from the owner to stop when seeking."
+    },
+    "FollowSeekRelativeSpeed": {
+      "Value": 1.1,
+      "Description": "Relative speed used when seeking the owner."
+    }
+  },
+  "Content": {
+    "Continue": true,
+    "Sensor": {
+      "Type": "Any"
+    },
+    "Instructions": [
+      {
+        "Sensor": {
+          "Type": "State",
+          "State": ".Default"
+        },
+        "Instructions": [
+          {
+            "Sensor": {
+              "Type": "Target",
+              "TargetSlot": {
+                "Compute": "MasterTargetSlot"
+              },
+              "Range": {
+                "Compute": "FollowSeekRange"
+              }
+            },
+            "BodyMotion": {
+              "Type": "Seek",
+              "SlowDownDistance": {
+                "Compute": "FollowSeekSlowDownDistance"
+              },
+              "StopDistance": {
+                "Compute": "FollowSeekStopDistance"
+              },
+              "RelativeSpeed": {
+                "Compute": "FollowSeekRelativeSpeed"
+              }
+            }
+          },
+          {
+            "Sensor": {
+              "Type": "Target",
+              "TargetSlot": {
+                "Compute": "MasterTargetSlot"
+              }
+            },
+            "BodyMotion": {
+              "Type": "Teleport"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

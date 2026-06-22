@@ -1,0 +1,47 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.TFJ_Giant_Fern.name",
+    "Description": "server.items.TFJ_Giant_Fern.description"
+  },
+  "ItemLevel": 1,
+  "MaxStack": 99,
+  "Icon": "Icons/ItemsGenerated/TFJ_Giant_Fern.png",
+  "Categories": [
+    "TheForgottenJungle.Blocks"
+  ],
+  "PlayerAnimationsId": "Block",
+  "Set": "TFJ_Giant_Fern",
+  "BlockType": {
+    "DrawType": "Model",
+    "Material": "Solid",
+    "Opacity": "Transparent",
+    "CustomModel": "Blocks/Foliage/Plants/Fern_Giant.blockymodel",
+    "CustomModelTexture": [
+      {
+        "Texture": "Blocks/Foliage/Plants/TFJ_Giant_Fern.png",
+        "Weight": 1
+      }
+    ],
+    "CustomModelScale": 1.12,
+    "HitboxType": "Plant_Full",
+    "BlockParticleSetId": "Grass",
+    "BlockSoundSetId": "Grass",
+    "VariantRotation": "NESW",
+    "Gathering": {
+      "Breaking": {
+        "GatherType": "Woods"
+      }
+    },
+    "ParticleColor": "#5d9d45"
+  },
+  "Tags": {
+    "Type": [
+      "Plant"
+    ],
+    "Family": [
+      "Forgotten"
+    ]
+  },
+  "Quality": "Common",
+  "ItemSoundSetId": "ISS_Blocks_Wood"
+}

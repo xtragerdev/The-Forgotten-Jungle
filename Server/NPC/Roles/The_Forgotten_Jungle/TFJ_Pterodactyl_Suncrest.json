@@ -1,0 +1,25 @@
+{
+  "Type": "Variant",
+  "Reference": "Template_Birds_Passive",
+  "Modify": {
+    "Appearance": "TFJ_Pterodactyl_Suncrest",
+    "FlockArray": [
+      "TFJ_Pterodactyl_Suncrest"
+    ],
+    "DropList": "Drop_Pterodactyl",
+    "MaxHealth": 88,
+    "WanderRadius": 18,
+    "IsMemory": true,
+    "MemoriesCategory": "Forgotten",
+    "NameTranslationKey": {
+      "Compute": "NameTranslationKey"
+    },
+    "MemoriesNameOverride": "TFJ_Pterodactyl_Suncrest"
+  },
+  "Parameters": {
+    "NameTranslationKey": {
+      "Value": "server.npcRoles.TFJ_Pterodactyl_Suncrest.name",
+      "Description": "Translation key for NPC name display"
+    }
+  }
+}

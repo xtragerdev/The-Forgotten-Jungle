@@ -1,0 +1,25 @@
+{
+  "Type": "Variant",
+  "Reference": "Template_Birds_Passive",
+  "Modify": {
+    "Appearance": "TFJ_Pterodactyl_Mosswing",
+    "FlockArray": [
+      "TFJ_Pterodactyl_Mosswing"
+    ],
+    "DropList": "Drop_Pterodactyl",
+    "MaxHealth": 66,
+    "WanderRadius": 18,
+    "IsMemory": true,
+    "MemoriesCategory": "Forgotten",
+    "NameTranslationKey": {
+      "Compute": "NameTranslationKey"
+    },
+    "MemoriesNameOverride": "TFJ_Pterodactyl_Mosswing"
+  },
+  "Parameters": {
+    "NameTranslationKey": {
+      "Value": "server.npcRoles.TFJ_Pterodactyl_Mosswing.name",
+      "Description": "Translation key for NPC name display"
+    }
+  }
+}

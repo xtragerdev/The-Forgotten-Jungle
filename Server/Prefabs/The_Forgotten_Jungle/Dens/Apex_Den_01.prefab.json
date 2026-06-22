@@ -1,0 +1,1420 @@
+{
+  "version": 8,
+  "blockIdVersion": 11,
+  "anchorX": 0,
+  "anchorY": 0,
+  "anchorZ": 0,
+  "blocks": [
+    {
+      "x": -5,
+      "y": -1,
+      "z": -5,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": -5,
+      "y": -1,
+      "z": -4,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": -5,
+      "y": -1,
+      "z": -3,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": -5,
+      "y": -1,
+      "z": -2,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": -5,
+      "y": -1,
+      "z": -1,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": -5,
+      "y": -1,
+      "z": 0,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": -5,
+      "y": -1,
+      "z": 1,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": -5,
+      "y": -1,
+      "z": 2,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": -5,
+      "y": -1,
+      "z": 3,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": -5,
+      "y": -1,
+      "z": 4,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": -5,
+      "y": -1,
+      "z": 5,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": -4,
+      "y": -1,
+      "z": -5,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": -4,
+      "y": -1,
+      "z": -4,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": -4,
+      "y": -1,
+      "z": -3,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": -4,
+      "y": -1,
+      "z": -2,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": -4,
+      "y": -1,
+      "z": -1,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": -4,
+      "y": -1,
+      "z": 0,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": -4,
+      "y": -1,
+      "z": 1,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": -4,
+      "y": -1,
+      "z": 2,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": -4,
+      "y": -1,
+      "z": 3,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": -4,
+      "y": -1,
+      "z": 4,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": -4,
+      "y": -1,
+      "z": 5,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": -3,
+      "y": -1,
+      "z": -5,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": -3,
+      "y": -1,
+      "z": -4,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": -3,
+      "y": -1,
+      "z": -3,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": -3,
+      "y": -1,
+      "z": -2,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": -3,
+      "y": -1,
+      "z": -1,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": -3,
+      "y": -1,
+      "z": 0,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": -3,
+      "y": -1,
+      "z": 1,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": -3,
+      "y": -1,
+      "z": 2,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": -3,
+      "y": -1,
+      "z": 3,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": -3,
+      "y": -1,
+      "z": 4,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": -3,
+      "y": -1,
+      "z": 5,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": -2,
+      "y": -1,
+      "z": -5,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": -2,
+      "y": -1,
+      "z": -4,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": -2,
+      "y": -1,
+      "z": -3,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": -2,
+      "y": -1,
+      "z": -2,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": -2,
+      "y": -1,
+      "z": -1,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": -2,
+      "y": -1,
+      "z": 0,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": -2,
+      "y": -1,
+      "z": 1,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": -2,
+      "y": -1,
+      "z": 2,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": -2,
+      "y": -1,
+      "z": 3,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": -2,
+      "y": -1,
+      "z": 4,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": -2,
+      "y": -1,
+      "z": 5,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": -5,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": -4,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": -3,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": -2,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": -1,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": 0,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": 1,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": 2,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": 3,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": 4,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": -1,
+      "y": -1,
+      "z": 5,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": 0,
+      "y": -1,
+      "z": -5,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": 0,
+      "y": -1,
+      "z": -4,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": 0,
+      "y": -1,
+      "z": -3,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": 0,
+      "y": -1,
+      "z": -2,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": 0,
+      "y": -1,
+      "z": -1,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": 0,
+      "y": -1,
+      "z": 0,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": 0,
+      "y": -1,
+      "z": 1,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": 0,
+      "y": -1,
+      "z": 2,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": 0,
+      "y": -1,
+      "z": 3,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": 0,
+      "y": -1,
+      "z": 4,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": 0,
+      "y": -1,
+      "z": 5,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": 1,
+      "y": -1,
+      "z": -5,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": 1,
+      "y": -1,
+      "z": -4,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": 1,
+      "y": -1,
+      "z": -3,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": 1,
+      "y": -1,
+      "z": -2,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": 1,
+      "y": -1,
+      "z": -1,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": 1,
+      "y": -1,
+      "z": 0,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": 1,
+      "y": -1,
+      "z": 1,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": 1,
+      "y": -1,
+      "z": 2,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": 1,
+      "y": -1,
+      "z": 3,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": 1,
+      "y": -1,
+      "z": 4,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": 1,
+      "y": -1,
+      "z": 5,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": 2,
+      "y": -1,
+      "z": -5,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": 2,
+      "y": -1,
+      "z": -4,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": 2,
+      "y": -1,
+      "z": -3,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": 2,
+      "y": -1,
+      "z": -2,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": 2,
+      "y": -1,
+      "z": -1,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": 2,
+      "y": -1,
+      "z": 0,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": 2,
+      "y": -1,
+      "z": 1,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": 2,
+      "y": -1,
+      "z": 2,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": 2,
+      "y": -1,
+      "z": 3,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": 2,
+      "y": -1,
+      "z": 4,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": 2,
+      "y": -1,
+      "z": 5,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": 3,
+      "y": -1,
+      "z": -5,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": 3,
+      "y": -1,
+      "z": -4,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": 3,
+      "y": -1,
+      "z": -3,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": 3,
+      "y": -1,
+      "z": -2,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": 3,
+      "y": -1,
+      "z": -1,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": 3,
+      "y": -1,
+      "z": 0,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": 3,
+      "y": -1,
+      "z": 1,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": 3,
+      "y": -1,
+      "z": 2,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": 3,
+      "y": -1,
+      "z": 3,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": 3,
+      "y": -1,
+      "z": 4,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": 3,
+      "y": -1,
+      "z": 5,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": 4,
+      "y": -1,
+      "z": -5,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": 4,
+      "y": -1,
+      "z": -4,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": 4,
+      "y": -1,
+      "z": -3,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": 4,
+      "y": -1,
+      "z": -2,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": 4,
+      "y": -1,
+      "z": -1,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": 4,
+      "y": -1,
+      "z": 0,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": 4,
+      "y": -1,
+      "z": 1,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": 4,
+      "y": -1,
+      "z": 2,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": 4,
+      "y": -1,
+      "z": 3,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": 4,
+      "y": -1,
+      "z": 4,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": 4,
+      "y": -1,
+      "z": 5,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": 5,
+      "y": -1,
+      "z": -5,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": 5,
+      "y": -1,
+      "z": -4,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": 5,
+      "y": -1,
+      "z": -3,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": 5,
+      "y": -1,
+      "z": -2,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": 5,
+      "y": -1,
+      "z": -1,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": 5,
+      "y": -1,
+      "z": 0,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": 5,
+      "y": -1,
+      "z": 1,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": 5,
+      "y": -1,
+      "z": 2,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": 5,
+      "y": -1,
+      "z": 3,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": 5,
+      "y": -1,
+      "z": 4,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": 5,
+      "y": -1,
+      "z": 5,
+      "name": "TFJ_Mud"
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": -3,
+      "name": "TFJ_Titanwood_Log"
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": -2,
+      "name": "TFJ_Roots"
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": -1,
+      "name": "TFJ_Titanwood_Log"
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": 0,
+      "name": "TFJ_Roots"
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": 1,
+      "name": "TFJ_Titanwood_Log"
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": 2,
+      "name": "TFJ_Roots"
+    },
+    {
+      "x": -5,
+      "y": 0,
+      "z": 3,
+      "name": "TFJ_Titanwood_Log"
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": -4,
+      "name": "TFJ_Titanwood_Log"
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": -3,
+      "name": "TFJ_Roots"
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": -2,
+      "name": "TFJ_Titanwood_Log"
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": -1,
+      "name": "TFJ_Roots"
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 0,
+      "name": "TFJ_Titanwood_Log"
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 1,
+      "name": "TFJ_Roots"
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 2,
+      "name": "TFJ_Titanwood_Log"
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 3,
+      "name": "TFJ_Roots"
+    },
+    {
+      "x": -4,
+      "y": 0,
+      "z": 4,
+      "name": "TFJ_Titanwood_Log"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -5,
+      "name": "TFJ_Titanwood_Log"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -4,
+      "name": "TFJ_Roots"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -3,
+      "name": "TFJ_Titanwood_Log"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -1,
+      "name": "TFJ_Leaf_Litter"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 0,
+      "name": "TFJ_Leaf_Litter"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 1,
+      "name": "TFJ_Leaf_Litter"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 3,
+      "name": "TFJ_Titanwood_Log"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 4,
+      "name": "TFJ_Roots"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 5,
+      "name": "TFJ_Titanwood_Log"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -5,
+      "name": "TFJ_Roots"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -4,
+      "name": "TFJ_Titanwood_Log"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -2,
+      "name": "TFJ_Leaf_Litter"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -1,
+      "name": "TFJ_Leaf_Litter"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 0,
+      "name": "TFJ_Leaf_Litter"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 1,
+      "name": "TFJ_Leaf_Litter"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 2,
+      "name": "TFJ_Leaf_Litter"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 4,
+      "name": "TFJ_Titanwood_Log"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 5,
+      "name": "TFJ_Roots"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -5,
+      "name": "TFJ_Titanwood_Log"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -4,
+      "name": "TFJ_Roots"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -3,
+      "name": "TFJ_Leaf_Litter"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -2,
+      "name": "TFJ_Leaf_Litter"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -1,
+      "name": "TFJ_Leaf_Litter"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 0,
+      "name": "TFJ_Leaf_Litter"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 1,
+      "name": "TFJ_Leaf_Litter"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 2,
+      "name": "TFJ_Leaf_Litter"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 3,
+      "name": "TFJ_Leaf_Litter"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 4,
+      "name": "TFJ_Roots"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 5,
+      "name": "TFJ_Titanwood_Log"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -5,
+      "name": "TFJ_Roots"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -4,
+      "name": "TFJ_Titanwood_Log"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -3,
+      "name": "TFJ_Leaf_Litter"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -2,
+      "name": "TFJ_Leaf_Litter"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -1,
+      "name": "TFJ_Leaf_Litter"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "name": "TFJ_Leaf_Litter"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 1,
+      "name": "TFJ_Leaf_Litter"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 2,
+      "name": "TFJ_Leaf_Litter"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 3,
+      "name": "TFJ_Leaf_Litter"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 4,
+      "name": "TFJ_Titanwood_Log"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 5,
+      "name": "TFJ_Roots"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -5,
+      "name": "TFJ_Titanwood_Log"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -4,
+      "name": "TFJ_Roots"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -3,
+      "name": "TFJ_Leaf_Litter"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -2,
+      "name": "TFJ_Leaf_Litter"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -1,
+      "name": "TFJ_Leaf_Litter"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 0,
+      "name": "TFJ_Leaf_Litter"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 1,
+      "name": "TFJ_Leaf_Litter"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 2,
+      "name": "TFJ_Leaf_Litter"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 3,
+      "name": "TFJ_Leaf_Litter"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 4,
+      "name": "TFJ_Roots"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 5,
+      "name": "TFJ_Titanwood_Log"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -5,
+      "name": "TFJ_Roots"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -4,
+      "name": "TFJ_Titanwood_Log"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -2,
+      "name": "TFJ_Leaf_Litter"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -1,
+      "name": "TFJ_Leaf_Litter"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 0,
+      "name": "TFJ_Leaf_Litter"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 1,
+      "name": "TFJ_Leaf_Litter"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 2,
+      "name": "TFJ_Leaf_Litter"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 4,
+      "name": "TFJ_Titanwood_Log"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 5,
+      "name": "TFJ_Roots"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -5,
+      "name": "TFJ_Titanwood_Log"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -4,
+      "name": "TFJ_Roots"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -3,
+      "name": "TFJ_Titanwood_Log"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -1,
+      "name": "TFJ_Leaf_Litter"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 0,
+      "name": "TFJ_Leaf_Litter"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 1,
+      "name": "TFJ_Leaf_Litter"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 3,
+      "name": "TFJ_Titanwood_Log"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 4,
+      "name": "TFJ_Roots"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 5,
+      "name": "TFJ_Titanwood_Log"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": -4,
+      "name": "TFJ_Titanwood_Log"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": -3,
+      "name": "TFJ_Roots"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": -2,
+      "name": "TFJ_Titanwood_Log"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": -1,
+      "name": "TFJ_Roots"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 0,
+      "name": "TFJ_Titanwood_Log"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 1,
+      "name": "TFJ_Roots"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 2,
+      "name": "TFJ_Titanwood_Log"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 3,
+      "name": "TFJ_Roots"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 4,
+      "name": "TFJ_Titanwood_Log"
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": -3,
+      "name": "TFJ_Titanwood_Log"
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": -2,
+      "name": "TFJ_Roots"
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": -1,
+      "name": "TFJ_Titanwood_Log"
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": 0,
+      "name": "TFJ_Roots"
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": 1,
+      "name": "TFJ_Titanwood_Log"
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": 2,
+      "name": "TFJ_Roots"
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": 3,
+      "name": "TFJ_Titanwood_Log"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 0,
+      "name": "TFJ_Bone_Block"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 1,
+      "name": "TFJ_Bone_Block"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -2,
+      "name": "TFJ_Giant_Fern"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 0,
+      "name": "TFJ_Bone_Block"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 0,
+      "name": "TFJ_Bone_Block"
+    }
+  ],
+  "entities": [
+    {
+      "Components": {
+        "Nameplate": {
+          "Text": "TFJ_Apex_Predator"
+        },
+        "HiddenFromAdventurePlayer": {},
+        "SpawnMarkerComponent": {
+          "SpawnMarker": "TFJ_Apex_Predator",
+          "RespawnTime": 90,
+          "SpawnCount": 1
+        },
+        "Transform": {
+          "Position": {
+            "X": 0,
+            "Y": 1,
+            "Z": 0
+          },
+          "Rotation": {
+            "Pitch": 0,
+            "Yaw": 0,
+            "Roll": 0
+          }
+        },
+        "Intangible": {},
+        "PrefabCopyable": {},
+        "Model": {
+          "Model": {
+            "Id": "NPC_Spawn_Marker",
+            "Scale": 1,
+            "Static": false
+          }
+        },
+        "UUID": {
+          "UUID": {
+            "$binary": "JbNng3YTUnmrw+NnmTJ68w==",
+            "$type": "04"
+          }
+        },
+        "HeadRotation": {
+          "Rotation": {
+            "Pitch": 0,
+            "Yaw": 0,
+            "Roll": 0
+          }
+        }
+      }
+    }
+  ]
+}
