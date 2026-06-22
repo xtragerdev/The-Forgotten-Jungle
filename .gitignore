@@ -1,0 +1,11 @@
+*.class
+*.log
+*.tmp
+*.bak
+build/
+out/
+target/
+_tmp*/
+*.jar
+!release/
+!release/*.jar
